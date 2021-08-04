@@ -1,0 +1,18 @@
+﻿#LINK,,,,,,,,,,,,,,,,,,
+#lang,ja,,,,,,,,,,,,,,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,,,,,,,,
+#attribution_name,越前市情報統計課,,,,,,,,,,,,,,,,,
+#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,,,,,,,,,
+#file_name,youchien,,,,,,,,,,,,,,,,,
+#download_from,http://linkdata.org/work/rdf1s1576i,,,,,,,,,,,,,,,,,
+#property,address,origin,category1,category2,category3,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,area,maininstitution,capacity,tel,open,acceptage,azukarihoiku,kyujitsuhoiku,shogaijihoiku,gaikokusekijihoiku,kyoikusoudan
+#object_type_xsd,string:ja,string:ja,string:ja,string:ja,string:ja,float,float,string:ja,string:ja,string,string,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja
+#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+武生西幼稚園,越前市中央二丁目2-13,教育振興課,子ども・子育て,幼稚園,幼稚園事業,35.9025706,136.1581421,西,市立,70,0778-22-0566,8:00～14:30,3歳・4歳・5歳,,,○,○,○
+吉野幼稚園,越前市本保町19-9-1,教育振興課,子ども・子育て,幼稚園,幼稚園事業,35.9255845,136.1585719,吉野,市立,105,0778-22-5541,8:00～14:30,3歳・4歳・5歳,,,○,○,○
+国高幼稚園,越前市国高二丁目319-3,教育振興課,子ども・子育て,幼稚園,幼稚園事業,35.9123647,136.1870559,国高,市立,175,0778-22-4555,8:00～14:30,3歳・4歳・5歳,,,○,○,○
+坂口幼稚園,越前市湯谷町24-25,教育振興課,子ども・子育て,幼稚園,幼稚園事業,35.8589351,136.0868953,坂口,市立,35,0778-28-1008,8:00～14:30,3歳・4歳・5歳,,,○,○,○
+王子保幼稚園,越前市今宿町5-14,教育振興課,子ども・子育て,幼稚園,幼稚園事業,35.8661114,136.1674812,王子保,市立,105,0778-22-7710,8:00～14:30,3歳・4歳・5歳,,,○,○,○
+丈生幼稚園,越前市京町三丁目3-5,教育振興課,子ども・子育て,幼稚園,幼稚園事業,35.9033484,136.1621306,西,(学),150,0778-22-0625,8:00～15:00,2歳・3歳・4歳・5歳,○～17:00,,○,○,○
+丈生神山幼稚園,越前市三ツ口町45,教育振興課,子ども・子育て,幼稚園,幼稚園事業,35.8879279,136.1589008,南,(学),180,0778-22-1397,8:00～15:00,2歳・3歳・4歳・5歳,○～17:00,,○,○,○
+恩恵幼稚園,越前市住吉町3-29,教育振興課,子ども・子育て,幼稚園,幼稚園事業,35.8990352,136.1689968,東,(学),90,0778-23-4720,8:00～15:00,2歳・3歳・4歳・5歳,○～16:30,,○,○,○

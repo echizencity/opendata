@@ -1,0 +1,14 @@
+﻿#LINK,,,,,,,,,,,
+#lang,ja,,,,,,,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,
+#attribution_name,越前市情報統計課,,,,,,,,,,
+#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,,
+#file_name,0204shichoubetsunenreibetsujinkou,,,,,,,,,,
+#download_from,http://linkdata.org/work/rdf1s2637i,,,,,,,,,,
+#property,名前,男総数(人),女総数(人),男(0～14歳),女(0～14歳),男(15～64歳),女(15～64歳),男(65～74歳),女(65～74歳),男(75歳以上),女(75歳以上)
+#object_type_xsd,string:ja,int,int,int,int,int,int,int,int,int,int
+#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+1,越前市,39725,41263,5493,5090,23659,22917,5526,5816,4676,7206
+2,鯖江市,33212,35282,5099,4862,19921,19875,4463,4829,3604,5619
+3,越前町,10035,10836,1298,1257,5719,5635,1662,1611,1350,2331
+4,南越前町,5031,5460,683,595,2812,2717,803,791,733,1357

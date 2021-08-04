@@ -1,0 +1,20 @@
+﻿#LINK,,,,,,,,,,
+#lang,ja,,,,,,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,
+#attribution_name,越前市情報統計課,,,,,,,,,
+#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,
+#file_name,0210jinkoudoutai_soukatsu,,,,,,,,,
+#download_from,http://linkdata.org/work/rdf1s2646i,,,,,,,,,
+#property,年次,自然増減総数(人),男(人),女(人),社会増減総数(人),男(人),女(人),増減数(人),婚姻(件),離婚(件)
+#object_type_xsd,string:ja,int,int,int,int,int,int,int,int,int
+#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+1,平成18年,-55,9,-64,-274,-132,-142,-329,455,151
+2,平成19年,-37,-39,2,-213,-93,-120,-250,394,119
+3,平成20年,-76,-23,-53,-682,-356,-326,-758,400,132
+4,平成21年,-35,-21,-14,-730,-414,-316,-765,374,106
+5,平成22年,-138,-79,-59,-44,75,-119,-182,325,120
+6,平成23年,-139,-47,-92,-161,-27,-134,-300,365,131
+7,平成24年,-284,-146,-138,-381,-268,-113,-665,,
+8,平成25年,-209,-119,-90,-416,-234,-182,-625,,
+9,平成26年,-246,-100,-146,-187,-112,-75,-433,,
+10,平成27年,-285,-136,-149,233,124,109,-52,,

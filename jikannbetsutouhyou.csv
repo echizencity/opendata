@@ -1,0 +1,22 @@
+﻿#LINK,,,,,,
+#lang,ja,,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,
+#attribution_name,越前市情報統計課,,,,,
+#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,
+#file_name,jikannbetsutouhyoujyoukyou,,,,,
+#download_from,http://linkdata.org/work/rdf1s1670i,,,,,
+#property,投票者数男,投票者数女,投票者数計,投票率男,投票率女,投票率計
+#object_type_xsd,string,string,string,string,string,string
+#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+午前９時,3036,2710,5746,0.0962,0.0804,0.088
+午前１０時,4789,4538,9327,0.1517,0.1346,0.1429
+午前１１時,6599,6558,13157,0.2091,0.1945,0.2015
+午後０時,8417,8540,16957,0.2667,0.2532,0.2597
+午後１時,9427,9658,19085,0.2987,0.2864,0.2923
+午後２時,10782,11151,21933,0.3416,0.3307,0.336
+午後３時,11865,12397,24262,0.3759,0.3676,0.3716
+午後４時,12876,13567,26443,0.4079,0.4023,0.405
+午後５時,13715,14597,28312,0.4345,0.4328,0.4337
+午後６時,14723,15702,30425,0.4665,0.4656,0.466
+午後７時,15584,16676,32260,0.4937,0.4945,0.4941
+期日前投票,3857,4213,8070,,　　,

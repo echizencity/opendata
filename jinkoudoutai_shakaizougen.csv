@@ -1,0 +1,20 @@
+﻿#LINK,,,,,,,,,,
+#lang,ja,,,,,,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,
+#attribution_name,越前市情報統計課,,,,,,,,,
+#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,
+#file_name,0210jinkoudoutai_shakaizougen,,,,,,,,,
+#download_from,http://linkdata.org/work/rdf1s2645i,,,,,,,,,
+#property,年次,転入総数(人),男(人),女(人),転出総数(人),男(人),女(人),社会増減総数(人),男(人),女(人)
+#object_type_xsd,string:ja,int,int,int,int,int,int,int,int,int
+#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+1,平成18年,2972,1566,1406,3246,1698,1548,-274,-132,-142
+2,平成19年,2801,1476,1325,3014,1569,1445,-213,-93,-120
+3,平成20年,2457,1319,1138,3139,1675,1464,-682,-356,-326
+4,平成21年,2440,1234,1206,3170,1648,1522,-730,-414,-316
+5,平成22年,2462,1337,1125,2506,1262,1244,-44,75,-119
+6,平成23年,2434,1324,1110,2595,1351,1244,-161,-27,-134
+7,平成24年,2547,1341,1206,2928,1609,1319,-381,-268,-113
+8,平成25年,2250,1181,1069,2666,1415,1251,-416,-234,-182
+9,平成26年,2428,1287,1141,2615,1399,1216,-187,-112,-75
+10,平成27年,2847,1527,1320,2614,1403,1211,233,124,109

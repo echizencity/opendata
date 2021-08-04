@@ -1,0 +1,29 @@
+﻿#LINK,,,
+#lang,ja,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,
+#attribution_name,越前市情報統計課,,
+#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,
+#file_name,0206shuruibetsusetaisu,,
+#download_from,http://linkdata.org/work/rdf1s2648i,,
+#property,項目,平成27年,平成22年
+#object_type_xsd,string:ja,float,float
+#property_context,	Assertion,	Assertion,	Assertion
+1,一般世帯総数,27843,27538
+2,1人の世帯,6749,5407
+3,2人の世帯 　　　,6866,6803
+4,3人の世帯　　　　,5219,5341
+5,4人の世帯　　　　,4444,4868
+6,5人の世帯　　　　,2328,2468
+7,6人の世帯　　　　,1372,1680
+8,7人の世帯　　　　,623,720
+9,8人の世帯　　　　,186,199
+10,9人の世帯　　　　,45,42
+11,10人以上の世帯,11,10
+12,世帯人員,80152,84042
+13,1世帯当り人員,2.88,3.05
+14,間借り・下宿などの単身者,112,107
+15,会社などの独身寮の単身者,447,588
+16,施設等の世帯総数,46,63
+17,寮・寄宿舎の学生、生徒,0,3
+18,病院・療養所への入院者,13,13
+19,社会施設の入所者,28,26

@@ -1,0 +1,26 @@
+﻿#LINK,,,,,,,,,
+#lang,ja,,,,,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,
+#attribution_name,越前市情報統計課,,,,,,,,
+#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,
+#file_name,koureikaritsu,,,,,,,,
+#download_from,http://linkdata.org/work/rdf1s1582i,,,,,,,,
+#property,number_of_households,man_population,woman_population,total_population,man_sixtyfive_over,woman_sixtyfive_over,total_sixtyfive_over,population_aging_rate,live_alone_sixtyfive_over
+#object_type_xsd,string,string,string,string,string,string,string,string,string
+#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+東,2320,2502,2745,5247,766,1143,1909,36.38%,492
+西,3404,3935,3961,7896,957,1362,2319,29.37%,474
+南,3899,4852,4889,9741,1146,1473,2619,26.89%,467
+神山,1191,1706,1728,3434,403,467,870,25.33%,125
+吉野,2862,3943,4025,7968,879,1085,1964,24.65%,310
+国高,4086,5510,5703,11213,1217,1557,2774,24.74%,418
+大虫,2205,3016,3049,6065,618,775,1393,22.97%,161
+坂口,139,202,219,421,77,92,169,40.14%,26
+王子保,2033,2834,2929,5763,702,888,1590,27.59%,284
+北新庄,828,1396,1413,2809,335,414,749,26.66%,67
+北日野,1528,2126,2332,4458,491,616,1107,24.83%,152
+味真野,1540,2276,2369,4645,646,782,1428,30.74%,211
+白山,543,788,863,1651,270,362,632,38.28%,69
+粟田部,1187,1732,1827,3559,480,642,1122,31.53%,132
+岡本,975,1552,1635,3187,463,605,1068,33.51%,124
+南中山,937,1564,1616,3180,497,574,1071,33.68%,101

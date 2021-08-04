@@ -1,0 +1,14 @@
+﻿#LINK,,,,,,,,,,,,,
+#lang,ja,,,,,,,,,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,,,
+#attribution_name,越前市情報統計課,,,,,,,,,,,,
+#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,,,,
+#file_name,0211shichoubetsujinkoudoutai,,,,,,,,,,,,
+#download_from,http://linkdata.org/work/rdf1s2636i,,,,,,,,,,,,
+#property,市町名,出生合計(人),男(人),女(人),死亡合計(人),男(人),女(人),転入合計(人),男(人),女(人),転出合計(人),男(人),女（人)
+#object_type_xsd,string:ja,int,int,int,int,int,int,int,int,int,int,int,int
+#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+1,越前市,624,321,303,954,483,471,3083,1661,1422,2629,1368,1261
+2,鯖江市,534,280,254,681,364,317,1978,1017,961,1771,902,869
+3,越前町,115,58,57,320,153,167,370,194,176,576,2733,303
+4,南越前町,60,25,35,185,85,100,208,99,109,231,110,121
