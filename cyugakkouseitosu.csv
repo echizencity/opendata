@@ -1,0 +1,15 @@
+﻿#LINK,http://linkdata.org/upload,,
+#file_name,cyugakkouseitosu,,
+#lang,ja,,
+#attribution_name,越前市情報統計課,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,
+#property,１年生,２年生,３年生
+#object_type_xsd,string:ja,string:ja,string:ja
+#property_context,assertion,assertion,assertion
+武生第一中学校,204,189,212
+武生第二中学校,142,154,152
+武生第二中学校・坂口分校,2,4,5
+武生第三中学校,118,117,103
+万葉中学校,110,135,126
+武生第五中学校 ,11,9,18
+武生第六中学校,63,61,57

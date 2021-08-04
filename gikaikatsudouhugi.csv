@@ -1,0 +1,18 @@
+﻿#LINK,,,,,,,,,,,,,,,
+#lang,ja,,,,,,,,,,,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,,,,,
+#attribution_name,越前市情報統計課,,,,,,,,,,,,,,
+#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,,,,,,
+#file_name,gikaikatsudouhugi,,,,,,,,,,,,,,
+#download_from,http://linkdata.org/work/rdf1s4377i,,,,,,,,,,,,,,
+#property,年,予算案（件）,条例案　市長提出（件）,条例案　議員提出（件）,議決案（件）,同意案（件）,認定案（件）,承認案（件）,諮問案（件）,推薦案（件）,意見書案（件）,請願（件）,決議案（件）,規則案（件）,その他（件）
+#object_type_xsd,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja
+#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+1,平成17年（武生市）,26,9,1,38,3,14,7,2,1,2,-,-,1,2
+2,平成17年（今立町）,30,65,-,31,1,2,6,-,-,2,-,-,-,4
+3,平成17年（10月～12月）,16,8,5,9,14,-,12,1,2,4,-,2,1,-
+4,平成18年,48,35,3,32,6,37,7,3,1,4,-,1,1,-
+5,平成19年,41,32,2,23,2,17,8,5,-,5,6,-,-,-
+6,平成20年,43,32,1,28,6,14,8,2,2,12,9,-,1,-
+7,平成21年,39,23,3,29,4,15,8,3,-,1,8,-,-,4
+8,平成22年,37,19,3,15,5,15,5,5,1,9,12,-,-,5

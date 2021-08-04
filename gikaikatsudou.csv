@@ -1,0 +1,24 @@
+﻿#LINK,,,,,,,,
+#lang,ja,,,,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,
+#attribution_name,越前市情報統計課,,,,,,,
+#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,
+#file_name,1212gikaikatsudou,,,,,,,
+#download_from,http://linkdata.org/work/rdf1s4376i,,,,,,,
+#property,年,会期日数（日）,本会議日数（日）,付議件数（件）,一般質問者数（人）,代表質問者数（人）,出席率（％）,傍聴者数（人）
+#object_type_xsd,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja
+#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+1,平成17年（武生市）,53,14,105,19,-,100,16
+2,平成17年（今立町）,22,7,141,2,-,99,35
+3,平成17年（10月～12月）,20,11,74,17,-,98,19
+4,平成18年,63,25,189,59,13,98.3,63
+5,平成19年,71,23,131,55,5,99.2,26
+6,平成20年,77,26,186,52,7,98.5,68
+7,平成21年,76,26,159,60,7,98.1,145
+8,平成22年,94,29,163,66,7,99.8,133
+9,平成23年,86,28,126,61,8,99.5,57
+10,平成24年,91,28,156,56,7,99.8,65
+11,平成25年,82,25,106,56,7,99.6,97
+12,平成26年,96,28,103,53,5,99.8,88
+13,平成27年,88,26,100,61,6,99.1,87
+14,平成28年,91,26,82,52,6,99.13,144

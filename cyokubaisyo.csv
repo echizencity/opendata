@@ -1,0 +1,19 @@
+﻿#LINK,,,,,
+#lang,ja,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,
+#attribution_name,越前市情報統計課,,,,
+#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,
+#file_name,cyokubaisyo,,,,
+#download_from,http://linkdata.org/work/rdf1s1662i,,,,
+#property,直売所住所,電話番号,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,地区
+#object_type_xsd,string:ja,string:ja,float,float,string
+#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+百姓の館　村国店,越前市村国二丁目１２－４１,0778-23-4170,35.905754,136.178938,国高
+百姓の館　南店,越前市文京一丁目５−２０,0778-23-3511,35.891771,136.160364,南
+百姓の館　シピィ店,越前市新町７－８－１,0778-21-1318,35.90436,136.152054,西
+白山ミート,越前市安養寺町１５７－６１,0778-29-2305,35.912881,136.062307,白山
+明城ファーム,越前市杉崎町７－１１,0778-42-7201,35.902561,136.209917,北新庄
+越前吉野ファーム,越前市家久町６３－１１－１,0778-22-3320,35.928547,136.162155,吉野
+コープ武生 みどり館,越前市塚町５６－２２－１,0778-24-1717,35.916651,136.190654,国高
+おかか市,越前市今宿町５−６－９　ＪＡ越前たけふ王子保支店前,0778-23-7604,35.866908,136.168199,王子保
+龍神市,越前市広瀬町１４２−１－１,0778-42-8680,35.890991,136.144195,神山
