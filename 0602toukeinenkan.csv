@@ -1,0 +1,16 @@
+﻿#LINK,http://linkdata.org/upload,,,
+#file_name,0602toukeinenkan,,,
+#lang,ja,,,
+#attribution_name,越前市情報統計課,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,
+#property,年,鯖江（台）,武生（台）,今庄（台）
+#object_type_xsd,string:other,string:other,string:other,string:other
+#property_context,assertion,assertion,assertion,assertion
+1,平成19年度,2049842,1857407,486373
+2,平成20年度,2007314,1787377,471893
+3,平成21年度,2103762,1758595,435222
+4,平成22年度,2211768,1783555,393949
+5,平成23年度,2277686,1861148,426220
+6,平成24年度,2380810,1887132,434555
+7,平成25年度,2456915,1935153,423048
+8,平成26年度,2305249,1875886,407153

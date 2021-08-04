@@ -1,0 +1,14 @@
+﻿#LINK,http://linkdata.org/upload,,,,,,,,,,,,,
+#file_name,1102toukeinenkan,,,,,,,,,,,,,
+#lang,ja,,,,,,,,,,,,,
+#attribution_name,越前市情報統計課,,,,,,,,,,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,,,,
+#property,年,出場件数（件）,火災(人),自然災害(人),水難(人),交通事故(人),労働災害(人),運動競技(人),一般負傷(人),加害(人),自損行為(人),急病(人),その他(人),合計(人)
+#object_type_xsd,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja
+#property_context,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion
+1,平成24年,"3,027",4,0,2,420,37,29,466,1,18,"1,679",284,"2,940"
+2,平成25年,"2,848",11,0,1,385,30,22,415,7,18,"1,629",266,"2,784"
+3,平成26年,"2,906",4,0,0,383,28,16,422,9,22,"1,674",282,"2,840"
+4,平成27年,"3,088",1,0,1,403,22,17,505,2,21,"1,678",299,"2,949"
+5,平成28年,"3,031",2,             ―,2,366,37,18,515,2,21,"1,638",318,"2,919"
+6,平成29年,"3,169",2,0,1,318,36,12,511,6,11,"1,838",307,"3,042"

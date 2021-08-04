@@ -1,0 +1,14 @@
+﻿#LINK,http://linkdata.org/upload,,,,,,,,,,,,,,,,,,
+#file_name,0221toukeinenkan,,,,,,,,,,,,,,,,,,
+#lang,ja,,,,,,,,,,,,,,,,,,
+#attribution_name,越前市情報統計課,,,,,,,,,,,,,,,,,,
+#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,,,,,,,,,
+#property,年,東(人),西(人),南(人),神山(人),吉野(人),国高(人),大虫(人),坂口(人),王子保(人),北新庄(人),北日野(人),味真野(人),白山(人),粟田部(人),岡本(人),南中山(人),服間(人),合計(人)
+#object_type_xsd,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other
+#property_context,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion
+1,平成25年,5495,"7,890",9850,3571,7667,10583,5990,464,6047,2881,4711,4838,1825,3753,3442,3428,2052,84487
+2,平成26年,5440,7607,9680,3516,7660,10723,5941,457,5994,2880,4656,4836,1774,3678,3398,3379,1998,83617
+3,平成27年,5380,7745,9774,3478,7656,10836,6059,441,5930,2835,4616,4804,1739,3653,3353,3344,1971,83614
+4,平成28年,5331,7869,9717,3463,7731,10939,5995,443,5899,2825,4573,4730,1695,3600,3295,3310,1951,83366
+5,平成29年,5266,7872,9603,3430,7860,10986,6009,430,5820,2816,4514,4709,1669,3594,3253,3232,1919,82982
+6,平成30年,5247,7896,9741,3434,7968,11213,6065,421,5763,2809,4458,4645,1651,3559,3187,3180,1885,83122
