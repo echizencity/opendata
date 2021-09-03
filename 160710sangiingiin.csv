@@ -1,12 +1,5 @@
-﻿#LINK,http://linkdata.org/upload,
-#file_name,160710echizenshisangiingiin,
-#lang,ja,
-#attribution_name,越前市情報統計課,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,
-#property,得票数,
-#object_type_xsd,string:other,
-#property_context,assertion,
-白川　やすゆき,"1,263",
-横山　たつひろ,"16,095",
-山崎　正昭,"19,890",
-得票数合計,"37,248",
+﻿https://schema.org/Person,https://code4fukui.github.io/rdf/#number_of_votes
+白川　やすゆき,"1,263"
+横山　たつひろ,"16,095"
+山崎　正昭,"19,890"
+得票数合計,"37,248"

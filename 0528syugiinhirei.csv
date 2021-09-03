@@ -1,16 +1,9 @@
-﻿#LINK,http://linkdata.org/upload
-#file_name,180524syugiinhirei
-#lang,ja
-#attribution_name,越前市情報統計課
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html
-#property,得票数
-#object_type_xsd,string:other
-#property_context,assertion
-公明党,"3,195 "
-日本維新の会,"1,509 "
-幸福実現党,549 
-社会民主党,460 
-自由民主党,"15,182 "
-希望の党,"8,787 "
-日本共産党,"1,891 "
-立憲民主党,"6,126 "
+﻿https://code4fukui.github.io/rdf/#name_of_PoliticalParty,https://code4fukui.github.io/rdf/#number_of_votes
+公明党,"3,195"
+日本維新の会,"1,509"
+幸福実現党,549
+社会民主党,460
+自由民主党,"15,182"
+希望の党,"8,787"
+日本共産党,"1,891"
+立憲民主党,"6,126"

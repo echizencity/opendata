@@ -1,13 +1,4 @@
-﻿#LINK,,
-#lang,ja,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,
-#attribution_name,越前市情報統計課,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,
-#file_name,echizenshigikaiiinippansenkyo,
-#download_from,http://linkdata.org/work/rdf1s1670i,
-#property,得票数,備考
-#object_type_xsd,string,string:ja
-#property_context,	Assertion,	Assertion
+﻿https://schema.org/Person,https://code4fukui.github.io/rdf/#number_of_votes,https://schema.org/Comment
 吉田けいぞう,2899,当選
 清水かずあき,2774,当選
 ささき富基,2715.396,当選

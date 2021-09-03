@@ -1,13 +1,4 @@
-﻿#LINK,,,,,
-#lang,ja,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,
-#attribution_name,越前市情報統計課,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,
-#file_name,gaisyutsushien,,,,
-#download_from,http://linkdata.org/work/rdf1s1708i,,,,
-#property,住所,電話番号,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,地区
-#object_type_xsd,string:ja,string:ja,float,float,string:ja
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/address,https://schema.org/telephone,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#echizen_city_area
 (有)あいぜん　　　　　　　　　　　　　　　　　,越前市広瀬町131-23,21-1782,35.88728,136.1433,白山
 武生タクシー(株） 　,越前市府中１丁目12-29,22-0012,35.90364,136.1699,東
 小松タクシー（有）,越前市小松１丁目4-7,22-0585,35.9038,136.1568,西

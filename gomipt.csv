@@ -1,457 +1,448 @@
-﻿#LINK,,,,,,,
-#lang,ja,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,
-#attribution_name,越前市情報統計課,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,
-#file_name,gomipt,,,,,,
-#download_from,http://linkdata.org/work/rdf1s1578i,,,,,,
-#property,行,音,ごみの種類,区分,収集に出す際の条件等,分類,
-#object_type_xsd,string:si,string:si,string:si,string:si,string:si,string:si,
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,
-1,abc,c,compressas frias,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-2,def,f,ferro de passar,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-3,jkl,l,lata vazia (alimentos e bebidas),Latas Vazias (AKIKAN),"Esvazie totalmente as latas e lave o interior com água. As latas maiores do que meia lata de 18 litros devem ser descartadas no ""lixo de grande porte"".   As latas que não continham alimentos ou bebidas devem ser descartadas no ""lixo não-queimável"".  As tampas de latas são ""lixo não-queimável"". As tampas que não foram retiradas totalmente devem ser descartada com a lata.  As tampas de latas de doce também devem ser descartadas como ""lata vazia"".",Alimentos,
-4,jkl,l,"lata vazia (exceto, alimentos e bebidas)",Lixo Não-Combustível (MOYASENAI),"Latas de cera ou tinta, cofrinho, porta-joia, etc. (utilize o conteúdo por completo). ※Latas grandes devem ser descartadas no ""lixo de grande porte"".",Artigos de uso diario,
-5,ghi,g,garrafa vazia (alimentos e bebidas),Garrafas Vazias (AKIBIN),"Retire a tampa, lave o interior e descarte nas cestas separadas por cor.  Tampa de metal : Descarte no ""lixo não-combustível"".  Tampa de plástico : Descarte no lixo de ""plástico reciclável"".",Alimentos,
-6,ghi,g,"garrafa vazia (exceto, alimentos e bebidas)",Lixo Não-Combustível (MOYASENAI),"Vidros de cosméticos, porta-joia, perfume e medicamentos (cremes etc., exceto vidros de medicamentos por via oral)  Se a tampa for de plástico, descarte no lixo de ""Plástico Reciclável"".",Artigos de uso diario,
-7,pqrs,r,recipiente (vidro) de alga (nori) temperada,Garrafas Vazias (AKIBIN),"Retire a tampa, lave o interior e descarte nas cestas separadas por cor.  Se a tampa for de plástico, descarte no lixo de ""Plástico Reciclável"".",Alimentos,
-8,pqrs,r,recipiente (plástico) de alga (nori) temperada,Plástico Reciclável (PURA),,Alimentos,
-9,abc,a,asfalto,Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 0778-28-1370.",Moradia,
-10,abc,a,asbesto (amianto),Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 0778-28-1370.",Moradia,
-11,def,f,folha de cercado para canteiros.,Não Coletado,Consulte a cooperativa agrícola.,"Jardinagem,Agricultura",
-12,ghi,g,garrafa de óleo (alimentos e bebidas),Garrafas Vazias (AKIBIN),"Retire a tampa, lave o interior e descarte nas cestas separadas por cor.  As tampas de metal, descarte no ""Lixo Não-Combustível"".  As tampas de plástico, descarte no lixo de ""Plástico Reciclável"".",Alimentos,
-13,abc,c,capa de chuva,Lixo Não-Combustível (MOYASENAI),,Roupas,
-14,pqrs,r,rede (indústria pesqueira),Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 0778-28-1370.","Jardinagem,Agricultura",
-15,pqrs,r,rede (coleta de insetos e de pesca),Lixo Não-Combustível (MOYASENAI),,Lazer,
-16,abc,a,álbuns (fotos),Lixo Combustível (MOYASERU),,Artigos de uso diario,
-17,def,f,folha de alumínio,Lixo Não-Combustível (MOYASENAI),"Remova a sujeira e descarte no ""lixo não-combustível"".",Alimentos,
-18,def,e,esquadria de alumínio,Lixos de Grande Porte (SODAI GOMI),Descarte depois de cortar em pedaços menores que 180 cm de comprimento.,Moradia,
-19,abc,b,braseira ou botija para aquecer os pés,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Artigos de uso diario,
-20,abc,a,antena,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Aparelhos eletricos,
-21,abc,c,cadeira,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-22,mno,m,monociclo,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-23,ghi,g,"garrafa sho (geralmente de sake. Aprox. 1,8L)",Coletado pelo revendedor,"Consulte o revendedor. Garrafas quebradas devem ser descartadas em ""garrafas vazias"". Garrafas de cores desconhecida devem ser descartadas no ""lixo não-combustível"".",Alimentos,
-24,jkl,l,lata de 18 litros (somente de  uso doméstico),Lixos de Grande Porte (SODAI GOMI),,Alimentos,
-25,abc,c,cão morto,Não Coletado,"Entre em contato com o centro de limpeza, tel: 0778-28-1370.",Animais,
-26,tuv,t,tábua memorial,Não Coletado,Consulte o templo,Outros,
-27,def,f,fone de ouvido,Lixo Não-Combustível (MOYASENAI),,Aparelhos eletricos,
-28,pqrs,r,resíduos hospitalar,Não Coletado,"Devolva para a instituição médica ou solicite o descarte a uma empresa especializada. Os resíduos de objetos de tratamento médico doméstico, não aguçados e não contagioso podem ser descartadas no ""lixo combustível"".",Hospitalar,
-29,pqrs,r,roupas,Lixo Combustível (MOYASERU),Descarte após cortar em pedaços de menos de 1 metro de comprimento.,Roupas,
-30,abc,c,caixinha de bebidas (sucos),Lixo Combustível (MOYASERU),"Mesmo aqueles que tiverem revestimento interno de alumínio devem ser descartados no ""lixo combustível"".",Alimentos,
-31,tuv,v,vaso de flor (cerâmica),Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".","Jardinagem,Agricultura",
-32,tuv,v,vaso de flor (plástico),Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".","Jardinagem,Agricultura",
-33,abc,b,boias e similares,Lixo Não-Combustível (MOYASENAI),Descarte após esvaziar o ar.,Lazer,
-34,pqrs,r,relógio de pulso,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-35,abc,c,carrinho para bebê,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario,
-36,abc,a,ar condicionado,Coletado pelo revendedor,Leve o revendedor. O descarte pode também ser solicitado a uma empresa de transporte de resíduos. ※É necessário pagar taxa de reciclagem.,Aparelhos eletricos,
-37,mno,m,"MD, CD, LD e DVD",Lixo Não-Combustível (MOYASENAI),"A caixa também deve ser descartada no ""lixo não combustível"".",Aparelhos eletricos,
-38,def,e,electone (órgão eletrônico da empresa Yamaha),Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Lazer,
-39,mno,o,óleo do motor,Não Coletado,Consulte o revendedor ou posto de gasolina.,Veiculos,
-40,tuv,t,tubo de PVC (somente de uso doméstico),Lixo Não-Combustível (MOYASENAI),Descarte após cortar em pedaços de menos de 30 cm de comprimento.,Moradia,
-41,abc,c,conjunto da sala de visitas,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-42,mno,m,motocicleta,Não Coletado,Leve ao revendedor ou solicite o descarte a uma empresa especializada.,Veiculos,
-43,def,f,forno microondas,Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos,
-44,def,f,forno torradeira,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-45,mno,m,machado,Lixos de Grande Porte (SODAI GOMI),"A machadinha (ferramenta usada para cortar lenha) também deve ser descartada no ""lixo de grande porte"".","Jardinagem,Agricultura",
-46,abc,b,brinquedos,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Artigos de uso diario,
-47,,,,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",,
-48,mno,o,órgãos,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Lazer,
-49,abc,a,aparelho aquecedor de água,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Aparelhos eletricos,
-50,abc,c,cortina,Lixos de Grande Porte (SODAI GOMI),"No entanto, as cortinas de tecido podem ser cortadas em pedaços de até 1 metro quadrado e descartadas no ""lixo combustível"".",Moradia,
-51,abc,c,cartão,Lixo Não-Combustível (MOYASENAI),"Cartões de crédito, etc.",Outros,
-52,tuv,t,tapete,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-53,pqrs,p,papel carbono,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-54,abc,c,conchas,Lixo Combustível (MOYASERU),,Alimentos,
-55,jkl,l,lanterna,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-56,jkl,k,kairo (descartável),Lixo Não-Combustível (MOYASENAI),"Devido o risco de provocar a ignição espontânea, não descarte o kairo não-utilizado (sem uso).   A embalagem de plástico deve ser descartada no lixo de ""plástico reciclável"".",Artigos de uso diario,
-57,pqrs,p,produtos químicos,Não Coletado,Consulte o revendedor.,Artigos de uso diario,
-58,def,e,espelho,Lixo Não-Combustível (MOYASENAI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Moradia,
-59,mno,m,móveis,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-60,ghi,g,guarda-chuva,Lixo Não-Combustível (MOYASENAI),E possível que parte do objeto fique fora do saco de lixo.,Artigos de uso diario,
-61,pqrs,r,resíduos de incêndios,Não Coletado,Consulte uma empresa especializada em demolições.,Moradia,
-62,tuv,u,umidificador,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-63,abc,c,caixa de doces (papel),Coleta de Papeis Velhos,Desmanche e dobre a caixa e descarte como [revistas e similares] no dia de coleta de papeis velhos para reciclagem.,Alimentos,
-64,jkl,l,lata de doces (metal),Latas Vazias (AKIKAN),Somente latas menores que o tamanho de meia lata de 18 litros.,Alimentos,
-65,pqrs,s,saquinho de doces (plástico),Plástico Reciclável (PURA),Esvazie totalmente e descarte após lavar o interior com água.,Alimentos,
-66,pqrs,s,saquinho de doces (papel),Coleta de Papeis Velhos,"Desmanche e dobre a caixa, e descarte como [revistas e similares] no dia de ""coleta de papeis velhos"" para reciclagem.",Alimentos,
-67,def,f,fogão,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-68,abc,b,botijão de gás,Não Coletado,Devolva ou solicite o descarte ao revendedor de gás.,Moradia,
-69,def,f,fogão a gás,Lixos de Grande Porte (SODAI GOMI),"Remova as pilhas sem falta. As pilhas devem ser descartadas no ""lixo tóxico"".",Moradia,
-70,abc,c,cartucho de gás de fogão portátil,"Sprays, cilindros e similares",Para o descarte esvazie todo o conteúdo ao ar livre onde não há fogo .,Lazer,
-71,def,f,fogão a gás portátil,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho são menores que um quadrado de 30 cm podem ser descartados como ""lixo não-combustível"". Maiores que o tamanho citado devem ser descartados no ""lixo de grande porte"".",Lazer,
-72,def,f,fita cassete,Lixo Combustível (MOYASERU),"As caixas de plástico devem ser descartadas no ""lixo não-combustívell"". As de papel no dia de ""coleta de papeis velhos"" para reciclagem.",Aparelhos eletricos,
-73,ghi,i,instrumentos musicais,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Lazer,
-74,def,e,estilete,Lixo Não-Combustível (MOYASENAI),"Enrole fita crepe ou panos na parte afiada, e escreva [はもの] no saco de lixo.",Artigos de uso diario,
-75,abc,c,capa (chuva),Lixo Não-Combustível (MOYASENAI),,Roupas,
-76,pqrs,r,recipientes de macarrão instantâneo,Plástico Reciclável (PURA),"Se for de papel, descarte no ""lixo combustível"" . O filme da embalagem deve ser descartado no ""lixo de plástico reciclável"".",Alimentos,
-77,tuv,v,vaso,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Artigos de uso diario,
-78,def,f,foice,Lixo Não-Combustível (MOYASENAI),"Enrole fita crepe ou panos na parte afiada, e escreva [はもの] no saco de lixo.","Jardinagem,Agricultura",
-79,abc,c,caldeirão,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Alimentos,
-80,def,f,fralda descartável,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-81,abc,c,copo e prato de papel,Lixo Combustível (MOYASERU),,Alimentos,
-82,mno,n,navalha,Lixo Não-Combustível (MOYASENAI),"Enrole fita crepe ou panos na parte afiada, e escreva [はもの] no saco de lixo.",Artigos de uso diario,
-83,pqrs,s,saco de papel,Coleta de Papeis Velhos,Junte com as revistas e amarre.,Artigos de uso diario,
-84,def,f,fita crepe,Lixo Combustível (MOYASERU),"Se for de pano ou papel, descarte no ""lixo combustivel"". De outros materiais, descarte no ""lixo não combustível"".",Artigos de uso diario,
-85,abc,c,câmera,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-86,pqrs,p,pólvora,Não Coletado,Consulte uma loja especializada em pólvoras.,Outros,
-87,def,e,estante simples colorida,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-88,tuv,v,vidro,Lixo Não-Combustível (MOYASENAI),"Embrulhe com jornal e escreva [ガラス] no saco de lixo. As garrafas de vidro de bebidas devem ser descartadas nas cestas de ""garrafas vazias"" separadas por cor.",Moradia,
-89,abc,c,calendário,Coleta de Papeis Velhos,"Junte com as revistas e amarre. A parte de metal deve ser removida e descartada no ""lixo não-combustível"".",Artigos de uso diario,
-90,abc,c,couro,Lixo Não-Combustível (MOYASENAI),"Sapatos, bolsas e similares.",Roupas,
-91,tuv,t,telha (pequenas quantidades de uso doméstico),Leve diretamente ao Centro de Limpeza,"Somente em pequenas quantidades. Caso haja em grande quantidade, solicite o descarte a uma empresa especializada.",Moradia,
-92,def,e,exaustor,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Moradia,
-93,pqrs,s,secador (roupas),Coletado pelo revendedor,"Leve ao revendedor. É possível solicitar o descarte a uma empresa de transportes (a partir de abril de 2009). No entanto, é necessário pagar a taxa de reciclagem.",Aparelhos eletricos,
-94,def,d,dessecantes (alimentos),Lixo Não-Combustível (MOYASENAI),"Se for de papel, descarte no ""lixo combustível"" .",Alimentos,
-95,def,e,enema ou clister,Lixo Combustível (MOYASERU),Incinerar devido a questões higiênicas (esvaziar completamente o conteúdo).,Hospitalar,
-96,pqrs,p,pilhas,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos,
-97,pqrs,p,"pilhas (recarregáveis, tipo botão)",Coletado pelo revendedor,,Aparelhos eletricos,
-98,pqrs,p,papel térmico,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-99,abc,b,bomba de querosene,Lixo Não-Combustível (MOYASENAI),"Remova as pilhas sem falta. As pilhas devem ser descartadas no ""lixo tóxico"".",Artigos de uso diario,
-100,abc,c,caixa de leite,Coletado pelo revendedor/  Coleta de Papeis Velhos,"Corte e abra a caixa e leve ao revendedor ou descarte no dia de ""coleta de papeis velhos"" para reciclagem.",Alimentos,
-101,abc,b,borrifador,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-102,pqrs,p,papel alumínio,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-103,abc,a,aquario redondo,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Lazer,
-104,abc,c,cofre,Lixos de Grande Porte (SODAI GOMI),"Aqueles de uso doméstico (que podem ser carregados por 2 pessoas) podem ser descartados no ""lixo de grande porte"". Exceto o citado, solicite a coleta a uma empresa especializada.",Moradia,
-105,abc,b,bomba para câmara de ar (bicicleta),Lixo Não-Combustível (MOYASENAI),"Descarte no ""lixo não-combustível"".",Lazer,
-106,pqrs,p,prego,Lixo Não-Combustível (MOYASENAI),Junte e enrole a ponta com fita adesiva para não espete e descarte.,Moradia,
-107,def,e,erva daninha,Lixo Combustível (MOYASERU),"O barro e a terra devem ser totalmente removidos. Em grandes quantidades, leve diretamente ao centro de limpeza.","Jardinagem,Agricultura",
-108,abc,c,cortadores de capim,Lixos de Grande Porte (SODAI GOMI),"Para prevenir incêndios, utilizar completamente o combustível.","Jardinagem,Agricultura",
-109,pqrs,p,pente,Lixo Não-Combustível (MOYASENAI),"Aqueles feito de madeira devem ser descartados no ""lixo combustível"".",Artigos de uso diario,
-110,def,f,"frasco de medicamentos (via oral)  comprimidos, granulados ou líquidos",Garrafas Vazias (AKIBIN),,Hospitalar,
-111,def,f,frasco de medicamentos (exceto via oral) de aplicação externa e tônico capilar,Lixo Não-Combustível (MOYASENAI),Descarte após esvaziá-lo completamente.,Hospitalar,
-112,def,f,frasco de inseticidas (pesticidas e produtos químicos),Coletado pelo revendedor,Consulte o revendedor.,"Jardinagem,Agricultura",
-113,abc,c,cartela de medicamentos (cápsulas),Plástico Reciclável (PURA),,Hospitalar,
-114,pqrs,s,sapatos e tênis,Lixo Não-Combustível (MOYASENAI),,Roupas,
-115,mno,m,meias,Lixo Combustível (MOYASERU),,Roupas,
-116,abc,a,almofadas,Lixo Combustível (MOYASERU),Até do tamanho do saco de lixo especifico.,Moradia,
-117,abc,c,copo de vidro,Lixo Não-Combustível (MOYASENAI),,Alimentos,
-118,pqrs,s,saco de plástico da lavanderia,Plástico Reciclável (PURA),,Roupas,
-119,abc,c,clipes,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-120,abc,c,cadeira de rodas,Lixos de Grande Porte (SODAI GOMI),,Hospitalar,
-121,ghi,g,giz de cera e similares,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-122,jkl,l,luvas (beisebol),Lixo Não-Combustível (MOYASENAI),,Lazer,
-123,abc,c,caixa térmica,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-124,jkl,l,lâmpada fluorescente,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos,
-125,abc,c,calculadora,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-126,abc,c,celular,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Coletado pelo revendedor,,Aparelhos eletricos,
-127,ghi,g,garrafa de vidro de cosmético,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-128,pqrs,s,sandália japonesa (GUETA),Lixo Combustível (MOYASERU),,Roupas,
-129,def,f,frasco de ketchup,Plástico Reciclável (PURA),Lave completamente o interior antes de descartar. Os frascos de maionese também devem ser lavados da mesma forma.,Alimentos,
-130,abc,a,aparelho da pressão ou esfigmomamômetro,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Os aparelhos doméstico que contém mercúrio devem ser levados diretamente ao centro de limpeza (é necessário pagar taxa extra).Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Hospitalar,
-131,pqrs,p,plástico duro,Lixo Não-Combustível (MOYASENAI),"Lixos pesados como a bola de boliche, etc. devem levados diretamente ao centro de limpeza., tel:28-1370.",Artigos de uso diario,
-132,def,f,ferramentas,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Artigos de uso diario,
-133,ghi,g,goggles (óculos),Lixo Não-Combustível (MOYASENAI),,Lazer,
-134,def,f,folheto de anúncios,Coleta de Papeis Velhos,,Artigos de uso diario,
-135,tuv,v,vidro de perfume,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-136,abc,c,casaco,Lixo Combustível (MOYASERU),Descarte após cortar em pedaços de menos de 1 metro de comprimento.,Roupas,
-137,abc,c,cafeteira,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-138,pqrs,s,sabão em barra,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-139,def,e,esteira-manta,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-140,mno,m,mesinha kotatsu (armação e tábua),Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos,
-141,def,f,fezes de aves,Lixo Combustível (MOYASERU),,Animais,
-142,tuv,t,tapete de borracha,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Moradia,
-143,abc,b,bolsa de golfe,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-144,abc,c,concreto (inclui blocos de concreto),Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 28-1370. Blocos de concreto usado como suporte do varal podem ser levados diretamente ao centro de limpeza.",Moradia,
-145,pqrs,p,preservativo,Lixo Combustível (MOYASERU),"Por questões relacionadas à higiene, é um lixo com permissão especial para ser incinerado.",Hospitalar,
-146,abc,c,cadeira sem pernas,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-147,abc,c,caneta de ponta de feltro (sain-pen),Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-148,abc,c,caixa de saquê,Coletado pelo revendedor,,Alimentos,
-149,pqrs,r,revistas,Coleta de Papeis Velhos,,Artigos de uso diario,
-150,abc,a,almofadas,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-151,abc,c,cestos,Lixo Não-Combustível (MOYASENAI),"Os cestos feito de bambu devem ser descartados no ""lixo combustível"".",Alimentos,
-152,tuv,t,tripé,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-153,tuv,t,triciclo,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-154,abc,c,"CD, LD, MD, DVD",Lixo Não-Combustível (MOYASENAI),"As caixas também podem ser descartadas no ""lixo não combustível"".",Aparelhos eletricos,
-155,abc,c,CD e LD player,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-156,abc,a,adesivo,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-157,abc,b,barbeador elétrico,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-158,ghi,í,ímã,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-159,def,e,emplasto ou cataplasma,Lixo Combustível (MOYASERU),"Por questões relacionadas à higiene, é um lixo com permissão especial para ser incinerado.",Hospitalar,
-160,abc,b,bicicleta,Lixos de Grande Porte (SODAI GOMI),,Veiculos,
-161,def,e,espada de bambu,Lixo Combustível (MOYASERU),"Corte em pedaços de 50 cm e descarte. Se for descartar sem cortar, descarte no ""lixo de grande porte"".",Lazer,
-162,def,f,fotos,Lixo Combustível (MOYASERU),"Os negativos das fotos devem ser descartados no ""lixo não combustível"".",Lazer,
-163,abc,c,câmeras,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Lazer,
-164,def,f,frasco de shampoo,Plástico Reciclável (PURA),"Esvazie completamente o conteúdo, lave o interior e descarte. Retire a bombinha e descarte.",Artigos de uso diario,
-165,mno,m,máquina de fazer sucos,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Menores de 30 cm quadrados descarte no ""lixo não combustível"". Tamanho maiores, descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-166,abc,c,caixas de suco de papel,Lixo Combustível (MOYASERU),"Mesmo aqueles que tiverem revestimento interno de alumínio devem ser descartados no ""lixo combustível"".",Alimentos,
-167,tuv,t,tapete,Lixos de Grande Porte (SODAI GOMI),Dobre até o menor tamanho que puder e amarre com corda.,Moradia,
-168,abc,b,bala (arma de fogo),Não Coletado,Consulte o revendedor ou uma empresa especializada.,Lazer,
-169,pqrs,p,pistola ou arma de fogo,Não Coletado,Consulte o revendedor ou uma empresa especializada.,Lazer,
-170,abc,b,baterias recarregáveis,Coletado pelo revendedor,"As baterias usadas devem ser colocadas dentro da caixa de reciclagem das lojas colaboradoras da reciclagem (lojas de eletroeletrônicas, home center, etc.)",Aparelhos eletricos,
-171,abc,c,carregador de baterias,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-172,jkl,l,lixo do picotador de papeis,Lixo Combustível (MOYASERU),,Outros,
-173,def,e,extintor de incêndio,Não Coletado,Consulte o revendedor ou uma empresa especializada.,Moradia,
-174,abc,c,cinzas da incineração,Consultar um empresa de tratamento,A incineração doméstica é proibida por lei.,Outros,
-175,jkl,j,janela corrediça com papel,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos de até 180 cm. Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-176,pqrs,r,recipiente de comprimidos,Plástico Reciclável (PURA),"Os recipientes de vidro devem ser descartados no ""lixo não combustível"".",Hospitalar,
-177,abc,c,caixa de desumidificação ou dessecantes,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-178,ghi,g,guarda-louça,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-179,abc,a,ânus artificial,Lixo Combustível (MOYASERU),,Hospitalar,
-180,pqrs,s,sinalizadores,Não Coletado,"Os usados devem ser descartados no ""lixo não queimável"".",Veiculos,
-181,jkl,j,jornal,Coleta de Papeis Velhos,,Artigos de uso diario,
-182,abc,a,aquário,Lixos de Grande Porte (SODAI GOMI),,Animais,
-183,mno,o,óculos de natação,Lixo Não-Combustível (MOYASENAI),,Lazer,
-184,ghi,g,garrafa térmica,Lixo Não-Combustível (MOYASENAI),,Alimentos,
-185,pqrs,p,panela elétrica de arroz,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-186,mno,m,mala,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario,
-187,pqrs,p,prancha de esqui,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-188,pqrs,r,roupas de esqui,Lixo Não-Combustível (MOYASENAI),,Lazer,
-189,pqrs,s,sapatos de esqui,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-190,pqrs,p,pá,Lixos de Grande Porte (SODAI GOMI),"As pás de menos de 20 cm devem ser descartados no ""lixo não combustível"".","Jardinagem,Agricultura",
-191,def,e,etiqueta autocolante,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-192,abc,a,aparelho de som,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-193,abc,a,aquecedor,Lixos de Grande Porte (SODAI GOMI),"Esvazie o reservatório de querosene e as pilhas devem ser descartadas no ""lixo tóxico"".",Moradia,
-194,abc,b,bastão de esqui,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-195,mno,m,meia-calça,Lixo Combustível (MOYASERU),,Roupas,
-196,abc,c,canudinho,Lixo Não-Combustível (MOYASENAI),"Descarte o saquinho no ""lixo combustível"" se for de papel e no ""lixo de plástico reciclável"" se for de plástico.",Alimentos,
-197,tuv,t,tênis,Lixo Não-Combustível (MOYASENAI),,Roupas,
-198,pqrs,p,pá para tirar e carregar neve,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario,
-199,pqrs,p,prancha para snowboard,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-200,abc,c,caixa de som,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Lazer,
-201,abc,c,"colher, garfo",Lixo Não-Combustível (MOYASENAI),,Alimentos,
-202,abc,c,colchão de molas,Leve diretamente ao Centro de Limpeza,"É necessário taxa extra. Não pode ser descartado no ""lixo de grande porte"".",Moradia,
-203,jkl,l,lata de spray,"Sprays, cilindros e similares",Para o descarte esvazie todo o conteúdo ao ar livre onde não há fogo .,Artigos de uso diario,
-204,def,e,esponja,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-205,abc,c,chinelos surippa,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-206,abc,a,ardósia (telhados),Leve diretamente ao Centro de Limpeza,"Mas, exceto os resíduos de ardósia demolidos por empresas. Somente pequenas quantidades. Deve ter menos de 180 cm.",Moradia,
-207,abc,a,absorventes femininos,Lixo Combustível (MOYASERU),Incinerar por questões higiênicas.,Hospitalar,
-208,abc,a,amianto,Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 28-1370.",Moradia,
-209,pqrs,p,porcelanas,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Alimentos,
-210,abc,c,cimento,Leve diretamente ao Centro de Limpeza,Somente quando usados em residências (pequenas quantidades).,Moradia,
-211,def,f,fita adesiva (durex),Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-212,def,f,frasco de detergente (com bomba),Plástico Reciclável (PURA),"Esvazie completamente o conteúdo, lave o interior e descarte. Retire a bombinha e descarte no ""lixo de plástico reciclável"".",Artigos de uso diario,
-213,abc,c,caixa de sabão em pó (papel),Lixo Combustível (MOYASERU),"A alça e a colher de medição devem ser descartados no ""lixo não combustível"".",Artigos de uso diario,
-214,mno,m,máquina de lavar,Coletado pelo revendedor,Leve ao revendedor. É possível solicitar o descarte a uma empresa de transportes de resíduos. É  necessário pagar a taxa de reciclagem.,Aparelhos eletricos,
-215,pqrs,p,prendedores de roupa,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-216,ghi,g,galho de podas (árvores),Lixo Combustível (MOYASERU),"Corte em pedaços de até 5 cm de largura e até 50 cm de comprimento, coloque no saco de lixo determinado e descarte (é permitido amarrar em feixes).","Jardinagem,Agricultura",
-217,ghi,g,galho de podas (árvores) [Grande quantidades],Leve diretamente ao Centro de Limpeza,"Caso a quantidade seja grande, corte em pedaços de até 5 cm de largura e até 50 cm de comprimento,  e leve diretamente ao centro de limpeza No. 1.","Jardinagem,Agricultura",
-218,tuv,t,tesouras de poda,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".","Jardinagem,Agricultura",
-219,tuv,v,ventilador,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-220,abc,b,binóculos,Lixo Não-Combustível (MOYASENAI),,Lazer,
-221,abc,a,aspirador de pó,Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos,
-222,abc,a,sandálias,Lixo Não-Combustível (MOYASENAI),,Roupas,
-223,pqrs,s,sofá,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-224,tuv,t,trenó,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-225,tuv,t,termômetro (mercúrio),Lixo Tóxico (YUGAI GOMI),"Descarte termômetros digitais no ""lixo não combustível"", as pilhas devem ser retiradas e descartadas no ""lixo tóxico"" ou leve até às caixas de coleta do revendedor.",Hospitalar,
-226,tuv,t,Termomêtro (elétron),Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",,
-227,abc,b,balança de gordura corporal,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Hospitalar,
-228,abc,b,balança de peso corporal,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Hospitalar,
-229,abc,c,carrinho,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario,
-230,pqrs,p,pneu,Leve diretamente ao Centro de Limpeza,"Consulte a cooperativa de limpeza. Se possível, solicite o descarte a uma empresa especializada. Não pode ser descartado no ""lixo de grande porte"". É necessário pagar taxa extra.",Veiculos,
-231,tuv,t,toalha,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-232,tuv,t,tesouras de poda para locais altos,Lixos de Grande Porte (SODAI GOMI),,"Jardinagem,Agricultura",
-233,tuv,t,tatami,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-234,tuv,t,tupperware,Lixo Não-Combustível (MOYASENAI),,Alimentos,
-235,mno,m,arcenaria,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-236,abc,c,cigarros e bitucas de cigarros,Lixo Combustível (MOYASERU),Jogue água para apagar completamente o fogo e descarte em seguida.,Lazer,
-237,abc,c,cômoda,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-238,abc,a,absorvente interno,Lixo Combustível (MOYASERU),Incinerar por questões higiênicas.,Hospitalar,
-239,pqrs,p,papelões,Coleta de Papeis Velhos,Abra as caixas e amarre com barbante de papel.,Artigos de uso diario,
-240,abc,c,corrente,Leve diretamente ao Centro de Limpeza,,Moradia,
-241,mno,m,motoserra ou serra elétrica,Lixos de Grande Porte (SODAI GOMI),Esvazie completamente o combustível.,"Jardinagem,Agricultura",
-242,abc,a,assento para crianças (carro),Lixos de Grande Porte (SODAI GOMI),,Veiculos,
-243,mno,m,mesa baixa com pernas de desencaixar ou dobradiças,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-244,tuv,t,tigelinha (tyawan),Lixo Não-Combustível (MOYASENAI),,Alimentos,
-245,abc,a,agulha de injeção,E consultar uma instituição médica,,Hospitalar,
-246,pqrs,p,pá de lixo,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-247,abc,b,bengala,Lixo Combustível (MOYASERU),"As bengalas de madeira devem ser quebradas e descartadas no ""lixo combustível"". As de plástico ou de alumínio no ""lixo não combustível"".",Artigos de uso diario,
-248,abc,c,cairo descartável (aquecedor de bolso),Lixo Não-Combustível (MOYASENAI),"Devido o risco de provocar a ignição espontânea, não descarte o kairo não-utilizado (sem uso).   A embalagem de plástico deve ser descartada no lixo de ""plástico reciclável"".",Artigos de uso diario,
-249,def,e,"escrivaninha (madeira, aço)",Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-250,pqrs,r,resíduos de conserva (yuka),Lixo Combustível (MOYASERU),"Mas, somente pequenas quantidades.",Alimentos,
-251,pqrs,p,pedra de peso usado para fazer conservas,Não Coletado,"Consulte uma empresa especializada em paisagismo. Quando aos pesos feito de plástico, consulte o centro de limpeza, tel:28-1370.",Alimentos,
-252,abc,c,cortador de unhas,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-253,tuv,v,vara de pesca,Lixo Não-Combustível (MOYASENAI),"Mas, somente se puder ser diminuído em tamanho menor que 1 metro. Os maiores, descarte no lixo de grande porte"".",Lazer,
-254,tuv,t,tissue (lenço de papel),Lixo Combustível (MOYASERU),,Artigos de uso diario,
-255,abc,c,caixa de tissue,Coleta de Papeis Velhos,"Retire o plástico, dobre e descarte nas ""revistas e similares"".",Artigos de uso diario,
-256,mno,m,mesa,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-257,def,e,extensão elétrica,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-258,ghi,h,halteres de ferro,Leve diretamente ao Centro de Limpeza,,Lazer,
-259,tuv,t,televisores,Coletado pelo revendedor,Leve ao revendedor. O descarte também pode ser solicitada a uma empresa de transporte de resíduos. É necessário pagar taxa de reciclagem.,Aparelhos eletricos,
-260,abc,a,aparelhos elétricos,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-261,mno,m,mesinha com aquecedor elétrico (kotatsu),Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos,
-262,abc,c,cobertor elétrico,Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos,
-263,tuv,t,tapete elétrico,Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos,
-264,abc,c,cabo elétrico,Lixo Não-Combustível (MOYASENAI),Corte em pedaços de menos de 1 metro de comprimento. Fios com tambor também devem ser cortados para serem descartados.,Aparelhos eletricos,
-265,jkl,l,lâmpadas,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos,
-266,jkl,l,lâmpadas fluorescentes compactas,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos,
-267,def,d,dicionário eletrônico,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-268,abc,c,cartucho de cigarros eletrônicos,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-269,abc,a,agenda eletrônica,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-270,tuv,t,tenda,Lixos de Grande Porte (SODAI GOMI),Separe a armação e a lona.,Lazer,
-271,mno,o,óleo de cozinha,Lixo Combustível (MOYASERU),"Absorva com papel ou panos, ou endureça com produtos próprios para depois descartar.",Alimentos,
-272,tuv,t,telefone (aparelho),Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-273,pqrs,r,rolo de papel higiênico,Coleta de Papeis Velhos,,Artigos de uso diario,
-274,mno,m,móveis de vime,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-275,pqrs,p,porcelana chinesa,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Artigos de uso diario,
-276,pqrs,s,stupa,Não Coletado,Consulte o templo.,Outros,
-277,tuv,t,torradeira ou tostadeira,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-278,pqrs,r,relógio,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-279,wxyz,z,zinco,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-280,pqrs,p,panela de barro,Lixo Não-Combustível (MOYASENAI),,Alimentos,
-281,tuv,t,tambor,Lixos de Grande Porte (SODAI GOMI),,Outros,
-282,ghi,g,gaiola de pássaros,Lixos de Grande Porte (SODAI GOMI),,Animais,
-283,jkl,l,lata de tinta (somente de uso doméstico),Lixos de Grande Porte (SODAI GOMI),"Esvazie completamente o conteúdo. Latas menores que meia lata de 18 litros devem ser descartadas no ""lixo não queimável"".",Moradia,
-284,tuv,t,tintas e derivados,Não Coletado,Consulte o vendedor.,Moradia,
-285,ghi,g,garrafa de molho pronto para salada (vidro),Garrafas Vazias (AKIBIN),"As tampas de plástico descartar no ""lixo de plástico reciclável"".",Alimentos,
-286,jkl,l,lama (sarjeta),Não Coletado,"Das vias provinciais consulte o escritório de obras públicas provinciais, das vias municipais consulte o setor de controle e manutenção municipal.",Outros,
-287,def,f,faca,Lixo Não-Combustível (MOYASENAI),"Enrole fita crepe ou panos na espada, e escreva [はもの] no saco de lixo.",Artigos de uso diario,
-288,pqrs,p,pia,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos menores que 180cm. Para comprimentos maiores, leve diretamente ao centro de limpeza.",Moradia,
-289,mno,m,machadinha,Lixo Não-Combustível (MOYASENAI),"Até aproximadamente 20 cm. As machadinhas grandes devem ser descartadas no ""lixo de grande porte"".","Jardinagem,Agricultura",
-290,abc,a,absorventes higiênicos,Lixo Combustível (MOYASERU),Incinerar por questões higiênicas.,Hospitalar,
-291,pqrs,p,panela,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Alimentos,
-292,jkl,l,lixo de cozinha,Lixo Combustível (MOYASERU),Cortar bem a água para descartar.,Alimentos,
-293,abc,c,chapa ondulada,Lixos de Grande Porte (SODAI GOMI),O comprimento deve ser menor que 180 cm.  Aqueles com comprimento maiores devem ser cortado em pedaços menores.,Moradia,
-294,tuv,t,teste de gravidez,Lixo Combustível (MOYASERU),Incinerar por questões higiênicas.,Hospitalar,
-295,abc,b,bichos de pelúcia,Lixo Combustível (MOYASERU),Até o tamanho do saco de lixo determinado.,Lazer,
-296,pqrs,p,pasta de farelo de arroz,Lixo Combustível (MOYASERU),"Mas, somente pequenas quantidades.",Alimentos,
-297,pqrs,p,panos,Lixo Combustível (MOYASERU),Os panos compridos cortar em tamanhos menores de 1 metro.,Roupas,
-298,abc,c,carriola (carrinho de mão),Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario,
-299,abc,a,areia para gato,Lixo Combustível (MOYASERU),Incinerar por questões higiênicas. (Remova as fezes na privada),Animais,
-300,ghi,g,gato morto,Não Coletado,Comunique a cooperativa de limpeza Nan-etsu.,Animais,
-301,pqrs,s,saco de dormir,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-302,tuv,t,tubo de pasta de dente,Plástico Reciclável (PURA),Lave bem e descarte.,Artigos de uso diario,
-303,abc,a,argila,Lixo Não-Combustível (MOYASENAI),"Os feito de papel descarte no ""lixo combustível"".",Lazer,
-304,def,e,equipamento agrícola (doméstico de pequeno porte),Lixos de Grande Porte (SODAI GOMI),Esvazie completamente o óleo (cortador de grama até aparelho de névoa). Desmonte até onde puder.,"Jardinagem,Agricultura",
-305,ghi,g,garrafa de vidro de pesticidas (de uso doméstico),Lixo Não-Combustível (MOYASENAI),Esvazie completamente as garrafas de pesticidas e lave com água.,"Jardinagem,Agricultura",
-306,ghi,g,garrafa de vidro de pesticidas (de agricultores),Não Coletado,Consulte uma empresa especializada.,"Jardinagem,Agricultura",
-307,pqrs,p,pesticidas e derivados,Não Coletado,Consulte uma empresa especializada.,"Jardinagem,Agricultura",
-308,abc,c,caderno,Coleta de Papeis Velhos,Junte com as revistas e amarre.,Artigos de uso diario,
-309,pqrs,s,serra,Lixo Não-Combustível (MOYASENAI),"Até aproximadamente 20 cm. As machadinhas grandes devem ser descartadas no ""lixo de grande porte"".","Jardinagem,Agricultura",
-310,tuv,v,vidro de algas (nori),Garrafas Vazias (AKIBIN),"Retire a tampa e coloque nas cestas separadas por cores. Descarte as tampas de plástico no ""lixo de plástico reciclável"".",Alimentos,
-311,abc,c,cinza,Consulta a um processador,A incineração doméstica é proibida por lei.,Outros,
-312,abc,b,bicicleta,Não Coletado,Consulte o revendedor.,Veiculos,
-313,pqrs,r,resíduos de óleo,Não Coletado,Consulte o revendedor.,Veiculos,
-314,pqrs,p,plástico de estufas (de agricultores),Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 28-1370, ou descarte no dia designado pela cooperativa agrícola.","Jardinagem,Agricultura",
-315,jkl,l,lápide,Não Coletado,Consulte o revendedor.,Outros,
-316,abc,c,cartão postal,Coleta de Papeis Velhos,"Junte com as revistas e amarre. As que contém fotos descarte no ""lixo combustível"".",Artigos de uso diario,
-317,abc,c,calçados,Lixo Não-Combustível (MOYASENAI),,Roupas,
-318,abc,b,balde,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Artigos de uso diario,
-319,pqrs,p,palitinhos (hashi),Lixo Combustível (MOYASERU),"Os feito de plástico descarte no ""lixo de plástico reciclável"".",Alimentos,
-320,abc,c,computador,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Contacte o fabricante,"Entre em contato com o fabricante. A reciclagem de computadores é pago.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.",Lazer,
-321,pqrs,s,sinalizadores de fumaça,Não Coletado,"Os usados devem ser descartados no ""lixo não queimável"".",Veiculos,
-322,abc,b,bandeja de isopor,Coletado pelo revendedor,"Bandejas, etc. feitos de isopor. Lave bem e leve ao local de coleta do mercado ou descarte no ""lixo de plástico reciclável"".",Alimentos,
-323,abc,b,bateria,Leve diretamente ao Centro de Limpeza,"O posto de gasolina e as agências vendedoras de carros também fazem o tratamento e eliminação. Não pode ser descartado no ""lixo de grande porte"".",Veiculos,
-324,abc,c,carregador de celulares,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos,
-325,abc,b,bastão (beisebol),Lixos de Grande Porte (SODAI GOMI),,Lazer,
-326,abc,b,bastão (uso culinário),Lixo Não-Combustível (MOYASENAI),"Os bastões grandes devem ser descartados no ""lixo de grande porte"".",Alimentos,
-327,ghi,i,isopor,Plástico Reciclável (PURA),Quebre em uma tamanho que caiba no saco de lixo. Não é necessário quebrar em tamanhos menores.,Alimentos,
-328,mno,m,material de enchimento de isopor,Plástico Reciclável (PURA),"Os granulados devem ser descartados no ""lixo não combustível"".",Outros,
-329,jkl,l,lenço de papel,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-330,def,f,fogos de artifício,Lixo Combustível (MOYASERU),"Jogue água para apagar completamente o fogo e descarte em seguida. No entanto, os não usados leve pessoalmente ao centro de limpeza.",Lazer,
-331,def,e,escova de dentes,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-332,ghi,i,instrumentos cortantes,Lixo Não-Combustível (MOYASENAI),"Enrole fita crepe, etc. na parte afiada, e escreva [ハモノ] no saco de lixo.",Alimentos,
-333,def,f,folha de plástico usado como divisória para bentô,Lixo Não-Combustível (MOYASENAI),,Alimentos,
-334,abc,a,agulha,Lixo Não-Combustível (MOYASENAI),Enrole fita crepe para que não espete.,Roupas,
-335,abc,a,arame,Lixo Não-Combustível (MOYASENAI),Corte em tamanhos de aproximadamente 1 metro.,Artigos de uso diario,
-336,abc,a,aquecedor de halogéneo,Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos,
-337,jkl,l,lenço,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-338,abc,c,cabide,Lixo Não-Combustível (MOYASENAI),,Roupas,
-339,abc,b,brochura,Coleta de Papeis Velhos,"Junte com as revistas e amarre. Os que contém fotos descarte no ""lixo combustível"".",Artigos de uso diario,
-340,def,f,fita de polipropileno,Lixo Não-Combustível (MOYASENAI),Corte em comprimentos de 50cm. Não descarte comprido.,Artigos de uso diario,
-341,abc,a,aparelho de vídeo-cassete,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-342,def,f,fitas de vídeo,Lixo Combustível (MOYASERU),"As caixas de plástico descarte no ""lixo não combustível"", as caixas de papel descarte no ""lixo de papeis velhos"" para reciclagem.",Aparelhos eletricos,
-343,mno,m,mangueira de plástico,Lixo Não-Combustível (MOYASENAI),Encurte-o cortando em comprimentos de aproximadamente 1 metro.,Artigos de uso diario,
-344,def,f,folhas de plástico,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario,
-345,pqrs,s,saco de plástico,Plástico Reciclável (PURA),,Artigos de uso diario,
-346,ghi,g,garrafa vidro,Coletado pelo revendedor,"Se estiver quebrado descarte nas ""garrafas vazias"".",Alimentos,
-347,jkl,l,lonas de plástico,Lixo Não-Combustível (MOYASENAI),"Corte em comprimentos menores que 1 metro. Se não for cortar, descarte no ""lixo de grande porte"".",Artigos de uso diario,
-348,def,f,fita de plástico,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-349,abc,b,braseiro,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-350,pqrs,s,saco de fertilizantes,Não Coletado,Consulte o revendedor. Fertilizantes usados na horticultura (somente doméstico) obedeça as instruções do saco.,"Jardinagem,Agricultura",
-351,ghi,g,garrafa (alimentos e bebidas),Garrafas Vazias (AKIBIN),Garrafas de cerveja e de cachaça japonesa (sake) devem ser devolvidas ao revendedor.,Alimentos,
-352,ghi,g,garrafa (exceto de alimentos e bebidas),Lixo Não-Combustível (MOYASENAI),Garrafas de perfume e cosméticos.,Artigos de uso diario,
-353,pqrs,p,pasta de papel,Coleta de Papeis Velhos,"Retire as partes de metal e descarte no ""lixo não combustível"".",Artigos de uso diario,
-354,pqrs,p,pasta de plástico,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-355,def,e,envelope,Coleta de Papeis Velhos,"Os visores de plástio devem ser retirados e descartados no ""lixo não combustível"".",Artigos de uso diario,
-356,def,e,envelope (plástico),Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-357,pqrs,p,porta deslizante,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-358,abc,a,altar budista,Não Coletado,Consulte o revendedor.,Outros,
-359,pqrs,p,pincel para escrever,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-360,abc,a,acolchoados,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-361,pqrs,p,persiana,Lixos de Grande Porte (SODAI GOMI),"Mas, descarte somente depois de cortar ou desmontar em comprimentos menores de 180cm.",Moradia,
-362,def,e,escova,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-363,ghi,i,impressoras,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-364,tuv,t,tinta da impressora (vazia),Coletado pelo revendedor,,Aparelhos eletricos,
-365,abc,b,banheira aquecida com aquecedor,Não Coletado,Consulte o revendedor.,Moradia,
-366,def,d,disquete,Lixo Não-Combustível (MOYASENAI),"As caixas de plástico devem ser descartadas no ""lixo não-combustívell"".",Aparelhos eletricos,
-367,abc,b,bloco de concreto,Leve diretamente ao Centro de Limpeza,Somente os de suporte de varal. Somente pequenas quantidades.,Moradia,
-368,tuv,t,tampa da banheira,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-369,abc,a,artigos de papelaria,Lixo Não-Combustível (MOYASENAI),"Objetos grandes devem ser descartados no ""lixo de grande porte"".",Artigos de uso diario,
-370,def,f,fone de ouvido,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Lazer,
-371,abc,c,criado-mudo,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos menores que 180cm. Para comprimentos maiores, leve diretamente ao centro de limpeza, tel: 0778-28-1370.",Moradia,
-372,ghi,g,garrafas PET,garrafas PET,"Os que possuem o No. 1 na marca da reciclagem. A tampa e o rótulo devem ser descartados no ""lixo de plástico reciclável"".",Alimentos,
-373,ghi,g,gaiola para animais de estimação,Lixos de Grande Porte (SODAI GOMI),,Animais,
-374,abc,c,comida enlatada para animais de estimação,Latas Vazias (AKIKAN),Esvazie completamente o conteúdo e lave.,Animais,
-375,tuv,t,toalete para animais de estimação,Lixos de Grande Porte (SODAI GOMI),"Retire as fezes do interior e jogue-as no ""lixo combustível"".",Animais,
-376,abc,a,animal de estimação morto,Leve diretamente ao Centro de Limpeza,É necessário pagar taxa extra.,Animais,
-377,abc,c,carrinho para bebê,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario,
-378,abc,c,capacete,Lixo Não-Combustível (MOYASENAI),,Lazer,
-379,pqrs,p,penico,Leve diretamente ao Centro de Limpeza,,Moradia,
-380,pqrs,r,roda (carros),Lixos de Grande Porte (SODAI GOMI),Não coletado se estiver com rodas. Leve as rodas ao revendedor.,Veiculos,
-381,abc,c,calota da roda,Lixo Não-Combustível (MOYASENAI),,Veiculos,
-382,abc,c,caldeira,Leve diretamente ao Centro de Limpeza,"Somente os de uso doméstico. No entanto, se a troca for solicitada a empresa especializada, a mesma deve recolher a caldeira.",Moradia,
-383,abc,b,bússola,Lixo Não-Combustível (MOYASENAI),,Lazer,
-384,tuv,v,vassoura,Lixo Não-Combustível (MOYASENAI),"As vassouras compridas devem ser descartadas no ""lixo de grande porte"".",Artigos de uso diario,
-385,abc,b,bolinho de ácido bórico (veneno para baratas),Lixo Combustível (MOYASERU),,Artigos de uso diario,
-386,pqrs,p,papel de embrulho,Coleta de Papeis Velhos,Junte com as revistas e amarre.,Artigos de uso diario,
-387,def,f,faca de cozinha,Lixo Não-Combustível (MOYASENAI),Enrole fita adesiva na parte afiada e escreva [ハマノ] no saco de lixo.,Alimentos,
-388,pqrs,r,recipiente de repelentes,Lixo Não-Combustível (MOYASENAI),Aqueles de pendurar.,Artigos de uso diario,
-389,abc,b,bola de boliche,Leve diretamente ao Centro de Limpeza,,Lazer,
-390,abc,b,bacia (cozinha),Lixo Não-Combustível (MOYASENAI),,Alimentos,
-391,abc,b,bola,Lixo Não-Combustível (MOYASENAI),Descarte após esvaziar o ar.,Lazer,
-392,abc,c,caneta esferográfica,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-393,mno,m,mangueira,Lixo Não-Combustível (MOYASENAI),Descarte após cortar em pedaços de menos de 1 metro de comprimento.,Artigos de uso diario,
-394,mno,m,material de aquecimento e resfriamento,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-395,abc,c,cartaz,Coleta de Papeis Velhos,Junte e amarre com as revistas.,Lazer,
-396,abc,b,bateria em forma de botão,Coletado pelo revendedor,,Aparelhos eletricos,
-397,pqrs,p,pote ou garrafa térmica,Lixo Não-Combustível (MOYASENAI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Alimentos,
-398,ghi,g,galão de plástico (até 20L),Lixo Não-Combustível (MOYASENAI),,Moradia,
-399,jkl,l,livros,Coleta de Papeis Velhos,,Lazer,
-400,abc,b,bandeja,Lixo Não-Combustível (MOYASENAI),"As bandejas de madeira devem ser descartados no ""lixo combustível"".",Artigos de uso diario,
-401,tuv,t,travesseiro,Lixo Não-Combustível (MOYASENAI),"Se o material de enchimento for material combustível (algodão ou casca de trigo sarraceno), descarta-lo no ""lixo combustível"".",Moradia,
-402,mno,m,marcador (caneta),Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-403,mno,m,máquina de massagem,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-404,abc,c,colchão,Lixos de Grande Porte (SODAI GOMI),Somente aqueles que não possuem molas (metal). Os colchões de molas devem ser levados diretamente ao centro de limpeza.,Moradia,
-405,tuv,t,tábua de cozinha,Lixo Não-Combustível (MOYASENAI),"Se for de madeira, descarte no ""lixo combustível"".",Alimentos,
-406,ghi,g,garrafa térmica,Lixo Não-Combustível (MOYASENAI),Inclusive garrafas de inóx e de vidro.,Alimentos,
-407,def,f,frasco de maionese,Plástico Reciclável (PURA),Descarte após lavar o interior. Proceda da mesma forma com as frascos de maionese.,Alimentos,
-408,mno,m,máquina de costura,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Inclusive máquinas de costura de pedal.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-409,jkl,l,limpador de ouvidos (mimikaki),Lixo Não-Combustível (MOYASENAI),"Se for de madeira descarte no ""lixo combustível"".",Artigos de uso diario,
-410,jkl,l,lupa,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-411,abc,c,cartão de visita,Coleta de Papeis Velhos,"Coloque no envelope, junte com as revistas e amarre.",Outros,
-412,mno,o,óculos,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-413,abc,c,cotonete,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-414,mno,m,motor,Não Coletado,Leve à empresa de coleta de metais.,Lazer,
-415,abc,c,cobertores,Lixos de Grande Porte (SODAI GOMI),,Moradia,
-416,tuv,v,vara de varal,Lixos de Grande Porte (SODAI GOMI),Aqueles até 180cm de comprimento.,Moradia,
-417,pqrs,p,pedra do varal,Lixos de Grande Porte (SODAI GOMI),"Suportes de concreto de varal devem ser levados diretamente ao centro de limpeza, tel:0778-28-1370.",Moradia,
-418,abc,b,bateria Móvel,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos,
-419,abc,a,argamassa,Leve diretamente ao Centro de Limpeza,"Mas, somente pequenas quantidades. Quando demolido por empresas, solicite à empresa para que dê o devido fim.",Moradia,
-420,abc,c,chaleira,Lixo Não-Combustível (MOYASENAI),,Alimentos,
-421,pqrs,p,produtos químicos,Não Coletado,Consulte o revendedor.,Outros,
-422,abc,a,arame farpado,Leve diretamente ao Centro de Limpeza,,Moradia,
-423,abc,b,bolsa de água quente,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-424,wxyz,x,xícara para chá,Lixo Não-Combustível (MOYASENAI),,Alimentos,
-425,pqrs,r,roupas,Lixo Combustível (MOYASERU),Corte em pedaços de menos de 1 metro de comprimento.,Roupas,
-426,mno,m,machado,Lixos de Grande Porte (SODAI GOMI),"Machados devem ser descartados no ""lixo de grande porte"".","Jardinagem,Agricultura",
-427,abc,a,armadura,Lixos de Grande Porte (SODAI GOMI),,Lazer,
-428,ghi,i,isqueiro,Lixo Tóxico (YUGAI GOMI),Use completamente o conteúdo. Proceda da mesma forma com os isqueiros descartáveis.,Lazer,
-429,pqrs,r,raquete,Lixo Não-Combustível (MOYASENAI),"As raquetes de madeira devem ser descartados ""lixo combustível"".",Lazer,
-430,pqrs,r,rádio,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-431,def,e,embrulho de presente,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-432,pqrs,r,rolo do filme de PVC,Coleta de Papeis Velhos,"Somente de filmes de uso doméstico. Coloque dentro do saco de papel, junte com as revistas e amarre.",Alimentos,
-433,def,f,filme de PVC,Lixo Não-Combustível (MOYASENAI),"Os filmes usados para cobrir carnes e peixes comprados no mercado devem ser lavados e descartados no ""lixo de plástico reciclável"".",Alimentos,
-434,abc,b,bolsa da escola (randoseru),Lixo Não-Combustível (MOYASENAI),,Roupas,
-435,abc,c,controle remoto,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos,
-436,mno,m,mochila,Lixo Não-Combustível (MOYASENAI),,Roupas,
-437,jkl,l,lupa,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
-438,pqrs,r,roleta,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Lazer,
-439,ghi,g,geladeira (freezer),Coletado pelo revendedor,Leve ao revendedor. É possível solicitar a uma empresa de transporte de resíduos. É necessário pagar taxa de reciclagem.,Aparelhos eletricos,
-440,def,d,disco de vinil,Lixo Não-Combustível (MOYASENAI),,Lazer,
-441,pqrs,r,recibo da máquina registradora,Lixo Combustível (MOYASERU),,Artigos de uso diario,
-442,pqrs,s,saco de compras de plástico,Plástico Reciclável (PURA),,Artigos de uso diario,
-443,def,e,embalagem à vácuo de alimentos prontos,Plástico Reciclável (PURA),Descarte após lavar o interior.,Alimentos,
-444,tuv,t,tijolos,Leve diretamente ao Centro de Limpeza,"Mas, somente pequenas quantidades.",Moradia,
-445,abc,a,armário de metal,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos menores que 180 cm. Maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia,
-446,pqrs,p,processador de textos,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos,
-447,def,e,elástico,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario,
+﻿https://code4fukui.github.io/rdf/#rows,https://code4fukui.github.io/rdf/#consonant,https://code4fukui.github.io/rdf/#type_of_trash,https://schema.org/category,https://code4fukui.github.io/rdf/#conditions_of_collection,https://code4fukui.github.io/rdf/#classification
+abc,c,compressas frias,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+def,f,ferro de passar,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+jkl,l,lata vazia (alimentos e bebidas),Latas Vazias (AKIKAN),"Esvazie totalmente as latas e lave o interior com água. As latas maiores do que meia lata de 18 litros devem ser descartadas no ""lixo de grande porte"".   As latas que não continham alimentos ou bebidas devem ser descartadas no ""lixo não-queimável"".  As tampas de latas são ""lixo não-queimável"". As tampas que não foram retiradas totalmente devem ser descartada com a lata.  As tampas de latas de doce também devem ser descartadas como ""lata vazia"".",Alimentos
+jkl,l,"lata vazia (exceto, alimentos e bebidas)",Lixo Não-Combustível (MOYASENAI),"Latas de cera ou tinta, cofrinho, porta-joia, etc. (utilize o conteúdo por completo). ※Latas grandes devem ser descartadas no ""lixo de grande porte"".",Artigos de uso diario
+ghi,g,garrafa vazia (alimentos e bebidas),Garrafas Vazias (AKIBIN),"Retire a tampa, lave o interior e descarte nas cestas separadas por cor.  Tampa de metal : Descarte no ""lixo não-combustível"".  Tampa de plástico : Descarte no lixo de ""plástico reciclável"".",Alimentos
+ghi,g,"garrafa vazia (exceto, alimentos e bebidas)",Lixo Não-Combustível (MOYASENAI),"Vidros de cosméticos, porta-joia, perfume e medicamentos (cremes etc., exceto vidros de medicamentos por via oral)  Se a tampa for de plástico, descarte no lixo de ""Plástico Reciclável"".",Artigos de uso diario
+pqrs,r,recipiente (vidro) de alga (nori) temperada,Garrafas Vazias (AKIBIN),"Retire a tampa, lave o interior e descarte nas cestas separadas por cor.  Se a tampa for de plástico, descarte no lixo de ""Plástico Reciclável"".",Alimentos
+pqrs,r,recipiente (plástico) de alga (nori) temperada,Plástico Reciclável (PURA),,Alimentos
+abc,a,asfalto,Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 0778-28-1370.",Moradia
+abc,a,asbesto (amianto),Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 0778-28-1370.",Moradia
+def,f,folha de cercado para canteiros.,Não Coletado,Consulte a cooperativa agrícola.,"Jardinagem,Agricultura"
+ghi,g,garrafa de óleo (alimentos e bebidas),Garrafas Vazias (AKIBIN),"Retire a tampa, lave o interior e descarte nas cestas separadas por cor.  As tampas de metal, descarte no ""Lixo Não-Combustível"".  As tampas de plástico, descarte no lixo de ""Plástico Reciclável"".",Alimentos
+abc,c,capa de chuva,Lixo Não-Combustível (MOYASENAI),,Roupas
+pqrs,r,rede (indústria pesqueira),Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 0778-28-1370.","Jardinagem,Agricultura"
+pqrs,r,rede (coleta de insetos e de pesca),Lixo Não-Combustível (MOYASENAI),,Lazer
+abc,a,álbuns (fotos),Lixo Combustível (MOYASERU),,Artigos de uso diario
+def,f,folha de alumínio,Lixo Não-Combustível (MOYASENAI),"Remova a sujeira e descarte no ""lixo não-combustível"".",Alimentos
+def,e,esquadria de alumínio,Lixos de Grande Porte (SODAI GOMI),Descarte depois de cortar em pedaços menores que 180 cm de comprimento.,Moradia
+abc,b,braseira ou botija para aquecer os pés,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Artigos de uso diario
+abc,a,antena,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Aparelhos eletricos
+abc,c,cadeira,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+mno,m,monociclo,Lixos de Grande Porte (SODAI GOMI),,Lazer
+ghi,g,"garrafa sho (geralmente de sake. Aprox. 1,8L)",Coletado pelo revendedor,"Consulte o revendedor. Garrafas quebradas devem ser descartadas em ""garrafas vazias"". Garrafas de cores desconhecida devem ser descartadas no ""lixo não-combustível"".",Alimentos
+jkl,l,lata de 18 litros (somente de  uso doméstico),Lixos de Grande Porte (SODAI GOMI),,Alimentos
+abc,c,cão morto,Não Coletado,"Entre em contato com o centro de limpeza, tel: 0778-28-1370.",Animais
+tuv,t,tábua memorial,Não Coletado,Consulte o templo,Outros
+def,f,fone de ouvido,Lixo Não-Combustível (MOYASENAI),,Aparelhos eletricos
+pqrs,r,resíduos hospitalar,Não Coletado,"Devolva para a instituição médica ou solicite o descarte a uma empresa especializada. Os resíduos de objetos de tratamento médico doméstico, não aguçados e não contagioso podem ser descartadas no ""lixo combustível"".",Hospitalar
+pqrs,r,roupas,Lixo Combustível (MOYASERU),Descarte após cortar em pedaços de menos de 1 metro de comprimento.,Roupas
+abc,c,caixinha de bebidas (sucos),Lixo Combustível (MOYASERU),"Mesmo aqueles que tiverem revestimento interno de alumínio devem ser descartados no ""lixo combustível"".",Alimentos
+tuv,v,vaso de flor (cerâmica),Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".","Jardinagem,Agricultura"
+tuv,v,vaso de flor (plástico),Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".","Jardinagem,Agricultura"
+abc,b,boias e similares,Lixo Não-Combustível (MOYASENAI),Descarte após esvaziar o ar.,Lazer
+pqrs,r,relógio de pulso,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+abc,c,carrinho para bebê,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario
+abc,a,ar condicionado,Coletado pelo revendedor,Leve o revendedor. O descarte pode também ser solicitado a uma empresa de transporte de resíduos. ※É necessário pagar taxa de reciclagem.,Aparelhos eletricos
+mno,m,"MD, CD, LD e DVD",Lixo Não-Combustível (MOYASENAI),"A caixa também deve ser descartada no ""lixo não combustível"".",Aparelhos eletricos
+def,e,electone (órgão eletrônico da empresa Yamaha),Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Lazer
+mno,o,óleo do motor,Não Coletado,Consulte o revendedor ou posto de gasolina.,Veiculos
+tuv,t,tubo de PVC (somente de uso doméstico),Lixo Não-Combustível (MOYASENAI),Descarte após cortar em pedaços de menos de 30 cm de comprimento.,Moradia
+abc,c,conjunto da sala de visitas,Lixos de Grande Porte (SODAI GOMI),,Moradia
+mno,m,motocicleta,Não Coletado,Leve ao revendedor ou solicite o descarte a uma empresa especializada.,Veiculos
+def,f,forno microondas,Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos
+def,f,forno torradeira,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+mno,m,machado,Lixos de Grande Porte (SODAI GOMI),"A machadinha (ferramenta usada para cortar lenha) também deve ser descartada no ""lixo de grande porte"".","Jardinagem,Agricultura"
+abc,b,brinquedos,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Artigos de uso diario
+,,,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",
+mno,o,órgãos,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Lazer
+abc,a,aparelho aquecedor de água,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Aparelhos eletricos
+abc,c,cortina,Lixos de Grande Porte (SODAI GOMI),"No entanto, as cortinas de tecido podem ser cortadas em pedaços de até 1 metro quadrado e descartadas no ""lixo combustível"".",Moradia
+abc,c,cartão,Lixo Não-Combustível (MOYASENAI),"Cartões de crédito, etc.",Outros
+tuv,t,tapete,Lixos de Grande Porte (SODAI GOMI),,Moradia
+pqrs,p,papel carbono,Lixo Combustível (MOYASERU),,Artigos de uso diario
+abc,c,conchas,Lixo Combustível (MOYASERU),,Alimentos
+jkl,l,lanterna,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+jkl,k,kairo (descartável),Lixo Não-Combustível (MOYASENAI),"Devido o risco de provocar a ignição espontânea, não descarte o kairo não-utilizado (sem uso).   A embalagem de plástico deve ser descartada no lixo de ""plástico reciclável"".",Artigos de uso diario
+pqrs,p,produtos químicos,Não Coletado,Consulte o revendedor.,Artigos de uso diario
+def,e,espelho,Lixo Não-Combustível (MOYASENAI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Moradia
+mno,m,móveis,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+ghi,g,guarda-chuva,Lixo Não-Combustível (MOYASENAI),E possível que parte do objeto fique fora do saco de lixo.,Artigos de uso diario
+pqrs,r,resíduos de incêndios,Não Coletado,Consulte uma empresa especializada em demolições.,Moradia
+tuv,u,umidificador,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+abc,c,caixa de doces (papel),Coleta de Papeis Velhos,Desmanche e dobre a caixa e descarte como [revistas e similares] no dia de coleta de papeis velhos para reciclagem.,Alimentos
+jkl,l,lata de doces (metal),Latas Vazias (AKIKAN),Somente latas menores que o tamanho de meia lata de 18 litros.,Alimentos
+pqrs,s,saquinho de doces (plástico),Plástico Reciclável (PURA),Esvazie totalmente e descarte após lavar o interior com água.,Alimentos
+pqrs,s,saquinho de doces (papel),Coleta de Papeis Velhos,"Desmanche e dobre a caixa, e descarte como [revistas e similares] no dia de ""coleta de papeis velhos"" para reciclagem.",Alimentos
+def,f,fogão,Lixos de Grande Porte (SODAI GOMI),,Moradia
+abc,b,botijão de gás,Não Coletado,Devolva ou solicite o descarte ao revendedor de gás.,Moradia
+def,f,fogão a gás,Lixos de Grande Porte (SODAI GOMI),"Remova as pilhas sem falta. As pilhas devem ser descartadas no ""lixo tóxico"".",Moradia
+abc,c,cartucho de gás de fogão portátil,"Sprays, cilindros e similares",Para o descarte esvazie todo o conteúdo ao ar livre onde não há fogo .,Lazer
+def,f,fogão a gás portátil,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho são menores que um quadrado de 30 cm podem ser descartados como ""lixo não-combustível"". Maiores que o tamanho citado devem ser descartados no ""lixo de grande porte"".",Lazer
+def,f,fita cassete,Lixo Combustível (MOYASERU),"As caixas de plástico devem ser descartadas no ""lixo não-combustívell"". As de papel no dia de ""coleta de papeis velhos"" para reciclagem.",Aparelhos eletricos
+ghi,i,instrumentos musicais,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Lazer
+def,e,estilete,Lixo Não-Combustível (MOYASENAI),"Enrole fita crepe ou panos na parte afiada, e escreva [はもの] no saco de lixo.",Artigos de uso diario
+abc,c,capa (chuva),Lixo Não-Combustível (MOYASENAI),,Roupas
+pqrs,r,recipientes de macarrão instantâneo,Plástico Reciclável (PURA),"Se for de papel, descarte no ""lixo combustível"" . O filme da embalagem deve ser descartado no ""lixo de plástico reciclável"".",Alimentos
+tuv,v,vaso,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Artigos de uso diario
+def,f,foice,Lixo Não-Combustível (MOYASENAI),"Enrole fita crepe ou panos na parte afiada, e escreva [はもの] no saco de lixo.","Jardinagem,Agricultura"
+abc,c,caldeirão,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Alimentos
+def,f,fralda descartável,Lixo Combustível (MOYASERU),,Artigos de uso diario
+abc,c,copo e prato de papel,Lixo Combustível (MOYASERU),,Alimentos
+mno,n,navalha,Lixo Não-Combustível (MOYASENAI),"Enrole fita crepe ou panos na parte afiada, e escreva [はもの] no saco de lixo.",Artigos de uso diario
+pqrs,s,saco de papel,Coleta de Papeis Velhos,Junte com as revistas e amarre.,Artigos de uso diario
+def,f,fita crepe,Lixo Combustível (MOYASERU),"Se for de pano ou papel, descarte no ""lixo combustivel"". De outros materiais, descarte no ""lixo não combustível"".",Artigos de uso diario
+abc,c,câmera,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+pqrs,p,pólvora,Não Coletado,Consulte uma loja especializada em pólvoras.,Outros
+def,e,estante simples colorida,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+tuv,v,vidro,Lixo Não-Combustível (MOYASENAI),"Embrulhe com jornal e escreva [ガラス] no saco de lixo. As garrafas de vidro de bebidas devem ser descartadas nas cestas de ""garrafas vazias"" separadas por cor.",Moradia
+abc,c,calendário,Coleta de Papeis Velhos,"Junte com as revistas e amarre. A parte de metal deve ser removida e descartada no ""lixo não-combustível"".",Artigos de uso diario
+abc,c,couro,Lixo Não-Combustível (MOYASENAI),"Sapatos, bolsas e similares.",Roupas
+tuv,t,telha (pequenas quantidades de uso doméstico),Leve diretamente ao Centro de Limpeza,"Somente em pequenas quantidades. Caso haja em grande quantidade, solicite o descarte a uma empresa especializada.",Moradia
+def,e,exaustor,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Moradia
+pqrs,s,secador (roupas),Coletado pelo revendedor,"Leve ao revendedor. É possível solicitar o descarte a uma empresa de transportes (a partir de abril de 2009). No entanto, é necessário pagar a taxa de reciclagem.",Aparelhos eletricos
+def,d,dessecantes (alimentos),Lixo Não-Combustível (MOYASENAI),"Se for de papel, descarte no ""lixo combustível"" .",Alimentos
+def,e,enema ou clister,Lixo Combustível (MOYASERU),Incinerar devido a questões higiênicas (esvaziar completamente o conteúdo).,Hospitalar
+pqrs,p,pilhas,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos
+pqrs,p,"pilhas (recarregáveis, tipo botão)",Coletado pelo revendedor,,Aparelhos eletricos
+pqrs,p,papel térmico,Lixo Combustível (MOYASERU),,Artigos de uso diario
+abc,b,bomba de querosene,Lixo Não-Combustível (MOYASENAI),"Remova as pilhas sem falta. As pilhas devem ser descartadas no ""lixo tóxico"".",Artigos de uso diario
+abc,c,caixa de leite,Coletado pelo revendedor/  Coleta de Papeis Velhos,"Corte e abra a caixa e leve ao revendedor ou descarte no dia de ""coleta de papeis velhos"" para reciclagem.",Alimentos
+abc,b,borrifador,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+pqrs,p,papel alumínio,Lixo Combustível (MOYASERU),,Artigos de uso diario
+abc,a,aquario redondo,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Lazer
+abc,c,cofre,Lixos de Grande Porte (SODAI GOMI),"Aqueles de uso doméstico (que podem ser carregados por 2 pessoas) podem ser descartados no ""lixo de grande porte"". Exceto o citado, solicite a coleta a uma empresa especializada.",Moradia
+abc,b,bomba para câmara de ar (bicicleta),Lixo Não-Combustível (MOYASENAI),"Descarte no ""lixo não-combustível"".",Lazer
+pqrs,p,prego,Lixo Não-Combustível (MOYASENAI),Junte e enrole a ponta com fita adesiva para não espete e descarte.,Moradia
+def,e,erva daninha,Lixo Combustível (MOYASERU),"O barro e a terra devem ser totalmente removidos. Em grandes quantidades, leve diretamente ao centro de limpeza.","Jardinagem,Agricultura"
+abc,c,cortadores de capim,Lixos de Grande Porte (SODAI GOMI),"Para prevenir incêndios, utilizar completamente o combustível.","Jardinagem,Agricultura"
+pqrs,p,pente,Lixo Não-Combustível (MOYASENAI),"Aqueles feito de madeira devem ser descartados no ""lixo combustível"".",Artigos de uso diario
+def,f,"frasco de medicamentos (via oral)  comprimidos, granulados ou líquidos",Garrafas Vazias (AKIBIN),,Hospitalar
+def,f,frasco de medicamentos (exceto via oral) de aplicação externa e tônico capilar,Lixo Não-Combustível (MOYASENAI),Descarte após esvaziá-lo completamente.,Hospitalar
+def,f,frasco de inseticidas (pesticidas e produtos químicos),Coletado pelo revendedor,Consulte o revendedor.,"Jardinagem,Agricultura"
+abc,c,cartela de medicamentos (cápsulas),Plástico Reciclável (PURA),,Hospitalar
+pqrs,s,sapatos e tênis,Lixo Não-Combustível (MOYASENAI),,Roupas
+mno,m,meias,Lixo Combustível (MOYASERU),,Roupas
+abc,a,almofadas,Lixo Combustível (MOYASERU),Até do tamanho do saco de lixo especifico.,Moradia
+abc,c,copo de vidro,Lixo Não-Combustível (MOYASENAI),,Alimentos
+pqrs,s,saco de plástico da lavanderia,Plástico Reciclável (PURA),,Roupas
+abc,c,clipes,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+abc,c,cadeira de rodas,Lixos de Grande Porte (SODAI GOMI),,Hospitalar
+ghi,g,giz de cera e similares,Lixo Combustível (MOYASERU),,Artigos de uso diario
+jkl,l,luvas (beisebol),Lixo Não-Combustível (MOYASENAI),,Lazer
+abc,c,caixa térmica,Lixos de Grande Porte (SODAI GOMI),,Lazer
+jkl,l,lâmpada fluorescente,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos
+abc,c,calculadora,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+abc,c,celular,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Coletado pelo revendedor,,Aparelhos eletricos
+ghi,g,garrafa de vidro de cosmético,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+pqrs,s,sandália japonesa (GUETA),Lixo Combustível (MOYASERU),,Roupas
+def,f,frasco de ketchup,Plástico Reciclável (PURA),Lave completamente o interior antes de descartar. Os frascos de maionese também devem ser lavados da mesma forma.,Alimentos
+abc,a,aparelho da pressão ou esfigmomamômetro,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Os aparelhos doméstico que contém mercúrio devem ser levados diretamente ao centro de limpeza (é necessário pagar taxa extra).Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Hospitalar
+pqrs,p,plástico duro,Lixo Não-Combustível (MOYASENAI),"Lixos pesados como a bola de boliche, etc. devem levados diretamente ao centro de limpeza., tel:28-1370.",Artigos de uso diario
+def,f,ferramentas,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Artigos de uso diario
+ghi,g,goggles (óculos),Lixo Não-Combustível (MOYASENAI),,Lazer
+def,f,folheto de anúncios,Coleta de Papeis Velhos,,Artigos de uso diario
+tuv,v,vidro de perfume,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+abc,c,casaco,Lixo Combustível (MOYASERU),Descarte após cortar em pedaços de menos de 1 metro de comprimento.,Roupas
+abc,c,cafeteira,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+pqrs,s,sabão em barra,Lixo Combustível (MOYASERU),,Artigos de uso diario
+def,e,esteira-manta,Lixos de Grande Porte (SODAI GOMI),,Moradia
+mno,m,mesinha kotatsu (armação e tábua),Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos
+def,f,fezes de aves,Lixo Combustível (MOYASERU),,Animais
+tuv,t,tapete de borracha,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Moradia
+abc,b,bolsa de golfe,Lixos de Grande Porte (SODAI GOMI),,Lazer
+abc,c,concreto (inclui blocos de concreto),Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 28-1370. Blocos de concreto usado como suporte do varal podem ser levados diretamente ao centro de limpeza.",Moradia
+pqrs,p,preservativo,Lixo Combustível (MOYASERU),"Por questões relacionadas à higiene, é um lixo com permissão especial para ser incinerado.",Hospitalar
+abc,c,cadeira sem pernas,Lixos de Grande Porte (SODAI GOMI),,Moradia
+abc,c,caneta de ponta de feltro (sain-pen),Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+abc,c,caixa de saquê,Coletado pelo revendedor,,Alimentos
+pqrs,r,revistas,Coleta de Papeis Velhos,,Artigos de uso diario
+abc,a,almofadas,Lixos de Grande Porte (SODAI GOMI),,Moradia
+abc,c,cestos,Lixo Não-Combustível (MOYASENAI),"Os cestos feito de bambu devem ser descartados no ""lixo combustível"".",Alimentos
+tuv,t,tripé,Lixos de Grande Porte (SODAI GOMI),,Lazer
+tuv,t,triciclo,Lixos de Grande Porte (SODAI GOMI),,Lazer
+abc,c,"CD, LD, MD, DVD",Lixo Não-Combustível (MOYASENAI),"As caixas também podem ser descartadas no ""lixo não combustível"".",Aparelhos eletricos
+abc,c,CD e LD player,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+abc,a,adesivo,Lixo Combustível (MOYASERU),,Artigos de uso diario
+abc,b,barbeador elétrico,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+ghi,í,ímã,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+def,e,emplasto ou cataplasma,Lixo Combustível (MOYASERU),"Por questões relacionadas à higiene, é um lixo com permissão especial para ser incinerado.",Hospitalar
+abc,b,bicicleta,Lixos de Grande Porte (SODAI GOMI),,Veiculos
+def,e,espada de bambu,Lixo Combustível (MOYASERU),"Corte em pedaços de 50 cm e descarte. Se for descartar sem cortar, descarte no ""lixo de grande porte"".",Lazer
+def,f,fotos,Lixo Combustível (MOYASERU),"Os negativos das fotos devem ser descartados no ""lixo não combustível"".",Lazer
+abc,c,câmeras,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Lazer
+def,f,frasco de shampoo,Plástico Reciclável (PURA),"Esvazie completamente o conteúdo, lave o interior e descarte. Retire a bombinha e descarte.",Artigos de uso diario
+mno,m,máquina de fazer sucos,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Menores de 30 cm quadrados descarte no ""lixo não combustível"". Tamanho maiores, descarte no ""lixo de grande porte"".",Aparelhos eletricos
+abc,c,caixas de suco de papel,Lixo Combustível (MOYASERU),"Mesmo aqueles que tiverem revestimento interno de alumínio devem ser descartados no ""lixo combustível"".",Alimentos
+tuv,t,tapete,Lixos de Grande Porte (SODAI GOMI),Dobre até o menor tamanho que puder e amarre com corda.,Moradia
+abc,b,bala (arma de fogo),Não Coletado,Consulte o revendedor ou uma empresa especializada.,Lazer
+pqrs,p,pistola ou arma de fogo,Não Coletado,Consulte o revendedor ou uma empresa especializada.,Lazer
+abc,b,baterias recarregáveis,Coletado pelo revendedor,"As baterias usadas devem ser colocadas dentro da caixa de reciclagem das lojas colaboradoras da reciclagem (lojas de eletroeletrônicas, home center, etc.)",Aparelhos eletricos
+abc,c,carregador de baterias,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+jkl,l,lixo do picotador de papeis,Lixo Combustível (MOYASERU),,Outros
+def,e,extintor de incêndio,Não Coletado,Consulte o revendedor ou uma empresa especializada.,Moradia
+abc,c,cinzas da incineração,Consultar um empresa de tratamento,A incineração doméstica é proibida por lei.,Outros
+jkl,j,janela corrediça com papel,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos de até 180 cm. Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+pqrs,r,recipiente de comprimidos,Plástico Reciclável (PURA),"Os recipientes de vidro devem ser descartados no ""lixo não combustível"".",Hospitalar
+abc,c,caixa de desumidificação ou dessecantes,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+ghi,g,guarda-louça,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+abc,a,ânus artificial,Lixo Combustível (MOYASERU),,Hospitalar
+pqrs,s,sinalizadores,Não Coletado,"Os usados devem ser descartados no ""lixo não queimável"".",Veiculos
+jkl,j,jornal,Coleta de Papeis Velhos,,Artigos de uso diario
+abc,a,aquário,Lixos de Grande Porte (SODAI GOMI),,Animais
+mno,o,óculos de natação,Lixo Não-Combustível (MOYASENAI),,Lazer
+ghi,g,garrafa térmica,Lixo Não-Combustível (MOYASENAI),,Alimentos
+pqrs,p,panela elétrica de arroz,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+mno,m,mala,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario
+pqrs,p,prancha de esqui,Lixos de Grande Porte (SODAI GOMI),,Lazer
+pqrs,r,roupas de esqui,Lixo Não-Combustível (MOYASENAI),,Lazer
+pqrs,s,sapatos de esqui,Lixos de Grande Porte (SODAI GOMI),,Lazer
+pqrs,p,pá,Lixos de Grande Porte (SODAI GOMI),"As pás de menos de 20 cm devem ser descartados no ""lixo não combustível"".","Jardinagem,Agricultura"
+def,e,etiqueta autocolante,Lixo Combustível (MOYASERU),,Artigos de uso diario
+abc,a,aparelho de som,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+abc,a,aquecedor,Lixos de Grande Porte (SODAI GOMI),"Esvazie o reservatório de querosene e as pilhas devem ser descartadas no ""lixo tóxico"".",Moradia
+abc,b,bastão de esqui,Lixos de Grande Porte (SODAI GOMI),,Lazer
+mno,m,meia-calça,Lixo Combustível (MOYASERU),,Roupas
+abc,c,canudinho,Lixo Não-Combustível (MOYASENAI),"Descarte o saquinho no ""lixo combustível"" se for de papel e no ""lixo de plástico reciclável"" se for de plástico.",Alimentos
+tuv,t,tênis,Lixo Não-Combustível (MOYASENAI),,Roupas
+pqrs,p,pá para tirar e carregar neve,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario
+pqrs,p,prancha para snowboard,Lixos de Grande Porte (SODAI GOMI),,Lazer
+abc,c,caixa de som,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Lazer
+abc,c,"colher, garfo",Lixo Não-Combustível (MOYASENAI),,Alimentos
+abc,c,colchão de molas,Leve diretamente ao Centro de Limpeza,"É necessário taxa extra. Não pode ser descartado no ""lixo de grande porte"".",Moradia
+jkl,l,lata de spray,"Sprays, cilindros e similares",Para o descarte esvazie todo o conteúdo ao ar livre onde não há fogo .,Artigos de uso diario
+def,e,esponja,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+abc,c,chinelos surippa,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+abc,a,ardósia (telhados),Leve diretamente ao Centro de Limpeza,"Mas, exceto os resíduos de ardósia demolidos por empresas. Somente pequenas quantidades. Deve ter menos de 180 cm.",Moradia
+abc,a,absorventes femininos,Lixo Combustível (MOYASERU),Incinerar por questões higiênicas.,Hospitalar
+abc,a,amianto,Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 28-1370.",Moradia
+pqrs,p,porcelanas,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Alimentos
+abc,c,cimento,Leve diretamente ao Centro de Limpeza,Somente quando usados em residências (pequenas quantidades).,Moradia
+def,f,fita adesiva (durex),Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+def,f,frasco de detergente (com bomba),Plástico Reciclável (PURA),"Esvazie completamente o conteúdo, lave o interior e descarte. Retire a bombinha e descarte no ""lixo de plástico reciclável"".",Artigos de uso diario
+abc,c,caixa de sabão em pó (papel),Lixo Combustível (MOYASERU),"A alça e a colher de medição devem ser descartados no ""lixo não combustível"".",Artigos de uso diario
+mno,m,máquina de lavar,Coletado pelo revendedor,Leve ao revendedor. É possível solicitar o descarte a uma empresa de transportes de resíduos. É  necessário pagar a taxa de reciclagem.,Aparelhos eletricos
+pqrs,p,prendedores de roupa,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+ghi,g,galho de podas (árvores),Lixo Combustível (MOYASERU),"Corte em pedaços de até 5 cm de largura e até 50 cm de comprimento, coloque no saco de lixo determinado e descarte (é permitido amarrar em feixes).","Jardinagem,Agricultura"
+ghi,g,galho de podas (árvores) [Grande quantidades],Leve diretamente ao Centro de Limpeza,"Caso a quantidade seja grande, corte em pedaços de até 5 cm de largura e até 50 cm de comprimento,  e leve diretamente ao centro de limpeza No. 1.","Jardinagem,Agricultura"
+tuv,t,tesouras de poda,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".","Jardinagem,Agricultura"
+tuv,v,ventilador,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+abc,b,binóculos,Lixo Não-Combustível (MOYASENAI),,Lazer
+abc,a,aspirador de pó,Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos
+abc,a,sandálias,Lixo Não-Combustível (MOYASENAI),,Roupas
+pqrs,s,sofá,Lixos de Grande Porte (SODAI GOMI),,Moradia
+tuv,t,trenó,Lixos de Grande Porte (SODAI GOMI),,Lazer
+tuv,t,termômetro (mercúrio),Lixo Tóxico (YUGAI GOMI),"Descarte termômetros digitais no ""lixo não combustível"", as pilhas devem ser retiradas e descartadas no ""lixo tóxico"" ou leve até às caixas de coleta do revendedor.",Hospitalar
+tuv,t,Termomêtro (elétron),Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",
+abc,b,balança de gordura corporal,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Hospitalar
+abc,b,balança de peso corporal,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Hospitalar
+abc,c,carrinho,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario
+pqrs,p,pneu,Leve diretamente ao Centro de Limpeza,"Consulte a cooperativa de limpeza. Se possível, solicite o descarte a uma empresa especializada. Não pode ser descartado no ""lixo de grande porte"". É necessário pagar taxa extra.",Veiculos
+tuv,t,toalha,Lixo Combustível (MOYASERU),,Artigos de uso diario
+tuv,t,tesouras de poda para locais altos,Lixos de Grande Porte (SODAI GOMI),,"Jardinagem,Agricultura"
+tuv,t,tatami,Lixos de Grande Porte (SODAI GOMI),,Moradia
+tuv,t,tupperware,Lixo Não-Combustível (MOYASENAI),,Alimentos
+mno,m,arcenaria,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+abc,c,cigarros e bitucas de cigarros,Lixo Combustível (MOYASERU),Jogue água para apagar completamente o fogo e descarte em seguida.,Lazer
+abc,c,cômoda,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+abc,a,absorvente interno,Lixo Combustível (MOYASERU),Incinerar por questões higiênicas.,Hospitalar
+pqrs,p,papelões,Coleta de Papeis Velhos,Abra as caixas e amarre com barbante de papel.,Artigos de uso diario
+abc,c,corrente,Leve diretamente ao Centro de Limpeza,,Moradia
+mno,m,motoserra ou serra elétrica,Lixos de Grande Porte (SODAI GOMI),Esvazie completamente o combustível.,"Jardinagem,Agricultura"
+abc,a,assento para crianças (carro),Lixos de Grande Porte (SODAI GOMI),,Veiculos
+mno,m,mesa baixa com pernas de desencaixar ou dobradiças,Lixos de Grande Porte (SODAI GOMI),,Moradia
+tuv,t,tigelinha (tyawan),Lixo Não-Combustível (MOYASENAI),,Alimentos
+abc,a,agulha de injeção,E consultar uma instituição médica,,Hospitalar
+pqrs,p,pá de lixo,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+abc,b,bengala,Lixo Combustível (MOYASERU),"As bengalas de madeira devem ser quebradas e descartadas no ""lixo combustível"". As de plástico ou de alumínio no ""lixo não combustível"".",Artigos de uso diario
+abc,c,cairo descartável (aquecedor de bolso),Lixo Não-Combustível (MOYASENAI),"Devido o risco de provocar a ignição espontânea, não descarte o kairo não-utilizado (sem uso).   A embalagem de plástico deve ser descartada no lixo de ""plástico reciclável"".",Artigos de uso diario
+def,e,"escrivaninha (madeira, aço)",Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+pqrs,r,resíduos de conserva (yuka),Lixo Combustível (MOYASERU),"Mas, somente pequenas quantidades.",Alimentos
+pqrs,p,pedra de peso usado para fazer conservas,Não Coletado,"Consulte uma empresa especializada em paisagismo. Quando aos pesos feito de plástico, consulte o centro de limpeza, tel:28-1370.",Alimentos
+abc,c,cortador de unhas,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+tuv,v,vara de pesca,Lixo Não-Combustível (MOYASENAI),"Mas, somente se puder ser diminuído em tamanho menor que 1 metro. Os maiores, descarte no lixo de grande porte"".",Lazer
+tuv,t,tissue (lenço de papel),Lixo Combustível (MOYASERU),,Artigos de uso diario
+abc,c,caixa de tissue,Coleta de Papeis Velhos,"Retire o plástico, dobre e descarte nas ""revistas e similares"".",Artigos de uso diario
+mno,m,mesa,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+def,e,extensão elétrica,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+ghi,h,halteres de ferro,Leve diretamente ao Centro de Limpeza,,Lazer
+tuv,t,televisores,Coletado pelo revendedor,Leve ao revendedor. O descarte também pode ser solicitada a uma empresa de transporte de resíduos. É necessário pagar taxa de reciclagem.,Aparelhos eletricos
+abc,a,aparelhos elétricos,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+mno,m,mesinha com aquecedor elétrico (kotatsu),Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos
+abc,c,cobertor elétrico,Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos
+tuv,t,tapete elétrico,Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos
+abc,c,cabo elétrico,Lixo Não-Combustível (MOYASENAI),Corte em pedaços de menos de 1 metro de comprimento. Fios com tambor também devem ser cortados para serem descartados.,Aparelhos eletricos
+jkl,l,lâmpadas,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos
+jkl,l,lâmpadas fluorescentes compactas,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos
+def,d,dicionário eletrônico,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+abc,c,cartucho de cigarros eletrônicos,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+abc,a,agenda eletrônica,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+tuv,t,tenda,Lixos de Grande Porte (SODAI GOMI),Separe a armação e a lona.,Lazer
+mno,o,óleo de cozinha,Lixo Combustível (MOYASERU),"Absorva com papel ou panos, ou endureça com produtos próprios para depois descartar.",Alimentos
+tuv,t,telefone (aparelho),Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+pqrs,r,rolo de papel higiênico,Coleta de Papeis Velhos,,Artigos de uso diario
+mno,m,móveis de vime,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+pqrs,p,porcelana chinesa,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Artigos de uso diario
+pqrs,s,stupa,Não Coletado,Consulte o templo.,Outros
+tuv,t,torradeira ou tostadeira,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+pqrs,r,relógio,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+wxyz,z,zinco,Lixos de Grande Porte (SODAI GOMI),"O comprimento deve ser menor que 180 cm.  Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+pqrs,p,panela de barro,Lixo Não-Combustível (MOYASENAI),,Alimentos
+tuv,t,tambor,Lixos de Grande Porte (SODAI GOMI),,Outros
+ghi,g,gaiola de pássaros,Lixos de Grande Porte (SODAI GOMI),,Animais
+jkl,l,lata de tinta (somente de uso doméstico),Lixos de Grande Porte (SODAI GOMI),"Esvazie completamente o conteúdo. Latas menores que meia lata de 18 litros devem ser descartadas no ""lixo não queimável"".",Moradia
+tuv,t,tintas e derivados,Não Coletado,Consulte o vendedor.,Moradia
+ghi,g,garrafa de molho pronto para salada (vidro),Garrafas Vazias (AKIBIN),"As tampas de plástico descartar no ""lixo de plástico reciclável"".",Alimentos
+jkl,l,lama (sarjeta),Não Coletado,"Das vias provinciais consulte o escritório de obras públicas provinciais, das vias municipais consulte o setor de controle e manutenção municipal.",Outros
+def,f,faca,Lixo Não-Combustível (MOYASENAI),"Enrole fita crepe ou panos na espada, e escreva [はもの] no saco de lixo.",Artigos de uso diario
+pqrs,p,pia,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos menores que 180cm. Para comprimentos maiores, leve diretamente ao centro de limpeza.",Moradia
+mno,m,machadinha,Lixo Não-Combustível (MOYASENAI),"Até aproximadamente 20 cm. As machadinhas grandes devem ser descartadas no ""lixo de grande porte"".","Jardinagem,Agricultura"
+abc,a,absorventes higiênicos,Lixo Combustível (MOYASERU),Incinerar por questões higiênicas.,Hospitalar
+pqrs,p,panela,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Alimentos
+jkl,l,lixo de cozinha,Lixo Combustível (MOYASERU),Cortar bem a água para descartar.,Alimentos
+abc,c,chapa ondulada,Lixos de Grande Porte (SODAI GOMI),O comprimento deve ser menor que 180 cm.  Aqueles com comprimento maiores devem ser cortado em pedaços menores.,Moradia
+tuv,t,teste de gravidez,Lixo Combustível (MOYASERU),Incinerar por questões higiênicas.,Hospitalar
+abc,b,bichos de pelúcia,Lixo Combustível (MOYASERU),Até o tamanho do saco de lixo determinado.,Lazer
+pqrs,p,pasta de farelo de arroz,Lixo Combustível (MOYASERU),"Mas, somente pequenas quantidades.",Alimentos
+pqrs,p,panos,Lixo Combustível (MOYASERU),Os panos compridos cortar em tamanhos menores de 1 metro.,Roupas
+abc,c,carriola (carrinho de mão),Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario
+abc,a,areia para gato,Lixo Combustível (MOYASERU),Incinerar por questões higiênicas. (Remova as fezes na privada),Animais
+ghi,g,gato morto,Não Coletado,Comunique a cooperativa de limpeza Nan-etsu.,Animais
+pqrs,s,saco de dormir,Lixos de Grande Porte (SODAI GOMI),,Lazer
+tuv,t,tubo de pasta de dente,Plástico Reciclável (PURA),Lave bem e descarte.,Artigos de uso diario
+abc,a,argila,Lixo Não-Combustível (MOYASENAI),"Os feito de papel descarte no ""lixo combustível"".",Lazer
+def,e,equipamento agrícola (doméstico de pequeno porte),Lixos de Grande Porte (SODAI GOMI),Esvazie completamente o óleo (cortador de grama até aparelho de névoa). Desmonte até onde puder.,"Jardinagem,Agricultura"
+ghi,g,garrafa de vidro de pesticidas (de uso doméstico),Lixo Não-Combustível (MOYASENAI),Esvazie completamente as garrafas de pesticidas e lave com água.,"Jardinagem,Agricultura"
+ghi,g,garrafa de vidro de pesticidas (de agricultores),Não Coletado,Consulte uma empresa especializada.,"Jardinagem,Agricultura"
+pqrs,p,pesticidas e derivados,Não Coletado,Consulte uma empresa especializada.,"Jardinagem,Agricultura"
+abc,c,caderno,Coleta de Papeis Velhos,Junte com as revistas e amarre.,Artigos de uso diario
+pqrs,s,serra,Lixo Não-Combustível (MOYASENAI),"Até aproximadamente 20 cm. As machadinhas grandes devem ser descartadas no ""lixo de grande porte"".","Jardinagem,Agricultura"
+tuv,v,vidro de algas (nori),Garrafas Vazias (AKIBIN),"Retire a tampa e coloque nas cestas separadas por cores. Descarte as tampas de plástico no ""lixo de plástico reciclável"".",Alimentos
+abc,c,cinza,Consulta a um processador,A incineração doméstica é proibida por lei.,Outros
+abc,b,bicicleta,Não Coletado,Consulte o revendedor.,Veiculos
+pqrs,r,resíduos de óleo,Não Coletado,Consulte o revendedor.,Veiculos
+pqrs,p,plástico de estufas (de agricultores),Não Coletado,"Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 28-1370, ou descarte no dia designado pela cooperativa agrícola.","Jardinagem,Agricultura"
+jkl,l,lápide,Não Coletado,Consulte o revendedor.,Outros
+abc,c,cartão postal,Coleta de Papeis Velhos,"Junte com as revistas e amarre. As que contém fotos descarte no ""lixo combustível"".",Artigos de uso diario
+abc,c,calçados,Lixo Não-Combustível (MOYASENAI),,Roupas
+abc,b,balde,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Artigos de uso diario
+pqrs,p,palitinhos (hashi),Lixo Combustível (MOYASERU),"Os feito de plástico descarte no ""lixo de plástico reciclável"".",Alimentos
+abc,c,computador,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Contacte o fabricante,"Entre em contato com o fabricante. A reciclagem de computadores é pago.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.",Lazer
+pqrs,s,sinalizadores de fumaça,Não Coletado,"Os usados devem ser descartados no ""lixo não queimável"".",Veiculos
+abc,b,bandeja de isopor,Coletado pelo revendedor,"Bandejas, etc. feitos de isopor. Lave bem e leve ao local de coleta do mercado ou descarte no ""lixo de plástico reciclável"".",Alimentos
+abc,b,bateria,Leve diretamente ao Centro de Limpeza,"O posto de gasolina e as agências vendedoras de carros também fazem o tratamento e eliminação. Não pode ser descartado no ""lixo de grande porte"".",Veiculos
+abc,c,carregador de celulares,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos
+abc,b,bastão (beisebol),Lixos de Grande Porte (SODAI GOMI),,Lazer
+abc,b,bastão (uso culinário),Lixo Não-Combustível (MOYASENAI),"Os bastões grandes devem ser descartados no ""lixo de grande porte"".",Alimentos
+ghi,i,isopor,Plástico Reciclável (PURA),Quebre em uma tamanho que caiba no saco de lixo. Não é necessário quebrar em tamanhos menores.,Alimentos
+mno,m,material de enchimento de isopor,Plástico Reciclável (PURA),"Os granulados devem ser descartados no ""lixo não combustível"".",Outros
+jkl,l,lenço de papel,Lixo Combustível (MOYASERU),,Artigos de uso diario
+def,f,fogos de artifício,Lixo Combustível (MOYASERU),"Jogue água para apagar completamente o fogo e descarte em seguida. No entanto, os não usados leve pessoalmente ao centro de limpeza.",Lazer
+def,e,escova de dentes,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+ghi,i,instrumentos cortantes,Lixo Não-Combustível (MOYASENAI),"Enrole fita crepe, etc. na parte afiada, e escreva [ハモノ] no saco de lixo.",Alimentos
+def,f,folha de plástico usado como divisória para bentô,Lixo Não-Combustível (MOYASENAI),,Alimentos
+abc,a,agulha,Lixo Não-Combustível (MOYASENAI),Enrole fita crepe para que não espete.,Roupas
+abc,a,arame,Lixo Não-Combustível (MOYASENAI),Corte em tamanhos de aproximadamente 1 metro.,Artigos de uso diario
+abc,a,aquecedor de halogéneo,Lixos de Grande Porte (SODAI GOMI),,Aparelhos eletricos
+jkl,l,lenço,Lixo Combustível (MOYASERU),,Artigos de uso diario
+abc,c,cabide,Lixo Não-Combustível (MOYASENAI),,Roupas
+abc,b,brochura,Coleta de Papeis Velhos,"Junte com as revistas e amarre. Os que contém fotos descarte no ""lixo combustível"".",Artigos de uso diario
+def,f,fita de polipropileno,Lixo Não-Combustível (MOYASENAI),Corte em comprimentos de 50cm. Não descarte comprido.,Artigos de uso diario
+abc,a,aparelho de vídeo-cassete,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+def,f,fitas de vídeo,Lixo Combustível (MOYASERU),"As caixas de plástico descarte no ""lixo não combustível"", as caixas de papel descarte no ""lixo de papeis velhos"" para reciclagem.",Aparelhos eletricos
+mno,m,mangueira de plástico,Lixo Não-Combustível (MOYASENAI),Encurte-o cortando em comprimentos de aproximadamente 1 metro.,Artigos de uso diario
+def,f,folhas de plástico,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario
+pqrs,s,saco de plástico,Plástico Reciclável (PURA),,Artigos de uso diario
+ghi,g,garrafa vidro,Coletado pelo revendedor,"Se estiver quebrado descarte nas ""garrafas vazias"".",Alimentos
+jkl,l,lonas de plástico,Lixo Não-Combustível (MOYASENAI),"Corte em comprimentos menores que 1 metro. Se não for cortar, descarte no ""lixo de grande porte"".",Artigos de uso diario
+def,f,fita de plástico,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+abc,b,braseiro,Lixos de Grande Porte (SODAI GOMI),,Moradia
+pqrs,s,saco de fertilizantes,Não Coletado,Consulte o revendedor. Fertilizantes usados na horticultura (somente doméstico) obedeça as instruções do saco.,"Jardinagem,Agricultura"
+ghi,g,garrafa (alimentos e bebidas),Garrafas Vazias (AKIBIN),Garrafas de cerveja e de cachaça japonesa (sake) devem ser devolvidas ao revendedor.,Alimentos
+ghi,g,garrafa (exceto de alimentos e bebidas),Lixo Não-Combustível (MOYASENAI),Garrafas de perfume e cosméticos.,Artigos de uso diario
+pqrs,p,pasta de papel,Coleta de Papeis Velhos,"Retire as partes de metal e descarte no ""lixo não combustível"".",Artigos de uso diario
+pqrs,p,pasta de plástico,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+def,e,envelope,Coleta de Papeis Velhos,"Os visores de plástio devem ser retirados e descartados no ""lixo não combustível"".",Artigos de uso diario
+def,e,envelope (plástico),Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+pqrs,p,porta deslizante,Lixos de Grande Porte (SODAI GOMI),,Moradia
+abc,a,altar budista,Não Coletado,Consulte o revendedor.,Outros
+pqrs,p,pincel para escrever,Lixo Combustível (MOYASERU),,Artigos de uso diario
+abc,a,acolchoados,Lixos de Grande Porte (SODAI GOMI),,Moradia
+pqrs,p,persiana,Lixos de Grande Porte (SODAI GOMI),"Mas, descarte somente depois de cortar ou desmontar em comprimentos menores de 180cm.",Moradia
+def,e,escova,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+ghi,i,impressoras,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+tuv,t,tinta da impressora (vazia),Coletado pelo revendedor,,Aparelhos eletricos
+abc,b,banheira aquecida com aquecedor,Não Coletado,Consulte o revendedor.,Moradia
+def,d,disquete,Lixo Não-Combustível (MOYASENAI),"As caixas de plástico devem ser descartadas no ""lixo não-combustívell"".",Aparelhos eletricos
+abc,b,bloco de concreto,Leve diretamente ao Centro de Limpeza,Somente os de suporte de varal. Somente pequenas quantidades.,Moradia
+tuv,t,tampa da banheira,Lixos de Grande Porte (SODAI GOMI),,Moradia
+abc,a,artigos de papelaria,Lixo Não-Combustível (MOYASENAI),"Objetos grandes devem ser descartados no ""lixo de grande porte"".",Artigos de uso diario
+def,f,fone de ouvido,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Lazer
+abc,c,criado-mudo,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos menores que 180cm. Para comprimentos maiores, leve diretamente ao centro de limpeza, tel: 0778-28-1370.",Moradia
+ghi,g,garrafas PET,garrafas PET,"Os que possuem o No. 1 na marca da reciclagem. A tampa e o rótulo devem ser descartados no ""lixo de plástico reciclável"".",Alimentos
+ghi,g,gaiola para animais de estimação,Lixos de Grande Porte (SODAI GOMI),,Animais
+abc,c,comida enlatada para animais de estimação,Latas Vazias (AKIKAN),Esvazie completamente o conteúdo e lave.,Animais
+tuv,t,toalete para animais de estimação,Lixos de Grande Porte (SODAI GOMI),"Retire as fezes do interior e jogue-as no ""lixo combustível"".",Animais
+abc,a,animal de estimação morto,Leve diretamente ao Centro de Limpeza,É necessário pagar taxa extra.,Animais
+abc,c,carrinho para bebê,Lixos de Grande Porte (SODAI GOMI),,Artigos de uso diario
+abc,c,capacete,Lixo Não-Combustível (MOYASENAI),,Lazer
+pqrs,p,penico,Leve diretamente ao Centro de Limpeza,,Moradia
+pqrs,r,roda (carros),Lixos de Grande Porte (SODAI GOMI),Não coletado se estiver com rodas. Leve as rodas ao revendedor.,Veiculos
+abc,c,calota da roda,Lixo Não-Combustível (MOYASENAI),,Veiculos
+abc,c,caldeira,Leve diretamente ao Centro de Limpeza,"Somente os de uso doméstico. No entanto, se a troca for solicitada a empresa especializada, a mesma deve recolher a caldeira.",Moradia
+abc,b,bússola,Lixo Não-Combustível (MOYASENAI),,Lazer
+tuv,v,vassoura,Lixo Não-Combustível (MOYASENAI),"As vassouras compridas devem ser descartadas no ""lixo de grande porte"".",Artigos de uso diario
+abc,b,bolinho de ácido bórico (veneno para baratas),Lixo Combustível (MOYASERU),,Artigos de uso diario
+pqrs,p,papel de embrulho,Coleta de Papeis Velhos,Junte com as revistas e amarre.,Artigos de uso diario
+def,f,faca de cozinha,Lixo Não-Combustível (MOYASENAI),Enrole fita adesiva na parte afiada e escreva [ハマノ] no saco de lixo.,Alimentos
+pqrs,r,recipiente de repelentes,Lixo Não-Combustível (MOYASENAI),Aqueles de pendurar.,Artigos de uso diario
+abc,b,bola de boliche,Leve diretamente ao Centro de Limpeza,,Lazer
+abc,b,bacia (cozinha),Lixo Não-Combustível (MOYASENAI),,Alimentos
+abc,b,bola,Lixo Não-Combustível (MOYASENAI),Descarte após esvaziar o ar.,Lazer
+abc,c,caneta esferográfica,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+mno,m,mangueira,Lixo Não-Combustível (MOYASENAI),Descarte após cortar em pedaços de menos de 1 metro de comprimento.,Artigos de uso diario
+mno,m,material de aquecimento e resfriamento,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+abc,c,cartaz,Coleta de Papeis Velhos,Junte e amarre com as revistas.,Lazer
+abc,b,bateria em forma de botão,Coletado pelo revendedor,,Aparelhos eletricos
+pqrs,p,pote ou garrafa térmica,Lixo Não-Combustível (MOYASENAI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Alimentos
+ghi,g,galão de plástico (até 20L),Lixo Não-Combustível (MOYASENAI),,Moradia
+jkl,l,livros,Coleta de Papeis Velhos,,Lazer
+abc,b,bandeja,Lixo Não-Combustível (MOYASENAI),"As bandejas de madeira devem ser descartados no ""lixo combustível"".",Artigos de uso diario
+tuv,t,travesseiro,Lixo Não-Combustível (MOYASENAI),"Se o material de enchimento for material combustível (algodão ou casca de trigo sarraceno), descarta-lo no ""lixo combustível"".",Moradia
+mno,m,marcador (caneta),Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+mno,m,máquina de massagem,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+abc,c,colchão,Lixos de Grande Porte (SODAI GOMI),Somente aqueles que não possuem molas (metal). Os colchões de molas devem ser levados diretamente ao centro de limpeza.,Moradia
+tuv,t,tábua de cozinha,Lixo Não-Combustível (MOYASENAI),"Se for de madeira, descarte no ""lixo combustível"".",Alimentos
+ghi,g,garrafa térmica,Lixo Não-Combustível (MOYASENAI),Inclusive garrafas de inóx e de vidro.,Alimentos
+def,f,frasco de maionese,Plástico Reciclável (PURA),Descarte após lavar o interior. Proceda da mesma forma com as frascos de maionese.,Alimentos
+mno,m,máquina de costura,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Inclusive máquinas de costura de pedal.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+jkl,l,limpador de ouvidos (mimikaki),Lixo Não-Combustível (MOYASENAI),"Se for de madeira descarte no ""lixo combustível"".",Artigos de uso diario
+jkl,l,lupa,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+abc,c,cartão de visita,Coleta de Papeis Velhos,"Coloque no envelope, junte com as revistas e amarre.",Outros
+mno,o,óculos,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+abc,c,cotonete,Lixo Combustível (MOYASERU),,Artigos de uso diario
+mno,m,motor,Não Coletado,Leve à empresa de coleta de metais.,Lazer
+abc,c,cobertores,Lixos de Grande Porte (SODAI GOMI),,Moradia
+tuv,v,vara de varal,Lixos de Grande Porte (SODAI GOMI),Aqueles até 180cm de comprimento.,Moradia
+pqrs,p,pedra do varal,Lixos de Grande Porte (SODAI GOMI),"Suportes de concreto de varal devem ser levados diretamente ao centro de limpeza, tel:0778-28-1370.",Moradia
+abc,b,bateria Móvel,Lixo Tóxico (YUGAI GOMI),,Aparelhos eletricos
+abc,a,argamassa,Leve diretamente ao Centro de Limpeza,"Mas, somente pequenas quantidades. Quando demolido por empresas, solicite à empresa para que dê o devido fim.",Moradia
+abc,c,chaleira,Lixo Não-Combustível (MOYASENAI),,Alimentos
+pqrs,p,produtos químicos,Não Coletado,Consulte o revendedor.,Outros
+abc,a,arame farpado,Leve diretamente ao Centro de Limpeza,,Moradia
+abc,b,bolsa de água quente,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+wxyz,x,xícara para chá,Lixo Não-Combustível (MOYASENAI),,Alimentos
+pqrs,r,roupas,Lixo Combustível (MOYASERU),Corte em pedaços de menos de 1 metro de comprimento.,Roupas
+mno,m,machado,Lixos de Grande Porte (SODAI GOMI),"Machados devem ser descartados no ""lixo de grande porte"".","Jardinagem,Agricultura"
+abc,a,armadura,Lixos de Grande Porte (SODAI GOMI),,Lazer
+ghi,i,isqueiro,Lixo Tóxico (YUGAI GOMI),Use completamente o conteúdo. Proceda da mesma forma com os isqueiros descartáveis.,Lazer
+pqrs,r,raquete,Lixo Não-Combustível (MOYASENAI),"As raquetes de madeira devem ser descartados ""lixo combustível"".",Lazer
+pqrs,r,rádio,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+def,e,embrulho de presente,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+pqrs,r,rolo do filme de PVC,Coleta de Papeis Velhos,"Somente de filmes de uso doméstico. Coloque dentro do saco de papel, junte com as revistas e amarre.",Alimentos
+def,f,filme de PVC,Lixo Não-Combustível (MOYASENAI),"Os filmes usados para cobrir carnes e peixes comprados no mercado devem ser lavados e descartados no ""lixo de plástico reciclável"".",Alimentos
+abc,b,bolsa da escola (randoseru),Lixo Não-Combustível (MOYASENAI),,Roupas
+abc,c,controle remoto,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI),"Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.",Aparelhos eletricos
+mno,m,mochila,Lixo Não-Combustível (MOYASENAI),,Roupas
+jkl,l,lupa,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario
+pqrs,r,roleta,Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no ""lixo não-queimável"". Maiores que o tamanho citado, descarte no ""lixo de grande porte"".",Lazer
+ghi,g,geladeira (freezer),Coletado pelo revendedor,Leve ao revendedor. É possível solicitar a uma empresa de transporte de resíduos. É necessário pagar taxa de reciclagem.,Aparelhos eletricos
+def,d,disco de vinil,Lixo Não-Combustível (MOYASENAI),,Lazer
+pqrs,r,recibo da máquina registradora,Lixo Combustível (MOYASERU),,Artigos de uso diario
+pqrs,s,saco de compras de plástico,Plástico Reciclável (PURA),,Artigos de uso diario
+def,e,embalagem à vácuo de alimentos prontos,Plástico Reciclável (PURA),Descarte após lavar o interior.,Alimentos
+tuv,t,tijolos,Leve diretamente ao Centro de Limpeza,"Mas, somente pequenas quantidades.",Moradia
+abc,a,armário de metal,Lixos de Grande Porte (SODAI GOMI),"Para comprimentos menores que 180 cm. Maiores, consulte o centro de limpeza, tel: 0778-28-1370.",Moradia
+pqrs,p,processador de textos,Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI),"Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no ""lixo de grande porte"".",Aparelhos eletricos
+def,e,elástico,Lixo Não-Combustível (MOYASENAI),,Artigos de uso diario

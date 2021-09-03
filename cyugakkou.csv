@@ -1,13 +1,4 @@
-﻿#LINK,,,,,
-#lang,ja,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,
-#attribution_name,越前市情報統計課,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,
-#file_name,cyugakkou,,,,
-#download_from,http://linkdata.org/work/rdf1s1720i,,,,
-#property,住所,電話番号,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,地区
-#object_type_xsd,string:ja,string,float,float,string
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/address,https://schema.org/telephone,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#echizen_city_area
 武生第一中学校,越前市平出一丁目６－１,23-1141,35.907857,136.157942,西
 武生第二中学校,越前市妙法寺町４２−１５,23-1422,35.887772,136.160721,南
 武生第二中学校・坂口分校,越前市湯谷町２４－２５,28-1808,35.859035,136.087126,坂口

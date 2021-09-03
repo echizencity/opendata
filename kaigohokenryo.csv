@@ -1,13 +1,4 @@
-﻿#LINK,,,
-#lang,ja,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,
-#attribution_name,越前市情報統計課,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,
-#file_name,kaigohokenryo,,
-#download_from,http://linkdata.org/work/rdf1s1691i,,
-#property,区分,負担割合,保険料（年額）
-#object_type_xsd,string:ja,string:ja,string:ja
-#property_context,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/stage,https://schema.org/category,https://code4fukui.github.io/rdf/#burden_ratio,https://code4fukui.github.io/rdf/#value_year
 第１段階,生活保護の受給者、又は、世帯全員が市民税非課税で老齢福祉年金の受給者又は前年の合計所得金額と課税年金収入額の合計が80万円以下の人,基準額×0.3,"21,360円"
 第２段階,世帯全員が市民税非課税で、前年の合計所得金額と課税年金収入額の合計が８０万円超１２０万円以下の人（第1段階に該当する人を除く）,基準額×0.5,"35,400円"
 第３段階,世帯全員が市民税非課税で、前年の合計所得金額と課税年金収入額の合計が１２０万円超の人（第1段階に該当する人を除く）,基準額×0.7,"49,560円"

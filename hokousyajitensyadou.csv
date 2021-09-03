@@ -1,13 +1,4 @@
-﻿#LINK,,,,,,,,,,,,,,,,
-#lang,ja,,,,,,,,,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,,,,,,
-#attribution_name,越前市情報統計課,,,,,,,,,,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,,,,,,,
-#file_name,hokousyajitensyadou,,,,,,,,,,,,,,,
-#download_from,http://linkdata.org/work/rdf1s1757i,,,,,,,,,,,,,,,
-#property,路線名,場所,利用者,実延長(m),公衆トイレ1,緯度(公衆トイレ1),経度(公衆トイレ1),公衆トイレ2,緯度(公衆トイレ2),経度(公衆トイレ2),始点地番,緯度(始点),経度(始点),終点地番,緯度(終点),経度(終点)
-#object_type_xsd,string:ja,string:ja,string:ja,string,string:ja,string,string,string:ja,string,string,string:ja,string,string,string:ja,string,string
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
-越前市道第4458号線,サンサン遊歩道,国高地区,歩行者専用道路,580,,,,,,,村国三丁目５４字１３番４,35.907901,136.181535,村国三丁目３０字１０番,35.913479,136.18172
-越前市道第2363号線 越前市道第1334号線,ふるさとを偲ぶ散歩道,かこさとしふるさと絵本館「石石」(らく)と紫式部公園を結ぶ,歩行者専用道路,1369.2,,,,,,,高瀬１丁目１５３番,35.896482,136.157096,東千福町７４字４５２,35.883539,136.159508
-越前市道第1500号線,丹南ふれあいスポーツレクリエーションロード,日野川の河川敷,歩行者・自転車道　,9567.8,有(松ケ鼻園地),35.870485,136.175959,,,,中平吹町３８字１２番,35.857159,136.181017,家久町１１字２７番１,35.932573,136.174228
+﻿https://schema.org/address,https://schema.org/name,https://schema.org/Place,https://code4fukui.github.io/rdf/#user,https://schema.org/Distance,https://schema.org/PublicToilet,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#start_address,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#end_address,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long
+越前市道第4458号線,サンサン遊歩道,国高地区,歩行者専用道路,580,,,,村国三丁目５４字１３番４,35.907901,136.181535,村国三丁目３０字１０番,35.913479,136.18172
+越前市道第2363号線 越前市道第1334号線,ふるさとを偲ぶ散歩道,かこさとしふるさと絵本館「石石」(らく)と紫式部公園を結ぶ,歩行者専用道路,1369.2,,,,高瀬１丁目１５３番,35.896482,136.157096,東千福町７４字４５２,35.883539,136.159508
+越前市道第1500号線,丹南ふれあいスポーツレクリエーションロード,日野川の河川敷,歩行者・自転車道　,9567.8,有(松ケ鼻園地),35.870485,136.175959,中平吹町３８字１２番,35.857159,136.181017,家久町１１字２７番１,35.932573,136.174228

@@ -1,13 +1,4 @@
-﻿#LINK,,,,,,,,,,,,,
-#lang,ja,,,,,,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,,,
-#attribution_name,越前市情報統計課,,,,,,,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,,,,
-#file_name,kenkououendan,,,,,,,,,,,,
-#download_from,http://linkdata.org/work/rdf1s1587i,,,,,,,,,,,,
-#property,category,address1,address2,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,area,tel,service,service,service,service,service,ＵＲＬ
-#object_type_xsd,string:ja,string:ja,string:ja,float,float,string:ja,string,string:ja,string:ja,string:ja,string:ja,string:ja,string:ja
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/category,https://schema.org/address,https://schema.org/streetAddress,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#echizen_city_area,https://schema.org/telephone,https://schema.org/Service,https://schema.org/Service,https://schema.org/Service,https://schema.org/Service,https://schema.org/Service,https://schema.org/url
 Easy Café&Dining　ダフィー絵梨香,飲食店,福井県越前市,宮谷町31-6,35.893522,136.222097,味真野,0778-27-8846,追加料金でサラダ追加,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 伊万里,飲食店,福井県越前市,新保2丁目2-2,35.911911,136.156045,大虫,0778-23-4845,ミニサラダサービス,分煙,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 いろは本店,飲食店,福井県越前市,蓬莱町2-24,35.903085,136.167225,東,0778-22-0654,野菜増量,ご希望に応じて減塩,食後の歯磨きの場を提供,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
@@ -25,7 +16,7 @@ cafe　ゆいまーる,飲食店,福井県越前市,岩本町6-2-3,35.90945,136.
 coco.malia,飲食店,福井県越前市,押田1丁目3-20,35.907729,136.186112,国高,0778-21-2205,ミニサラダサービス,野菜増量,減塩メニューの提示,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 コメダ珈琲店武生店,飲食店,福井県越前市,芝原5丁目3-8,35.9211008,136.1591928,吉野,0778-42-5551,追加料金でサラダ追加,歯磨きの場を提供,分煙,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 サイゼリヤ福井武生店,飲食店,福井県越前市,新町1丁目1-1,35.9070869,136.1540436,西,0778-23-3597,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-里山工房さかのくち,飲食店,福井県越前市,湯谷町28-23-7,35.859280,136.085032,坂口,0778-28-1820,追加料金でサラダ追加,野菜増量のメニューがある,地場産の野菜や山菜、地元特産品の味噌を使っている,ご希望に応じて減塩,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+里山工房さかのくち,飲食店,福井県越前市,湯谷町28-23-7,35.85928,136.085032,坂口,0778-28-1820,追加料金でサラダ追加,野菜増量のメニューがある,地場産の野菜や山菜、地元特産品の味噌を使っている,ご希望に応じて減塩,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 ジャムハウス,飲食店,福井県越前市,芝原5丁目20-24,35.926085,136.162041,吉野,0778-23-5960,ご希望に応じて減塩,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 シュトラウス 金進堂,飲食店,福井県越前市,姫川2丁目3-39,35.896552,136.171466,南,0778-22-1471,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 食喜　もめん,飲食店,福井県越前市,定友町20-9-1,35.918313,136.248365,岡本,0778-42-0478,野菜増量,ご希望に応じて、変わり漬物をサービス,減塩メニューの提示,食後の歯磨きの場を提供,店内禁煙,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html

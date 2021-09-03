@@ -1,13 +1,4 @@
-﻿#LINK,,
-#lang,ja,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,
-#attribution_name,越前市情報統計課,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,
-#file_name,echizennshicyounaidennwabangou,
-#download_from,http://linkdata.org/work/rdf1s1681i,
-#property,各課・施設,電話番号
-#object_type_xsd,string:ja,string:ja
-#property_context,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/category,https://schema.org/telephone
 政策推進課,企画部,0778-22-3016
 総合交通政策課,企画部,0778-22-3704
 財務課,企画部,0778-22-3234

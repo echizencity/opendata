@@ -1,12 +1,4 @@
-﻿#LINK,,,,,
-#lang,ja,,,,
-#attribution_name,越前市情報統計課,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,
-#file_name,chisanchisyounomise,,,,
-#download_from,http://linkdata.org/work/rdf1s1664i,,,,
-#property,住所,電話番号,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,地区
-#object_type_xsd,string:ja,string:ja,float,float,string
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/address,https://schema.org/telephone,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#echizen_city_area
 秀亭　かねろく,堀川町1-4,0778- 22-3271,35.901214,136.171771,東
 神山菜庵,広瀬町84-3-4,0778- 42-8680,35.887262,136.132096,神山
 大江戸　本店,府中一丁目12-33,0778- 23-7765,35.903319,136.169918,東

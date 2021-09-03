@@ -1,13 +1,4 @@
-﻿#LINK,,,,,,,,,
-#lang,ja,,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,
-#attribution_name,越前市情報統計課,,,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,
-#file_name,kouikihinanjyocn,,,,,,,,
-#download_from,http://linkdata.org/work/rdf1s1586i,,,,,,,,
-#property,address,origin,category1,category2,category3,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,area,tel
-#object_type_xsd,string:ja,string:ja,string:ja,string:ja,string:ja,float,float,string:ja,string
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/address,https://code4fukui.github.io/rdf/#echizen_city_origin,https://code4fukui.github.io/rdf/#category1,https://code4fukui.github.io/rdf/#category2,https://code4fukui.github.io/rdf/#category3,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#echizen_city_area,https://schema.org/telephone
 武生東小学校,越前市国府二丁目9-12,防灾安全课,防灾,广域避难所,全部灾害,35.9084868,136.1685104,東地区,0778-22-0367
 武生西小学校,越前市中央二丁目2-13,防灾安全课,防灾,广域避难所,全部灾害,35.9025706,136.1581421,西地区,0778-22-0408
 武生第一中学校,越前市平出一丁目6-1,防灾安全课,防灾,广域避难所,全部灾害,35.9085588,136.1584336,西地区,0778-23-1411

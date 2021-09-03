@@ -1,13 +1,4 @@
-﻿#LINK,,,,,,,,,,,
-#lang,ja,,,,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,
-#attribution_name,越前市情報統計課,,,,,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,,
-#file_name,AED,,,,,,,,,,
-#download_from,http://linkdata.org/work/rdf1s1573i,,,,,,,,,,
-#property,address,origin,category1,category2,category3,file,url,area,count,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long
-#object_type_xsd,string:ja,string:ja,string:ja,string:ja,string:ja,string,string,string,string,float,float
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/address,https://code4fukui.github.io/rdf/#echizen_city_origin,https://code4fukui.github.io/rdf/#category1,https://code4fukui.github.io/rdf/#category2,https://code4fukui.github.io/rdf/#category3,https://schema.org/name,https://schema.org/url,https://code4fukui.github.io/rdf/#echizen_city_area,https://code4fukui.github.io/rdf/#counts,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long
 越前市福祉健康センター,府中一丁目11-2,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,東地区,1,35.904543,136.17041
 市役所本庁舎,府中一丁目13-7,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,東地区,1,35.903529,136.168761
 市役所分庁舎,蓬莱町8-10,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,東地区,1,35.901778,136.167936

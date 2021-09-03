@@ -1,12 +1,4 @@
-﻿#LINK,,,
-#lang,ja,,
-#attribution_name,越前市情報統計課,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,
-#file_name,echizenshimadoguchiannnai,,
-#download_from,http://linkdata.org/work/rdf1s1683i,,
-#property,問い合わせ内容,電話番号,メールアドレス
-#object_type_xsd,string:ja,string:ja,string
-#property_context,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/category,https://schema.org/about,https://schema.org/telephone,https://schema.org/email
 政策推進課,総合計画、行政評価、広域行政、行財政構造改革、大学連携,２２－３０１６,kikaku@city.echizen.lg.jp
 総合交通政策課,新庁舎建設、北陸新幹線、公共交通対策,２２－３７０４,mathikou@city.echizen.lg.jp
 財務課,財政計画、予算編成、市有財産管理、入札、工事検査、物品購入,２２－３２３４,zaisei@city.echizen.lg.jp

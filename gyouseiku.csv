@@ -1,13 +1,4 @@
-﻿#LINK,,
-#lang,ja,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,
-#attribution_name,越前市情報統計課,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,
-#file_name,gyouseiku,
-#download_from,http://linkdata.org/work/rdf1s1583i,
-#property,borough,読み
-#object_type_xsd,string:ja,string:other
-#property_context,	Assertion,assertion
+﻿https://schema.org/name,https://code4fukui.github.io/rdf/#echizen_city_area,https://code4fukui.github.io/rdf/#katakana
 府中一丁目,東地区,フチュウ1チョウメ
 府中二丁目,東地区,フチュウ2チョウメ
 府中三丁目,東地区,フチュウ3チョウメ

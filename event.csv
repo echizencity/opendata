@@ -1,11 +1,21 @@
-﻿#LINK,,,,,,,,,,,,,,,,,,,,
-#lang,ja,,,,,,,,,,,,,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/,,,,,,,,,,,,,,,,,,,
-#attribution_name,越前市,,,,,,,,,,,,,,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,,,,,,,,,,,
-#file_name,event,,,,,,,,,,,,,,,,,,,
-#download_from,http://linkdata.org/work/rdf1s1946i,,,,,,,,,,,,,,,,,,,
-#property,イベント名称,内容,備考,ジャンル名,開催日開始,開催日終了,登録日,問い合わせ先,電話番号,開催地,開催地URL,地区,市町,住所,連絡先電話番号,メールアドレス,交通手段,緯度,経度,ズームレベル
-#object_type_xsd,string,string,string,string,string,string,string,string,string,string,string,string,string,string,string,string,string,float,float,string
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
-1,越前市に生息するダンスをする魚「トミヨ」観察会の開催,　現在、越前市かこさとしふるさと絵本館「石石（らく）」で原画（複製）を展示中のかこさとし氏の著作『ダンスをする魚のなぜなぜなぜ？』（小峰書店　2000年）に登場する、ダンスをする魚「イトヨ」と同じトゲウオ科の魚「トミヨ」の生体を観察します。　　　　　現在では希少な「トミヨ」を長年に渡り飼育し、その生態に造詣の深い加藤泰宏氏に、その特徴をわかりやすく説明していただきます。,☆開催日時：8月9日（日）午後2時から午後4時まで　☆対象：小学生　☆定員：先着20名まで（事前申込が必要です）　☆参加費：無料,こども,2020-08-09 00:00:00,2020-08-09 00:00:00,2020-07-30 00:00:00,越前市かこさとしふるさと絵本館「石石（らく）」,0778－21－2019,越前市かこさとしふるさと絵本館「石石（らく）」,http://www.city.echizen.lg.jp/office/090/060/kakosatosi/index.html,丹南,越前市,高瀬一丁目14－7,0778－21－2019,,,,,
+﻿https://schema.org/category,https://schema.org/description
+イベント名称,越前市に生息するダンスをする魚「トミヨ」観察会の開催
+内容,現在、越前市かこさとしふるさと絵本館「石石（らく）」で原画（複製）を展示中のかこさとし氏の著作『ダンスをする魚のなぜなぜなぜ？』（小峰書店　2000年）に登場する、ダンスをする魚「イトヨ」と同じトゲウオ科の魚「トミヨ」の生体を観察します。　　　　　現在では希少な「トミヨ」を長年に渡り飼育し、その生態に造詣の深い加藤泰宏氏に、その特徴をわかりやすく説明していただきます。
+備考,☆開催日時：8月9日（日）午後2時から午後4時まで　☆対象：小学生　☆定員：先着20名まで（事前申込が必要です）　☆参加費：無料
+ジャンル名,こども
+開催日開始,2020/8/9
+開催日終了,2020/8/9
+登録日,2020/7/30
+問い合わせ先,越前市かこさとしふるさと絵本館「石石（らく）」
+電話番号,0778－21－2019
+開催地,越前市かこさとしふるさと絵本館「石石（らく）」
+開催地URL,http://www.city.echizen.lg.jp/office/090/060/kakosatosi/index.html
+地区,丹南
+市町,越前市
+住所,高瀬一丁目14－7
+連絡先電話番号,0778－21－2019
+メールアドレス,
+交通手段,
+緯度,
+経度,
+ズームレベル,

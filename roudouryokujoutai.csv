@@ -1,12 +1,25 @@
-﻿#LINK,,,,,,,,,,,,,
-#lang,ja,,,,,,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,,,
-#attribution_name,越前市情報統計課,,,,,,,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,,,,
-#file_name,roudouryokujoutai,,,,,,,,,,,,
-#download_from,http://linkdata.org/work/rdf1s2661i,,,,,,,,,,,,
-#property,項目,総数【不詳を含む】(人),労働力人口総数(人),就業者総数(人),就業者数【主に仕事】(人),就業者数【家事のほか仕事】(人),就業者数【通学のかたわら仕事】(人),休業者数(人),完全失業者数（人),非労働力人口総数(人),非労働力人口数【家事】(人),非労働力人口数【通学】(人),その他(人)
-#object_type_xsd,string:ja,int,int,int,int,int,int,int,int,int,int,int,int
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
-1,総　　数,73110,44626,41875,36737,4368,262,508,2751,26458,10851,4209,11398
-2,男,35333,25234,23407,22569,498,118,222,1827,8902,1333,2136,5433
+﻿https://schema.org/gender,https://schema.org/category,https://code4fukui.github.io/rdf/#population
+総　　数,労働力人口総数,44626
+総　　数,就業者総数,41875
+総　　数,就業者数【主に仕事】,36737
+総　　数,就業者数【家事のほか仕事】,4368
+総　　数,就業者数【通学のかたわら仕事】,262
+総　　数,休業者数,508
+総　　数,完全失業者数,2751
+総　　数,非労働力人口総数,26458
+総　　数,非労働力人口数【家事】,10851
+総　　数,非労働力人口数【通学】,4209
+総　　数,その他,11398
+総　　数,総数【不詳を含む】,73110
+男,労働力人口総数,25234
+男,就業者総数,23407
+男,就業者数【主に仕事】,22569
+男,就業者数【家事のほか仕事】,498
+男,就業者数【通学のかたわら仕事】,118
+男,休業者数,222
+男,完全失業者数,1827
+男,非労働力人口総数,8902
+男,非労働力人口数【家事】,1333
+男,非労働力人口数【通学】,2136
+男,その他,5433
+男,総数【不詳を含む】,35333

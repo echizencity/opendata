@@ -1,13 +1,4 @@
-﻿#LINK,,,,,,,,,
-#lang,ja,,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,
-#attribution_name,越前市情報統計課,,,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,
-#file_name,iryoukikan,,,,,,,,
-#download_from,http://linkdata.org/work/rdf1s1577i,,,,,,,,
-#property,address,description,url,tel,shinryokamoku,色,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,area
-#object_type_xsd,string:ja,string:ja,string,string,string:ja,,float,float,string
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/address,https://schema.org/description,https://schema.org/url,https://schema.org/telephone,https://schema.org/category,https://schema.org/color,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#echizen_city_area
 （医）林病院,越前市府中一丁目3-5,,http://www.hayashi-hospital.or.jp/,0778-22-0336,内、 外、 整、 消 外、 消 内、 脳 神 外、 神内、循、呼、リウマチ、眼、リハビリ、 泌、形成外、放、麻、腎,緑,35.902104,136.169652,東
 さとういきいきクリニック,越前市府中一丁目4-20,,http://www.ikiikiclinic.jp/,0778-21-0310,消内、内、外,緑,35.902575,136.168914,東
 桑原心療内科クリニック,越前市府中二丁目3-22,,,0778-21-1161,心療内、精、神,緑,35.904951,136.168955,東

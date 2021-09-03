@@ -1,8 +1,7 @@
-﻿#LINK,http://linkdata.org/upload,,,,,,,,
-#file_name,0528syugiin18-19sai,,,,,,,,
-#lang,ja,,,,,,,,
-#attribution_name,越前市情報統計課,,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,
-#property,当日有権者数　18歳（人）,当日有権者数　19歳（人）,当日有権者数　計（人）,投票者数（18歳）　計（人）,投票者数（18歳）　投票率（％）,投票者数（19歳）　計（人）,投票者数（19歳）　投票率（％）,投票者数　計（人）,18歳･19歳投票率（％）
-#object_type_xsd,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other,string:other
-#property_context,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion,assertion
+﻿https://schema.org/category,https://code4fukui.github.io/rdf/#number_of_voters,https://code4fukui.github.io/rdf/#number_of_turnout
+当日有権者 18歳,793,
+当日有権者 19歳,831,
+当日有権者 計,1624,
+投票者（18歳） 計,430,54.22
+投票者（19歳） 計,276,33.21
+投票者 計,706,43.47

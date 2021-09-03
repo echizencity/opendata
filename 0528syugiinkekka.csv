@@ -1,11 +1,4 @@
-﻿#LINK,http://linkdata.org/upload
-#file_name,0528syugiinkekka
-#lang,ja
-#attribution_name,越前市情報統計課
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html
-#property,得票数
-#object_type_xsd,string:other
-#property_context,assertion
-高木　つよし,"17,842 "
-斉木　武志,"16,688 "
-さるはし　巧,"2,886 "
+﻿https://schema.org/Person,https://code4fukui.github.io/rdf/#number_of_votes
+高木　つよし,"17,842"
+斉木　武志,"16,688"
+さるはし　巧,"2,886"

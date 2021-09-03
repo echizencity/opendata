@@ -1,13 +1,4 @@
-﻿#LINK,,,
-#lang,ja,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,
-#attribution_name,越前市情報統計課,,
-#license,http://creativecommons.org/publicdomain/zero/1.0/deed.ja,,
-#file_name,shiei_list,,
-#download_from,http://linkdata.org/work/rdf1s8280i,,
-#property,address,category1,category2
-#object_type_xsd,string,string,string
-#property_context,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/address,https://schema.org/accommodationCategory,https://schema.org/building_ownership
 昭和団地　1号,"越前市中央一丁目3－17,18",長屋建,所有
 武生南団地　準耐1～8号,越前市南二丁目3－31～35,長屋建,所有
 武生南団地　準耐9～12号,越前市南二丁目5－23～27,長屋建,所有
