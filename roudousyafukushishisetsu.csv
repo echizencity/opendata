@@ -1,12 +1,4 @@
-﻿#LINK,,,,,,,
-#lang,ja,,,,,,
-#attribution_name,越前市情報統計課,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,
-#file_name,roudousyafukushishisetsu,,,,,,
-#download_from,http://linkdata.org/work/rdf1s1663i,,,,,,
-#property,所在地,施設の内容,電話番号,お問い合せ先,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,地区
-#object_type_xsd,string:ja,string:ja,string:ja,string:ja,float,float,string:ja
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/color,https://schema.org/address,https://schema.org/description,https://schema.org/telephone,https://schema.org/ContactPoint,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#echizen_city_area
 労働福祉会館,中央二丁目５－１,会議室、和室（２部屋）、ホール,２４－３７１２,公益財団法人越前市文化振興・施設管理事業団,35.901878,136.155989,西
 式部ふれあい館,国高一丁目１３－１１,軽運動場、料理実習室、講習室、研修室（２部屋）、学習室,２３－００４７,越前市式部ふれあい館自治会,35.912411,136.184828,国高
 ワークステップひろせ,広瀬町１４４－１－１,研修室（３部屋）,２２－５７２６,ワークステップひろせ管理協会,35.889693,136.144423,神山

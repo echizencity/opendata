@@ -1,13 +1,4 @@
-﻿#LINK,,,,,,,
-#lang,ja,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,
-#attribution_name,越前市情報統計課,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,
-#file_name,shisetsuyoyaku,,,,,,
-#download_from,http://linkdata.org/work/rdf1s1884i,,,,,,
-#property,住所,電話番号,空き状況・予約,詳細,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,地区
-#object_type_xsd,string:ja,,,string,float,float,string
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/address,https://schema.org/telephone,https://schema.org/ReserveAction,https://schema.org/description,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#echizen_city_area
 武生東公民館,府中一丁目13-15,0778-23-4763,https://www.e-reserve.jp/eap-rj/rsv_rj/Core_i/init.asp?KLCD=189999&SBT=3&LCD=18209&KCD=209007,http://www.city.echizen.lg.jp/office/090/050/010/index.html,35.90394,136.16943,東
 武生西公民館,中央二丁目5-35,0778-23-4635,https://www.e-reserve.jp/eap-rj/rsv_rj/Core_i/init.asp?KLCD=189999&SBT=3&LCD=18209&KCD=209008,http://www.city.echizen.lg.jp/office/090/050/020/index.html,35.90214,136.15642,西
 武生南公民館,武生柳町12-27,0778-23-5103,https://www.e-reserve.jp/eap-rj/rsv_rj/Core_i/init.asp?KLCD=189999&SBT=3&LCD=18209&KCD=209009,http://www.city.echizen.lg.jp/office/090/050/030/index.html,35.89524,136.16406,南

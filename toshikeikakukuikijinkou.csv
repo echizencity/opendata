@@ -1,12 +1,3 @@
-﻿#LINK,,,,,,,,,,,
-#lang,ja,,,,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,,,
-#attribution_name,越前市情報統計課,,,,,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,,,
-#file_name,0208toshikeikakukuikijinkou,,,,,,,,,,
-#download_from,http://linkdata.org/work/rdf1s2655i,,,,,,,,,,
-#property,区分,人口総数(人),15歳未満(人),65歳以上(人),男(人),女(人),世帯総数(世帯),一般世帯(世帯),施設等の世帯(世帯),一般世帯人員(人),施設等の世帯人員(人)
-#object_type_xsd,string:ja,int,int,int,int,int,int,int,int,int,int
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
-1,総数,81524,10928,22484,39859,41665,27889,27843,46,80152,1372
-2,都市計画区域,77588,10543,21009,37974,39614,26672,26628,44,76216,1349
+﻿https://schema.org/category,https://code4fukui.github.io/rdf/#population,https://code4fukui.github.io/rdf/#population_U15,https://code4fukui.github.io/rdf/#population_O65,https://schema.org/Male,https://schema.org/Female,https://code4fukui.github.io/rdf/#total_households,https://code4fukui.github.io/rdf/#number_of_GeneralHouseholds,https://code4fukui.github.io/rdf/#number_of_FacilityHouseholds,https://code4fukui.github.io/rdf/#general_household_personnel,https://code4fukui.github.io/rdf/#facility_household_personnel
+総数,81524,10928,22484,39859,41665,27889,27843,46,80152,1372
+都市計画区域,77588,10543,21009,37974,39614,26672,26628,44,76216,1349

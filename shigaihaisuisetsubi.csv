@@ -1,13 +1,4 @@
-﻿#LINK,,,
-#lang,ja,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,
-#attribution_name,越前市情報統計課,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,
-#file_name,shigaihaisuisetsubishiteikoujiten,,
-#download_from,http://linkdata.org/work/rdf1s1658i,,
-#property,住所,電話番号,市町
-#object_type_xsd,string:ja,string:ja,string:ja
-#property_context,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/address,https://schema.org/telephone,https://schema.org/City
 （有）アクアテック,鯖江市水落町二丁目25-4,53-0012,鯖江市
 （株）内田工務店,鯖江市屋形町1-24,51-0665,鯖江市
 英友設備,鯖江市丸山町１丁目３－１,090-9765-2136,鯖江市

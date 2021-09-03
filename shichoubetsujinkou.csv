@@ -1,14 +1,9 @@
-﻿#LINK,,,,,,,,,
-#lang,ja,,,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,,,
-#attribution_name,越前市情報統計課,,,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,,,
-#file_name,0202shichoubetsujinkou,,,,,,,,
-#download_from,http://linkdata.org/work/rdf1s2635i,,,,,,,,
-#property,市町名,面積（k㎡）,世帯数,人口合計(人),男(人),女(人),男女比（女100につき男）,1世帯当たり人員(人),人口密度（人/k㎡）
-#object_type_xsd,string:ja,float,int,int,int,int,float,float,float
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
-1,越前市,230.7,27881,81613,39882,41731,95.6,2.92,357.8
-2,鯖江市,84.75,22324,68337,33117,35220,94,3.27,806.3
-3,越前町,152.97,6581,21527,10327,11200,92.2,3.3,140.7
-4,南越前町,343.84,3348,10799,5172,5627,91.9,3.23,31.4
+﻿https://schema.org/name,https://code4fukui.github.io/rdf/#areasquare_km2,https://code4fukui.github.io/rdf/#number_of_households,https://code4fukui.github.io/rdf/#population_density,https://schema.org/gender,https://code4fukui.github.io/rdf/#population
+越前市,230.7,27881,357.8,男,39882
+越前市,230.7,27881,357.8,女,41731
+鯖江市,84.75,22324,806.3,男,33117
+鯖江市,84.75,22324,806.3,女,35220
+越前町,152.97,6581,140.7,男,10327
+越前町,152.97,6581,140.7,女,11200
+南越前町,343.84,3348,31.4,男,5172
+南越前町,343.84,3348,31.4,女,5627

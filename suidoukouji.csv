@@ -1,13 +1,4 @@
-﻿#LINK,,,,,,
-#lang,ja,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,
-#attribution_name,越前市情報統計課,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,
-#file_name,suidoukouji,,,,,
-#download_from,http://linkdata.org/work/rdf1s1661i,,,,,
-#property,住所,電話番号,ＦＡＸ番号,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,地区
-#object_type_xsd,string:ja,string,string,float,float,string
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/address,https://schema.org/telephone,https://schema.org/faxNumber,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#echizen_city_area
 大道設備㈲,越前市北府三丁目12番60号,22-3226,22-7116,35.914022,136.165763,東
 ㈱斧平作商店,越前市錦町2番35号,24-0419,24-0420,35.901816,136.172022,東
 ㈲スカイ設備,越前市吾妻町7番15号,22-1929,,35.900091,136.170052,東

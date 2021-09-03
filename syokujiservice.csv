@@ -1,13 +1,4 @@
-﻿#LINK,,,,,,,
-#lang,ja,,,,,,
-#attribution_url,http://www.city.echizen.lg.jp/office/010/021/open-data-echizen.html,,,,,,
-#attribution_name,越前市情報統計課,,,,,,
-#license,http://creativecommons.org/licenses/by/3.0/deed.ja,,,,,,
-#file_name,syokujiservice,,,,,,
-#download_from,http://linkdata.org/work/rdf1s1690i,,,,,,
-#property,住所,電話,対応曜日,祝日,配達地域,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long
-#object_type_xsd,string:ja,string:ja,string:ja,string:ja,string:ja,float,float
-#property_context,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion,	Assertion
+﻿https://schema.org/name,https://schema.org/address,https://schema.org/telephone,https://schema.org/DayOfWeek,https://schema.org/PublicHolidays,https://code4fukui.github.io/rdf/#echizen_city_area,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long
 水仙園,萱谷町4-9-1,２７－２１５５,火・金,可,味真野地区,35.87865,136.2327
 和上苑,瓜生町33-20-1,２３－１１１４（太子園２３－３４４８）,木,不可,国高地区（＋太子園周辺）,35.92408,136.1775
 第２和上苑,白崎町34-2-1,２５－６４００,水,不可,南地区 ・ 王子保地区,35.86445,136.1451
