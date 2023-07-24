@@ -1,109 +1,38 @@
 ﻿https://schema.org/name,https://schema.org/category,https://schema.org/address,https://schema.org/streetAddress,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long,https://code4fukui.github.io/rdf/#echizen_city_area,https://schema.org/telephone,https://schema.org/Service,https://schema.org/Service,https://schema.org/Service,https://schema.org/Service,https://schema.org/Service,https://schema.org/url
-Easy Café&Dining　ダフィー絵梨香,飲食店,福井県越前市,宮谷町31-6,35.893522,136.222097,味真野,0778-27-8846,追加料金でサラダ追加,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-伊万里,飲食店,福井県越前市,新保2丁目2-2,35.911911,136.156045,大虫,0778-23-4845,ミニサラダサービス,分煙,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-いろは本店,飲食店,福井県越前市,蓬莱町2-24,35.903085,136.167225,東,0778-22-0654,野菜増量,ご希望に応じて減塩,食後の歯磨きの場を提供,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-うまか亭,飲食店,福井県越前市,府中1丁目11-2,35.904474,136.17038,東,0778-21-8929,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-栄雲堂,飲食店,福井県越前市,京町1丁目1-2,35.903082,136.165269,西,0778-22-0326,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-越前そばの里,飲食店,福井県越前市,真柄町7-37,35.905355,136.20717,北新庄,0778-22-0272,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-越前めん処　江戸屋,飲食店,福井県越前市,高瀬2丁目6-15,35.897868,136.159367,西,0778-24-3248,ご希望に応じて減塩,店内禁煙,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-御清水庵,飲食店,福井県越前市,吾妻町3-33,35.901338,136.169999,東,0778-21-5088,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-お多福食堂,飲食店,福井県越前市,庄町21-5-3,35.904955,136.19896,国高,0778-24-2457,オムライスのみ減塩,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-カフェダイニング　BOND,飲食店,福井県越前市,稲寄町24-1-27,35.920151,136.188419,国高,0778-67-1800,ミニサラダサービス,野菜増量,追加料金でサラダ追加,キシリトールガムのサービス,店内禁煙,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-cafe　ゆいまーる,飲食店,福井県越前市,岩本町6-2-3,35.90945,136.245252,岡本,0778-42-1778,野菜増量,ご希望に応じて減塩,食後の歯磨きの場を提供,店内禁煙,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-カメダ珈琲,飲食店,福井県越前市,新町7-8 シピイ1階,35.9039356,136.1526699,西,0778-42-6612,ミニサラダサービス,分煙,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-くらそば幸道,飲食店,福井県越前市,高木町36-7-8,35.923969,136.192749,国高,0778-24-0777,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-珈琲の店 ブルー,飲食店,福井県越前市,深草1丁目9-4,35.903946,136.161039,西,0778-22-5949,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-coco.malia,飲食店,福井県越前市,押田1丁目3-20,35.907729,136.186112,国高,0778-21-2205,ミニサラダサービス,野菜増量,減塩メニューの提示,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-コメダ珈琲店武生店,飲食店,福井県越前市,芝原5丁目3-8,35.9211008,136.1591928,吉野,0778-42-5551,追加料金でサラダ追加,歯磨きの場を提供,分煙,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-サイゼリヤ福井武生店,飲食店,福井県越前市,新町1丁目1-1,35.9070869,136.1540436,西,0778-23-3597,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-里山工房さかのくち,飲食店,福井県越前市,湯谷町28-23-7,35.85928,136.085032,坂口,0778-28-1820,追加料金でサラダ追加,野菜増量のメニューがある,地場産の野菜や山菜、地元特産品の味噌を使っている,ご希望に応じて減塩,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ジャムハウス,飲食店,福井県越前市,芝原5丁目20-24,35.926085,136.162041,吉野,0778-23-5960,ご希望に応じて減塩,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-シュトラウス 金進堂,飲食店,福井県越前市,姫川2丁目3-39,35.896552,136.171466,南,0778-22-1471,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-食喜　もめん,飲食店,福井県越前市,定友町20-9-1,35.918313,136.248365,岡本,0778-42-0478,野菜増量,ご希望に応じて、変わり漬物をサービス,減塩メニューの提示,食後の歯磨きの場を提供,店内禁煙,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-寿司天狗,飲食店,福井県越前市,日野美1丁目3-23,35.899065,136.155131,西,0778-22-3182,追加料金でサラダ追加,ご希望に応じて減塩,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-寿達富（すたっふ）,飲食店,福井県越前市,文京1丁目6-32,35.891386,136.160353,南,0778-24-0117,ミニサラダサービス,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-そば蔵　谷川,飲食店,福井県越前市,深草2丁目9-28,35.907156,136.159989,西,0778-23-5001,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-そば亭 たぬき,飲食店,福井県越前市,村国1丁目7-1,35.906001,136.179218,国高,0778-23-5420,分煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-そば処　むさし,飲食店,福井県越前市,稲寄町4-9-1,35.917525,136.179123,国高,0778-23-9587,野菜増量,定食に野菜メニューがついている,ご希望に応じて減塩,キシリトールガムのサービス,分煙,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-そば処　和た里,飲食店,福井県越前市,塚町50-46-1,35.912848,136.197624,国高,0778-24-4865,減塩のダシを使用,店内禁煙,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-大陸,飲食店,福井県越前市,粟田部町33-6-9,35.917191,136.243235,粟田部,0778-43-1668,野菜増量,追加料金でサラダ追加,ご希望に応じて減塩,店内禁煙,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-たかせや,飲食店,福井県越前市,府中1丁目8-14,35.902202,136.170477,東,0778-22-0799,野菜増量,ご希望に応じて減塩,食後の歯磨きの場を提供,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-宅配クック123越前店,飲食店,福井県越前市,北山町43-1-26,35.919162,136.131436,大虫,0778-24-0800,減塩メニューの提示,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-大黒食堂,飲食店,福井県越前市,粟田部町中央2丁目908,35.917954,136.244168,粟田部,0778-42-1008,ミニサラダサービス,ご希望に応じて減塩,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-大福,飲食店,福井県越前市,粟田部町15-22,35.918276,136.240008,粟田部,0778-42-0443,ミニサラダサービス,ご希望に応じて減塩,食後の歯磨きの場を提供,店内禁煙,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-チャイニーズレストラン桃園,飲食店,福井県越前市,横市町11-8-2,35.9126378,136.1902802,国高,0778-21-0451,ご希望に応じて減塩,店内禁煙,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-中華料理　金龍,飲食店,福井県越前市,沢町142-1,35.89611,136.151857,西,0778-23-3268,ミニサラダサービス,野菜増量,追加料金でサラダ追加,ご希望に応じて減塩,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-珍々飯店,飲食店,福井県越前市,国府1丁目6-8,35.904876,136.167725,東,0778-23-1060,野菜増量,ご希望に応じて減塩,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-テキサスハンズ武生店,飲食店,福井県越前市,新町3-3-13,35.9054168,136.1541435,西,0778-22-4455,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-生そば　勘助,飲食店,福井県越前市,粟田部町29-24,35.916743,136.239983,粟田部,0778-43-0303,ご希望に応じて減塩,食後の歯磨きの場を提供,分煙,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-8番らーめん国高店,飲食店,福井県越前市,庄町1-7,35.9115442,136.1914657,国高,0778-24-5184,ご希望に応じて減塩,キシリトールガムのサービス,店内禁煙,野菜増量メニューがある,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-8番らーめん武生店,飲食店,福井県越前市,千福町233,35.8896539,136.1560066,南,0778-23-6148,ご希望に応じて減塩,キシリトールガムのサービス,店内禁煙,野菜増量メニューがある,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-百楽,飲食店,福井県越前市,小松2丁目23-9,35.908431,136.156895,西,0778-22-3434,野菜増量,追加料金でサラダ追加,ご希望に応じて減塩,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-本手打　今庄そば　ふる里,飲食店,福井県越前市,東千福町17-7,35.888906,136.159006,南,0778-24-5541,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-本手打そば　山楽,飲食店,福井県越前市,横市町1-5-5,35.917295,136.192744,国高,0778-21-5366,季節の野菜ジュースのサービス,追加料金でサラダ追加,店内禁煙,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-丸亀製麺越前店,飲食店,福井県越前市,芝原４丁目5-28,35.9193669,136.1571911,吉野,0778-23-7110,ご希望に応じて減塩,店内禁煙,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-まる金そば,飲食店,福井県越前市,今宿町1-2-4,35.866067,136.170395,王子保,0778-24-2315,食後の歯磨きの場を提供,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-万葉庵,飲食店,福井県越前市,余川町55-1,35.885019,136.236936,味真野,0778-27-7799,追加料金でサラダ追加,ご希望に応じて減塩,食後の歯磨きの場を提供,店内禁煙,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ミスタードーナツ武生店,飲食店,福井県越前市,新町3-1,35.9068569,136.1541408,西,0778-23-5992,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ミスタードーナツ武生楽市ショップ,飲食店,福井県越前市,横市町28-14-1,35.9077153,136.1926047,国高,0778-21-2007,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-水の里しらやま,飲食店,福井県越前市,上杉本町11-7,35.887212,136.056829,白山,0778-67-7256,地場産野菜たっぷりメニューを提供,,,,,
-むさしや,飲食店,福井県越前市,粟田部町35-10-1,35.917641,136.245667,粟田部,0778-43-1630,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-麺房 いせや,飲食店,福井県越前市,桂町6-22,35.906348,136.165716,東,0778-22-1363,ミニサラダサービス,ご希望に応じて減塩,店内禁煙,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-山むろ,飲食店,福井県越前市,神明町1-8,35.899335,136.16795,南,0778-22-0699,ご希望に応じて減塩,食後の歯磨きの場を提供,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-遊亀庵　かめや,飲食店,福井県越前市,東千福町27-37,35.892866,136.156765,南,0778-22-0399,ご希望に応じて減塩,店内禁煙,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-洋菓子　ＪＵＮ,飲食店,福井県越前市,平出2丁目1601,35.912033,136.161842,西,0778-23-0926,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ヨコガワ分店,飲食店,福井県越前市,京町1丁目4-35,35.903318,136.165108,西,0778-22-7172,ご希望に応じて減塩,店内禁煙,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-吉田食堂,飲食店,福井県越前市,若竹町11-24,35.893303,136.166525,南,0778-22-2052,野菜増量,ご希望に応じて減塩,店内禁煙,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-よってこ,飲食店,福井県越前市,新在家町9-21-2,35.911044,136.244954,岡本,090-6272-4005,追加料金でサラダ追加,ご希望に応じて減塩,食後の歯磨きの場を提供,店内禁煙,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-より処,飲食店,福井県越前市,粟田部町38-3-4,35.915321,136.243291,粟田部,0778-42-2384,追加料金でサラダ追加,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-リスボンエイト,飲食店,福井県越前市,中央2丁目6-13,35.901973,136.154681,西,0778-22-1166,ミニサラダサービス,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-料亭うおとめ,飲食店,福井県越前市,吾妻町1-45,35.9013988,136.1706723,東,0778-22-0151,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-レストラン＆パティスリー　マイルイ,飲食店,福井県越前市,家久町46-13-1,35.933362,136.164035,吉野,0778-22-2199,ご希望に応じて、メニューについているサラダ増量,ご希望に応じて減塩,店内禁煙,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-レストラン夢屋,飲食店,福井県越前市,東千福7-15,35.891728,136.158579,南,0778-21-0631,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-レストラン若紫（しきぶ温泉　湯楽里内）,飲食店,福井県越前市,白崎町68-8,35.863406,136.14457,王子保,0778-25-7800,追加料金でサラダ追加,全体的に薄めの味付け,食後の歯磨きの場を提供,店内禁煙,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-若竹食堂,飲食店,福井県越前市,深草2丁目2-11,35.905112,136.160211,西,0778-22-2543,野菜増量,追加料金でサラダ追加,ご希望に応じて減塩,店内禁煙,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-和風ダイニング　和ん酒,飲食店,福井県越前市,蓬莱町3-28,35.9031166,136.1662734,東,0778-77-2160,野菜増量,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-和風レストラン　瀧雅,飲食店,福井県越前市,庄町36-1-1,35.902544,136.197763,国高,0778-22-3700,追加料金でサラダ追加,ご希望に応じて減塩,店内禁煙,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-和掬び,飲食店,福井県越前市,東千福町7-10 ヴェニュー英々ビル ,35.891561,136.159176,南,0778-22-8295,追加料金でサラダ追加,ご希望に応じて減塩,食後の歯磨きの場を提供,店内禁煙,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ひさかや食料品店,食料品店,福井県越前市,住吉町3-34,35.899741,136.168608,東,0778-22-1130,野菜を安く提供,減塩商品を揃える,店内禁煙,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-MAMI CAFE たちばな屋,飲食店,福井県越前市,稲寄町7-22-1,35.920208,136.179745,国高,0778-23-9660,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-マルカワみそ,食料品店,福井県越前市,杉崎町12-62,35.9022603,136.2036933,北新庄,0778-27-2111,店内禁煙,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-カーブス  武生国高,スポーツ施設,福井県越前市,横市町5-1,35.911126,136.191025,国高,0778-21-1116,店内禁煙,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-カーブス  武生中央,スポーツ施設,福井県越前市,新町12-1-4,35.901701,136.151515,西,0778-21-2250,店内禁煙,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+カーブス  武生国高,スポーツ施設,福井県越前市,横市町28-14-1 武生楽市1F,35.90705923,136.1929731,国高,0778-21-1116,店内禁煙,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+カーブス  武生中央,スポーツ施設,福井県越前市,新町12-1-4,35.901701,136.151515,西,0778-21-2250,店内禁煙,運動アドバイス,1日無料体験,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 KTPたけふスイミングスクール,スポーツ施設,福井県越前市,横市町28-27-1,35.907765,136.191636,国高,0778-24-0656,店内禁煙,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ルネッス　越前,スポーツ施設,福井県越前市,新町5-4-4,35.905162,136.152834,西,0778-21-0001,運動アドバイス,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ルネッス　越前花がたみの郷　,スポーツ施設,福井県越前市,杉尾町1-27-1,35.920093,136.252817,岡本,0778-43-8880,運動アドバイス,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-アイン薬局越前高瀬店,薬局,福井県越前市,高瀬1丁目31-15,35.893333,136.157262,南,0778-23-2003,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+ルネッス　越前,スポーツ施設,福井県越前市,新町5-4-4,35.905162,136.152834,西,0778-21-0001,店内禁煙,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+ルネッス　越前花がたみの郷　,スポーツ施設,福井県越前市,杉尾町1-27-1,35.920093,136.252817,岡本,0778-43-8880,店内禁煙,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+アイン薬局　越前高瀬店,薬局,福井県越前市,高瀬1丁目31-15,35.893333,136.157262,南,0778-23-2003,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 今立らいふ薬局,薬局,福井県越前市,粟田部町29-32-1,35.91611,136.24081,粟田部,0778-42-3301,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ウシオ薬局武生店,薬局,福井県越前市,府中1丁目4-13,35.90241,136.16923,東,0778-21-3052,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-エンゼル調剤薬局武生店,薬局,福井県越前市,府中1丁目6-30,35.901746,136.169502,東,0778-22-5193,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-エンゼル薬局武生西店,薬局,福井県越前市,上太田町49-5-8,35.90124,136.147949,大虫,0778-22-0093,禁煙相談,運動アドバイス,スポーツファーマシストがいる,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-賀川薬局,薬局,福井県越前市,神明町2-26,35.899688,136.166441,南,0778-22-0356,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-加藤薬局,薬局,福井県越前市,府中2丁目7-17,35.905984,136.169905,東,0778-22-0589,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-加藤薬局芝原店,薬局,福井県越前市,芝原5丁目11-2,35.922633,136.160333,吉野,0778-25-1193,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-共創未来今立薬局,薬局,福井県越前市,粟田部町34-6-1,35.917602,136.24456,粟田部,0778-43-8790,運動アドバイス,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-クスリのアオキ 平出薬局,薬局,福井県越前市,平出1丁目9-25,35.908826,136.162742,西,0778-21-2531,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-クスリのアオキ 横市薬局,薬局,福井県越前市,横市町27字尾寺1-1,35.907332,136.190928,国高,0778-25-6250,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-クララ調剤薬局住吉店,薬局,福井県越前市,住吉町9-19,35.898021,136.168602,東,0778-23-0012,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-くるみ薬局,薬局,福井県越前市,国高2丁目278,35.908929,136.186756,国高,0778-42-7245,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+ウシオ薬局　武生店,薬局,福井県越前市,府中1丁目4-13,35.90241,136.16923,東,0778-21-3052,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+エンゼル調剤薬局　武生店,薬局,福井県越前市,府中1丁目6-30,35.901746,136.169502,東,0778-22-5193,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+エンゼル薬局　武生西店,薬局,福井県越前市,上太田町49-5-8,35.90124,136.147949,大虫,0778-22-0093,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+賀川薬局,薬局,福井県越前市,神明町2-26,35.899688,136.166441,南,0778-22-0356,禁煙相談,運動アドバイス,食事のアドバイス・住んでいる生活環境のアドバイス、漢方の教えからの健康アドバイス,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+加藤薬局　芝原店,薬局,福井県越前市,芝原5丁目11-2,35.922633,136.160333,吉野,0778-25-1193,禁煙相談,運動アドバイス,血圧手帳のお渡し,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+共創未来　今立薬局,薬局,福井県越前市,粟田部町34-6-1,35.917602,136.24456,粟田部,0778-43-8790,運動アドバイス,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+クスリのアオキ　平出薬局,薬局,福井県越前市,平出1丁目9-25,35.908826,136.162742,西,0778-21-2531,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+クスリのアオキ　横市薬局,薬局,福井県越前市,横市町27字尾寺1-1,35.907332,136.190928,国高,0778-25-7017,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+クララ調剤薬局　住吉店,薬局,福井県越前市,住吉町9-19,35.898021,136.168602,東,0778-23-0012,禁煙相談,,血圧管理手帳のお渡し、新患様でアンケート（問診）ご記入頂いた方にタオル+ポケットティッシュ各１つサービス,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 ココロ薬局,薬局,福井県越前市,高瀬1丁目20-21,35.896016,136.160837,南,0778-21-3147,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-さくら薬局越前平出店,薬局,福井県越前市,平出1丁目12-28,35.909187,136.159363,西,0778-22-3260,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-スギ薬局武生南店,薬局,福井県越前市,妙法寺町434,35.8824377,136.1595967,南,0778-43-6377,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+さくら薬局　越前平出店,薬局,福井県越前市,平出1丁目12-28,35.909187,136.159363,西,0778-22-3260,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+スギ薬局　武生南店,薬局,福井県越前市,妙法寺町434,35.8824377,136.1595967,南,0778-43-6377,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 すみれ薬局,薬局,福井県越前市,東千福町23-17,35.89155,136.157276,南,0778-42-8033,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-正通瑞香堂薬局,薬局,福井県越前市,南3丁目5-4,35.892664,136.166053,南,0778-24-0826,塩分測定器、血圧・血流測定器、体脂肪計を設置,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-セムイ調剤薬局,薬局,福井県越前市,横市町16-1-1,35.909818,136.192722,国高,0778-22-1517,禁煙相談,運動アドバイス,管理栄養士による栄養指導、スポーツファーマシストがいる,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-そうごう薬局越前店,薬局,福井県越前市,今宿町2-3-11,35.865284,136.17035,王子保,0778-21-0601,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-そうごう薬局武生南店,薬局,福井県越前市,常久町8-1-2,35.888617,136.163258,南,0778-22-0801,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ソラシド薬局　越前庄町店,薬局,福井県越前市,庄町1-2,35.910315,136.191227,国高,0778-24-3335,禁煙相談,スポーツファーマシストがいる,,,,
-武生薬局,薬局,福井県越前市,天王町3-25,35.901399,136.166583,東,0778-22-0662,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-武生薬局シピィ店,薬局,福井県越前市,新町7-8 シピイ1階,35.903627,136.152311,西,0778-22-8223,運動アドバイス,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+正通瑞香堂薬局,薬局,福井県越前市,南3丁目5-4,35.892664,136.166053,南,0778-24-0826,禁煙相談,,血圧・血流測定器、体脂肪計を設置、血糖・血圧管理ノートのサービス、試供品サービス,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+セムイ調剤薬局,薬局,福井県越前市,横市町16-1-1,35.909818,136.192722,国高,0778-22-1517,禁煙相談,運動アドバイス,管理栄養士による栄養食事指導、食事レシピを多数用意、ドーピングに関する専門知識を持つ薬剤師がいる、血圧手帳のお渡し,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+そうごう薬局　越前店,薬局,福井県越前市,今宿町2-3-11,35.865284,136.17035,王子保,0778-21-0601,禁煙相談,,薬剤師による健康やお薬に関する相談ができる、血圧管理ノートの無料提供サービス,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+そうごう薬局　武生南店,薬局,福井県越前市,常久町8-1-2,35.888617,136.163258,南,0778-22-0801,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+ソラシド薬局　越前庄町店,薬局,福井県越前市,庄町1-2,35.910315,136.191227,国高,0778-24-3335,禁煙相談,,ドーピングに関する専門知識を持つ薬剤師がいる,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+(有)武生薬局,薬局,福井県越前市,天王町3-25,35.901399,136.166583,東,0778-22-0662,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+武生薬局　シピィ店,薬局,福井県越前市,新町7-8 シピィ1階,35.903627,136.152311,西,0778-22-8223,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 丹南センター薬局,薬局,福井県越前市,横市町7-1-2,35.915702,136.192763,国高,0778-21-3377,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-千葉美康堂薬局,薬局,福井県越前市,御幸町14-1,35.895183,136.163689,南,0778-24-3370,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ツルカメ調剤薬局,薬局,福井県越前市,府中1丁目7-13,35.902293,136.163692,東,0778-22-4820,禁煙相談,運動アドバイス,野菜、減塩、歯の相談に対応,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ツルカメ薬局,薬局,福井県越前市,府中1丁目6-14,35.901599,136.169108,東,0778-22-0048,禁煙相談,運動アドバイス,野菜、減塩の相談に対応,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+ツルカメ調剤薬局,薬局,福井県越前市,府中1丁目7-13,35.902293,136.163692,東,0778-22-4820,禁煙相談,運動アドバイス,野菜、減塩、歯の相談に対応、のど飴１つサービス,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+ツルカメ薬局,薬局,福井県越前市,府中1丁目6-14,35.901599,136.169108,東,0778-22-0048,禁煙相談,運動アドバイス,野菜、減塩の相談に対応、希望があれば血圧測定,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 テラダ調剤薬局,薬局,福井県越前市,本多1丁目7-7,35.9054475,136.1630628,西,0778-42-8230,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
 徳永薬局,薬局,福井県越前市,清水頭町3-40,35.893549,136.227184,味真野,0778-27-1274,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-ドレミ調剤薬局,薬局,福井県越前市,帆山町9-22-4,35.8957,136.176493,北日野,0778-21-5577,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-内藤薬局,薬局,福井県越前市,本多2丁目10-24,35.909001,136.165128,東,0778-22-1531,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-なのはな薬局,薬局,福井県越前市,塚町12-1-1,35.916015,136.192744,国高,0778-21-5599,禁煙相談,,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
-南山堂薬局天王町店,薬局,福井県越前市,元町6-6,35.900321,136.16623,西,0778-42-7830,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+内藤薬局,薬局,福井県越前市,本多2丁目10-24,35.909001,136.165128,東,0778-22-1531,禁煙相談,運動アドバイス,酵素のど飴サービス,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+なのはな薬局,薬局,福井県越前市,塚町12-1-1,35.916015,136.192744,国高,0778-21-5599,禁煙相談,,のど飴、血圧手帳の提供,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+南山堂薬局　天王町店,薬局,福井県越前市,元町6-6,35.900321,136.16623,西,0778-42-7830,禁煙相談,運動アドバイス,,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+日本調剤越前薬局,薬局,福井県越前市,元町6-5,35.90046,136.166119,西,0778-23-1711,禁煙相談,運動アドバイス,血圧管理ノート一冊サービス、試供品サービス,,,http://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html
+くじら薬局,薬局,福井県越前市,瓜生町29-4-1,35.92568815,136.1813637,国高,0778-24-5551,禁煙相談,,,,,
