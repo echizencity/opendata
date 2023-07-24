@@ -1,91 +1,91 @@
 ﻿category,title,description,url,text,Date,name,attribution_name
-土地・気象,越前市公開型ＧＩＳレイヤのShapeファイル,越前市公開型ＧＩＳ（越前市ぐるぐるマップ） のレイヤ情報のうち、Shapeファイルで公開しているレイヤ一覧です。,https://www.city.echizen.lg.jp/office/030/021/shape.html,「越前市の公開型ＧＩＳのShapefileとkmlfileについて」,3/30/2018,gisshapefile.csv,デジタル政策課
-土地・気象,越前市公開型ＧＩＳレイヤのkmlファイル,越前市公開型ＧＩＳ（越前市ぐるぐるマップ） のレイヤ情報のうち、kmlファイルで公開しているレイヤ一覧です。,https://www.city.echizen.lg.jp/office/030/021/shape.html,「越前市の公開型ＧＩＳのShapefileとkmlfileについて」,3/30/2018,kmlfile.csv,デジタル政策課
-産業・経済,労働者福祉施設,労働者福祉施設の情報です。,https://www.city.echizen.lg.jp/office/060/010/sisetuannai.html,「労働者福祉施設（研修施設）のご案内」,7/14/2023,roudousyafukushishisetsu.csv,産業政策課
-農業・林業,越前市地産地消推進の店,越前市が認定している地産地消推進の店の情報です。,https://www.city.echizen.lg.jp/office/kankyounourin/020/tisann_syokuiku.html,「越前市の食育・地産地消の推進について」,7/14/2023,chisanchisyounomise.csv,農政課
-農業・林業,野菜の直売所,越前市内の野菜の直売所の情報です。,https://www.city.echizen.lg.jp/office/kankyounourin/020/syoku/syokuiku2.html,「越前市の食育・地産地消の推進について」,7/14/2023,cyokubaisyo.csv,農政課
-交通・観光・通信,越前市観光情報,越前市内の観光情報（施設・グルメ等）です。,https://www.city.echizen.lg.jp/office/060/050/index.html,「観光案内に関すること」,7/14/2023,landscape.csv,観光誘客課
-交通・観光・通信,越前市のフリースポット,越前市が管理するフリースポットの情報です。,https://www.city.echizen.lg.jp/office/030/021/freespot.html,「越前市公衆無線LAN「フリースポット」」,7/14/2023,freespot.csv,デジタル政策課
-建設・住宅,市営住宅一覧,越前市内の市営住宅の一覧です。,https://www.city.echizen.lg.jp/office/070/040/sieijutaku/sieijutakuannai.html,「市営住宅のご案内」,7/14/2023,sieizyuutaku.csv,建築住宅課
-厚生・社会福祉,介護保険料,令和5年度の介護保険料の保険料区分の情報です。,https://www.city.echizen.lg.jp/office/050/060/hokenryo.html,「介護保険料」,7/14/2023,kaigohokenryo.csv,長寿福祉課
-厚生・社会福祉,市内のお医者さん,市内にある医療機関の情報です。,https://www.city.echizen.lg.jp/office/050/020/kateijidousoudan/kosodateouenshi.html,「子育て応援誌」,7/14/2023,iryoukikan.csv,健康増進課
-厚生・社会福祉,市内AED設置施設,市内の公共施設等に設置されたAED（自動体外式除細動器）の情報です。,https://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,「AED（自動体外式除細動器）設置について」,7/14/2023,AED.csv,健康増進課
-厚生・社会福祉,市内AED設置施設（ポルトガル語）,市内の公共施設等に設置されたAED（自動体外式除細動器）の情報（ポルトガル語）です。,https://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,「AED（自動体外式除細動器）設置について」,7/14/2023,AED.csv,健康増進課
-厚生・社会福祉,健康応援団,「けんこう食メニューの店」「けんこう応援の店」「けんこうステーション」の３つからなる健康応援団の情報です。,https://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html,「健康応援団について」,7/14/2023,kenkououendan.csv,健康増進課
-厚生・社会福祉,越前市の保育園,越前市の保育園一覧です。,https://www.city.echizen.lg.jp/office/050/020/hoikuenichiran.html,「認定こども園・保育園一覧」,7/14/2023,hoikuen.csv,こども家庭課
-厚生・社会福祉,子育て支援施設,子育て支援施設の情報です。,https://www.city.echizen.lg.jp/office/050/020/kateijidousoudan/kosodateouenshi.html,「子育て応援誌」,7/14/2023,kodomofukushi1.csv,こども家庭課
-保健・衛生・環境,越前市町別ごみ収集日,町内別の各ごみ収集日一覧です。,https://www.city.echizen.lg.jp/office/kankyounourin/051/gomirecycle/dasikata-wakekata.html,「ごみの分け方・出し方」,4/20/2015,gomisyusyubi.csv,環境政策課
-保健・衛生・環境,越前市町別ごみ収集日（ポルトガル語）,町内別の各ごみ収集日一覧（ポルトガル語）です。,https://www.city.echizen.lg.jp/office/kankyounourin/051/gomirecycle/dasikata-wakekata.html,「ごみの分け方・出し方」,4/20/2015,gomisyusyubipt.csv,環境政策課
-保健・衛生・環境,越前市50音別ごみ分別表,50音別で表記したごみ分別の情報です。,https://www.city.echizen.lg.jp/office/kankyounourin/051/gomirecycle/dasikata-wakekata.html,「ごみの分け方・出し方」,7/14/2023,gomijp.csv,環境政策課
-保健・衛生・環境,越前市50音別ごみ分別表（ポルトガル語）,50音別で表記したごみ分別の情報（ポルトガル語）です。,https://www.city.echizen.lg.jp/office/kankyounourin/051/gomirecycle/dasikata-wakekata.html,「ごみの分け方・出し方」,1/4/2021,gomipt.csv,環境政策課
-保健・衛生・環境,越前市50音別ごみ分別表（中国語）,50音別で表記したごみ分別の情報（中国語）です。,https://www.city.echizen.lg.jp/office/kankyounourin/051/gomirecycle/dasikata-wakekata.html,「ごみの分け方・出し方」,1/4/2021,gomicn.csv,環境政策課
-電気・ガス・水道,越前市指定給水工事事業者,給水管の工事を行う、越前市指定給水装置工事事業者の情報です。,https://www.city.echizen.lg.jp/office/070/030/siteikyusuisotikoji.html,「水道の修繕、給水管の新設・改造工事　指定給水装置工事事業者」,7/14/2023,suidoukouji.csv,上下水道課
-電気・ガス・水道,越前市排水設備指定工事店（市内）,公共下水道への接続を行う、排水設備指定工事店（市内）の情報です。,https://www.city.echizen.lg.jp/office/070/030/shiteikoujiten.html,「下水道の排水設備工事は指定工事店で」,7/14/2023,shinaihaisuisetsubi.csv,上下水道課
-電気・ガス・水道,越前市排水設備指定工事店（市外）,公共下水道への接続を行う、排水設備指定工事店（市外）の情報です。,https://www.city.echizen.lg.jp/office/070/030/shiteikoujiten.html,「下水道の排水設備工事は指定工事店で」,7/14/2023,shigaihaisuisetsubi.csv,上下水道課
-教育・文化,越前市の小学校児童数,越前市の小学校の児童数（2023.6.1現在）の情報です。,https://www.city.echizen.lg.jp/office/090/020/syogak/syougakko.html,「越前市の小学校」,7/14/2023,syougakkoujidosu.csv,教育振興課
-教育・文化,越前市の中学校生徒数,越前市の中学校の生徒数 （2023.6.1現在）の情報です。,https://www.city.echizen.lg.jp/office/090/020/tyugak/tyuugakko.html,「越前市の中学校」,7/14/2023,cyugakkouseitosu.csv,教育振興課
-教育・文化,菊花マラソンマップ,菊花マラソンマップです。,,「菊花マラソンマップ」,7/14/2023,marasonmap.csv,スポーツ課
-災害・安全,広域避難場所,火災が発生した場合や避難情報を発令し避難を促した場合に開設する広域避難場所一覧です。,https://www.city.echizen.lg.jp/office/010/060/bousai/hinanjo.html,「越前市の防災」,7/24/2023,kouikihinanjyo.csv,防災危機管理課
-災害・安全,広域避難場所（ポルトガル語）,火災が発生した場合や避難情報を発令し避難を促した場合に開設する広域避難場所一覧（ポルトガル語）です。,https://www.city.echizen.lg.jp/office/010/060/bousai/hinanjo.html,「越前市の防災」,7/24/2023,kouikihinanjyopt.csv,防災危機管理課
-災害・安全,広域避難場所（中国語）,火災が発生した場合や避難情報を発令し避難を促した場合に開設する広域避難場所一覧（中国語）です。,https://www.city.echizen.lg.jp/office/010/060/bousai/hinanjo.html,「越前市の防災」,7/24/2023,kouikihinanjyocn.csv,防災危機管理課
-議会・行政,施設一覧,越前市の施設一覧です。,https://www.city.echizen.lg.jp/shisetsu/index.html,「越前市の施設」,7/24/2023,01shisetsu.csv,デジタル政策課
-統計年鑑_第1章 土地・気象,越前市の形成,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,3/26/2015,0102echizenshinokeisei.csv,デジタル政策課
-統計年鑑_第1章 土地・気象,土地利用現況面積の推移,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0104tochiriyougenkyoumenseki.csv,デジタル政策課
-統計年鑑_第1章 土地・気象,地目別土地面積（総地積）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0105_01tochimenseki_souchiseki.csv,デジタル政策課
-統計年鑑_第1章 土地・気象,地目別土地面積（評価地積）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0105_02hyoukachiseki.csv,デジタル政策課
-統計年鑑_第1章 土地・気象,気象状況　越前市,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0106kishoujoukyou_echizenshi.csv,デジタル政策課
-統計年鑑_第1章 土地・気象,地震観測（福井県全体）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0107jishinkansoku_fukuiken.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,人口の推移（長期）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0201jinkounosuii_chouki.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,市町別人口・世帯,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0202shichoubetsujinkou.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,市町別年齢別人口,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0204nenreibetsujinkou.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,配偶関係（年齢・男女別15歳以上人口）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0205haigukankei.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,世帯の種類・人員別世帯数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0206shuruibetsusetaisu.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,人口集中地区,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0207jinkoushuchuchiku.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,都市計画区域の人口,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0208toshikeikakukuikijinkou.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,昼間人口,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0209chukanjinkou.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,人口動態（総括）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0210_01jinkoudoutai_soukatsu.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,人口動態（自然増減）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0210_02jinkoudoutai_shizenzougen.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,人口動態（社会増減）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0210_03jinkoudoutai_shakaizougen.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,市町別人口動態,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0211shichoubetsujinkoudoutai.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,住民基本台帳人口,越前市統計年鑑の情報です。（2023.4.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0212juminkihondaichoujinkou.csv,窓口サービス課
-統計年鑑_第2章 人口・労働,年齢別住民基本台帳人口,越前市統計年鑑の情報です。（2023.4.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0213nenreibetsu.csv,窓口サービス課
-統計年鑑_第2章 人口・労働,町別住民基本台帳人口,越前市統計年鑑の情報です。（2023.4.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0214machibetsujumin.csv,窓口サービス課
-統計年鑑_第2章 人口・労働,本籍人口,越前市統計年鑑の情報です。（2022.10.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0215honsekijinkou.csv,窓口サービス課
-統計年鑑_第2章 人口・労働,外国人登録者数,越前市統計年鑑の情報です。（2023.3.31現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0216gaikokujintourokushasu.csv,窓口サービス課
-統計年鑑_第2章 人口・労働,外国人住民数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0216toukeinenkan.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,労働力状態（男女別15歳以上人口）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0217roudouryokujoutai.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,産業別就業者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0218sangyoubetsushugyoushasu.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,常住地による15歳以上就業者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0219_01joujyuchi.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,従業地による15歳以上就業者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0219_02jugyouchi.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,地区別人口,越前市統計年鑑の情報です。（2023.4.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0221chikubetsujinkou.csv,窓口サービス課
-統計年鑑_第2章 人口・労働,地区別人口（住民基本台帳登録人口）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0221toukeinenkan.csv,デジタル政策課
-統計年鑑_第2章 人口・労働,行政区別住民基本台帳人口,越前市統計年鑑の情報です。（2023.4.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0223jyuminkihondaicyojinko.csv,窓口サービス課
-統計年鑑_第3章 産業・経済,工業の推移　越前市,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0307toukeinenkan.csv,デジタル政策課
-統計年鑑_第4章 農業・林業,耕地面積,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0408toukeinenkan.csv,デジタル政策課
-統計年鑑_第5章 建設・住宅,新設住宅着工戸数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0507toukeinenkan.csv,デジタル政策課
-統計年鑑_第5章 建設・住宅,共同住宅の供給状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0508toukeinenkan.csv,デジタル政策課
-統計年鑑_第6章 交通・観光・通信,北陸自動車道利用状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0602toukeinenkan.csv,デジタル政策課
-統計年鑑_第6章 交通・観光・通信,ＪＲ旅客輸送状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0603toukeinenkan.csv,デジタル政策課
-統計年鑑_第6章 交通・観光・通信,市民バス利用状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0605toukeinenkan.csv,デジタル政策課
-統計年鑑_第6章 交通・観光・通信,たけふ菊人形入場者数　（有料入場者のみ）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0607toukeinenkan.csv,デジタル政策課
-統計年鑑_第8章 保健・衛生・環境,公害苦情受付件数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0814toukeinenkan.csv,デジタル政策課
-統計年鑑_第9章 厚生・社会福祉,介護保険　要介護認定者数の推移,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0912toukeinenkan.csv,デジタル政策課
-統計年鑑_第9章 厚生・社会福祉,一人暮らし高齢者,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,0916toukeinenkan.csv,デジタル政策課
-統計年鑑_第10章 教育・文化,武生中央図書館利用状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,100701toukeinenkan.csv,デジタル政策課
-統計年鑑_第10章 教育・文化,今立図書館利用状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,100702touekinenkan.csv,デジタル政策課
-統計年鑑_第10章 教育・文化,菊花マラソン参加者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1008toukeinenkan.csv,デジタル政策課
-統計年鑑_第11章 災害・安全,火災発生状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1101toukeinenkan.csv,デジタル政策課
-統計年鑑_第11章 災害・安全,救急出動状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1102toukeinenkan.csv,デジタル政策課
-統計年鑑_第11章 災害・安全,交通事故（人身）発生状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1103toukeinenkan.csv,デジタル政策課
-統計年鑑_第11章 災害・安全,自主防災組織の状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1105toukeinenkan.csv,デジタル政策課
-統計年鑑_第12章 議会・行政,財政規模の推移,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1201zaimukibonosuii.csv,デジタル政策課
-統計年鑑_第12章 議会・行政,一般会計歳入内訳,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1203ippankaikeisainyuu.csv,デジタル政策課
-統計年鑑_第12章 議会・行政,一般会計歳出内訳,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1204ippankaikeisaisyutsu.csv,デジタル政策課
-統計年鑑_第12章 議会・行政,財政指標の状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1206zaimushihyoujyoukyou.csv,デジタル政策課
-統計年鑑_第12章 議会・行政,公有財産,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1207kouyuzaisan.csv,デジタル政策課
-統計年鑑_第12章 議会・行政,職員数（一般職）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1209ippansyokuinsu.csv,デジタル政策課
-統計年鑑_第12章 議会・行政,選挙,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1210senkyo.csv,デジタル政策課
-統計年鑑_第12章 議会・行政,選挙人名簿登録者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1211senkyoninmeibo.csv,デジタル政策課
-統計年鑑_第12章 議会・行政,選挙人名簿登録者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1211toukeinenkan.csv,デジタル政策課
-統計年鑑_第12章 議会・行政,議会活動の状況（本会議）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1212_01gikaikatsudou.csv,デジタル政策課
-統計年鑑_第12章 議会・行政,議会活動の状況（付議）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,7/14/2023,1212_02gikaikatsudouhugi.csv,デジタル政策課
+土地・気象,越前市公開型ＧＩＳレイヤのShapeファイル,越前市公開型ＧＩＳ（越前市ぐるぐるマップ） のレイヤ情報のうち、Shapeファイルで公開しているレイヤ一覧です。,https://www.city.echizen.lg.jp/office/030/021/shape.html,「越前市の公開型ＧＩＳのShapefileとkmlfileについて」,2018/3/30,gisshapefile.csv,デジタル政策課
+土地・気象,越前市公開型ＧＩＳレイヤのkmlファイル,越前市公開型ＧＩＳ（越前市ぐるぐるマップ） のレイヤ情報のうち、kmlファイルで公開しているレイヤ一覧です。,https://www.city.echizen.lg.jp/office/030/021/shape.html,「越前市の公開型ＧＩＳのShapefileとkmlfileについて」,2018/3/30,kmlfile.csv,デジタル政策課
+産業・経済,労働者福祉施設,労働者福祉施設の情報です。,https://www.city.echizen.lg.jp/office/060/010/sisetuannai.html,「労働者福祉施設（研修施設）のご案内」,2023/7/14,roudousyafukushishisetsu.csv,産業政策課
+農業・林業,越前市地産地消推進の店,越前市が認定している地産地消推進の店の情報です。,https://www.city.echizen.lg.jp/office/kankyounourin/020/tisann_syokuiku.html,「越前市の食育・地産地消の推進について」,2023/7/14,chisanchisyounomise.csv,農政課
+農業・林業,野菜の直売所,越前市内の野菜の直売所の情報です。,https://www.city.echizen.lg.jp/office/kankyounourin/020/syoku/syokuiku2.html,「越前市の食育・地産地消の推進について」,2023/7/14,cyokubaisyo.csv,農政課
+交通・観光・通信,越前市観光情報,越前市内の観光情報（施設・グルメ等）です。,https://www.city.echizen.lg.jp/office/060/050/index.html,「観光案内に関すること」,2023/7/14,landscape.csv,観光誘客課
+交通・観光・通信,越前市のフリースポット,越前市が管理するフリースポットの情報です。,https://www.city.echizen.lg.jp/office/030/021/freespot.html,「越前市公衆無線LAN「フリースポット」」,2023/7/14,freespot.csv,デジタル政策課
+建設・住宅,市営住宅一覧,越前市内の市営住宅の一覧です。,https://www.city.echizen.lg.jp/office/070/040/sieijutaku/sieijutakuannai.html,「市営住宅のご案内」,2023/7/14,sieizyuutaku.csv,建築住宅課
+厚生・社会福祉,介護保険料,令和5年度の介護保険料の保険料区分の情報です。,https://www.city.echizen.lg.jp/office/050/060/hokenryo.html,「介護保険料」,2023/7/14,kaigohokenryo.csv,長寿福祉課
+厚生・社会福祉,市内のお医者さん,市内にある医療機関の情報です。,https://www.city.echizen.lg.jp/office/050/020/kateijidousoudan/kosodateouenshi.html,「子育て応援誌」,2023/7/14,iryoukikan.csv,健康増進課
+厚生・社会福祉,市内AED設置施設,市内の公共施設等に設置されたAED（自動体外式除細動器）の情報です。,https://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,「AED（自動体外式除細動器）設置について」,2023/7/14,AED.csv,健康増進課
+厚生・社会福祉,市内AED設置施設（ポルトガル語）,市内の公共施設等に設置されたAED（自動体外式除細動器）の情報（ポルトガル語）です。,https://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,「AED（自動体外式除細動器）設置について」,2023/7/14,AED.csv,健康増進課
+厚生・社会福祉,健康応援団,「けんこう食メニューの店」「けんこう応援の店」「けんこうステーション」の３つからなる健康応援団の情報です。,https://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html,「健康応援団について」,2023/7/14,kenkououendan.csv,健康増進課
+厚生・社会福祉,越前市の保育園,越前市の保育園一覧です。,https://www.city.echizen.lg.jp/office/050/020/hoikuenichiran.html,「認定こども園・保育園一覧」,2023/7/14,hoikuen.csv,こども家庭課
+厚生・社会福祉,子育て支援施設,子育て支援施設の情報です。,https://www.city.echizen.lg.jp/office/050/020/kateijidousoudan/kosodateouenshi.html,「子育て応援誌」,2023/7/14,kodomofukushi1.csv,こども家庭課
+保健・衛生・環境,越前市町別ごみ収集日,町内別の各ごみ収集日一覧です。,https://www.city.echizen.lg.jp/office/kankyounourin/051/gomirecycle/dasikata-wakekata.html,「ごみの分け方・出し方」,2015/4/20,gomisyusyubi.csv,環境政策課
+保健・衛生・環境,越前市町別ごみ収集日（ポルトガル語）,町内別の各ごみ収集日一覧（ポルトガル語）です。,https://www.city.echizen.lg.jp/office/kankyounourin/051/gomirecycle/dasikata-wakekata.html,「ごみの分け方・出し方」,2015/4/20,gomisyusyubipt.csv,環境政策課
+保健・衛生・環境,越前市50音別ごみ分別表,50音別で表記したごみ分別の情報です。,https://www.city.echizen.lg.jp/office/kankyounourin/051/gomirecycle/dasikata-wakekata.html,「ごみの分け方・出し方」,2023/7/14,gomijp.csv,環境政策課
+保健・衛生・環境,越前市50音別ごみ分別表（ポルトガル語）,50音別で表記したごみ分別の情報（ポルトガル語）です。,https://www.city.echizen.lg.jp/office/kankyounourin/051/gomirecycle/dasikata-wakekata.html,「ごみの分け方・出し方」,2021/1/4,gomipt.csv,環境政策課
+保健・衛生・環境,越前市50音別ごみ分別表（中国語）,50音別で表記したごみ分別の情報（中国語）です。,https://www.city.echizen.lg.jp/office/kankyounourin/051/gomirecycle/dasikata-wakekata.html,「ごみの分け方・出し方」,2021/1/4,gomicn.csv,環境政策課
+電気・ガス・水道,越前市指定給水工事事業者,給水管の工事を行う、越前市指定給水装置工事事業者の情報です。,https://www.city.echizen.lg.jp/office/070/030/siteikyusuisotikoji.html,「水道の修繕、給水管の新設・改造工事　指定給水装置工事事業者」,2023/7/14,suidoukouji.csv,上下水道課
+電気・ガス・水道,越前市排水設備指定工事店（市内）,公共下水道への接続を行う、排水設備指定工事店（市内）の情報です。,https://www.city.echizen.lg.jp/office/070/030/shiteikoujiten.html,「下水道の排水設備工事は指定工事店で」,2023/7/14,shinaihaisuisetsubi.csv,上下水道課
+電気・ガス・水道,越前市排水設備指定工事店（市外）,公共下水道への接続を行う、排水設備指定工事店（市外）の情報です。,https://www.city.echizen.lg.jp/office/070/030/shiteikoujiten.html,「下水道の排水設備工事は指定工事店で」,2023/7/14,shigaihaisuisetsubi.csv,上下水道課
+教育・文化,越前市の小学校児童数,越前市の小学校の児童数（2023.6.1現在）の情報です。,https://www.city.echizen.lg.jp/office/090/020/syogak/syougakko.html,「越前市の小学校」,2023/7/14,syougakkoujidosu.csv,教育振興課
+教育・文化,越前市の中学校生徒数,越前市の中学校の生徒数 （2023.6.1現在）の情報です。,https://www.city.echizen.lg.jp/office/090/020/tyugak/tyuugakko.html,「越前市の中学校」,2023/7/14,cyugakkouseitosu.csv,教育振興課
+教育・文化,菊花マラソンマップ,菊花マラソンマップです。,,「菊花マラソンマップ」,2023/7/14,marasonmap.csv,スポーツ課
+災害・安全,広域避難場所,火災が発生した場合や避難情報を発令し避難を促した場合に開設する広域避難場所一覧です。,https://www.city.echizen.lg.jp/office/010/060/bousai/hinanjo.html,「越前市の防災」,2023/7/24,kouikihinanjyo.csv,防災危機管理課
+災害・安全,広域避難場所（ポルトガル語）,火災が発生した場合や避難情報を発令し避難を促した場合に開設する広域避難場所一覧（ポルトガル語）です。,https://www.city.echizen.lg.jp/office/010/060/bousai/hinanjo.html,「越前市の防災」,2023/7/24,kouikihinanjyopt.csv,防災危機管理課
+災害・安全,広域避難場所（中国語）,火災が発生した場合や避難情報を発令し避難を促した場合に開設する広域避難場所一覧（中国語）です。,https://www.city.echizen.lg.jp/office/010/060/bousai/hinanjo.html,「越前市の防災」,2023/7/24,kouikihinanjyocn.csv,防災危機管理課
+議会・行政,施設一覧,越前市の施設一覧です。,https://www.city.echizen.lg.jp/shisetsu/index.html,「越前市の施設」,2023/7/24,01shisetsu.csv,デジタル政策課
+統計年鑑_第1章 土地・気象,越前市の形成,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2015/3/26,0102echizenshinokeisei.csv,デジタル政策課
+統計年鑑_第1章 土地・気象,土地利用現況面積の推移,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0104tochiriyougenkyoumenseki.csv,デジタル政策課
+統計年鑑_第1章 土地・気象,地目別土地面積（総地積）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0105_01tochimenseki_souchiseki.csv,デジタル政策課
+統計年鑑_第1章 土地・気象,地目別土地面積（評価地積）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0105_02hyoukachiseki.csv,デジタル政策課
+統計年鑑_第1章 土地・気象,気象状況　越前市,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0106kishoujoukyou_echizenshi.csv,デジタル政策課
+統計年鑑_第1章 土地・気象,地震観測（福井県全体）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0107jishinkansoku_fukuiken.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,人口の推移（長期）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0201jinkounosuii_chouki.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,市町別人口・世帯,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0202shichoubetsujinkou.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,市町別年齢別人口,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0204nenreibetsujinkou.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,配偶関係（年齢・男女別15歳以上人口）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0205haigukankei.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,世帯の種類・人員別世帯数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0206shuruibetsusetaisu.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,人口集中地区,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0207jinkoushuchuchiku.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,都市計画区域の人口,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0208toshikeikakukuikijinkou.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,昼間人口,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0209chukanjinkou.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,人口動態（総括）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0210_01jinkoudoutai_soukatsu.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,人口動態（自然増減）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0210_02jinkoudoutai_shizenzougen.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,人口動態（社会増減）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0210_03jinkoudoutai_shakaizougen.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,市町別人口動態,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0211shichoubetsujinkoudoutai.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,住民基本台帳人口,越前市統計年鑑の情報です。（2023.4.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0212juminkihondaichoujinkou.csv,窓口サービス課
+統計年鑑_第2章 人口・労働,年齢別住民基本台帳人口,越前市統計年鑑の情報です。（2023.4.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0213nenreibetsu.csv,窓口サービス課
+統計年鑑_第2章 人口・労働,町別住民基本台帳人口,越前市統計年鑑の情報です。（2023.4.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0214machibetsujumin.csv,窓口サービス課
+統計年鑑_第2章 人口・労働,本籍人口,越前市統計年鑑の情報です。（2022.10.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0215honsekijinkou.csv,窓口サービス課
+統計年鑑_第2章 人口・労働,外国人登録者数,越前市統計年鑑の情報です。（2023.3.31現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0216gaikokujintourokushasu.csv,窓口サービス課
+統計年鑑_第2章 人口・労働,外国人住民数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0216toukeinenkan.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,労働力状態（男女別15歳以上人口）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0217roudouryokujoutai.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,産業別就業者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0218sangyoubetsushugyoushasu.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,常住地による15歳以上就業者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0219_01joujyuchi.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,従業地による15歳以上就業者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0219_02jugyouchi.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,地区別人口,越前市統計年鑑の情報です。（2023.4.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0221chikubetsujinkou.csv,窓口サービス課
+統計年鑑_第2章 人口・労働,地区別人口（住民基本台帳登録人口）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0221toukeinenkan.csv,デジタル政策課
+統計年鑑_第2章 人口・労働,行政区別住民基本台帳人口,越前市統計年鑑の情報です。（2023.4.1現在）,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0223jyuminkihondaicyojinko.csv,窓口サービス課
+統計年鑑_第3章 産業・経済,工業の推移　越前市,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0307toukeinenkan.csv,デジタル政策課
+統計年鑑_第4章 農業・林業,耕地面積,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0408toukeinenkan.csv,デジタル政策課
+統計年鑑_第5章 建設・住宅,新設住宅着工戸数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0507toukeinenkan.csv,デジタル政策課
+統計年鑑_第5章 建設・住宅,共同住宅の供給状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0508toukeinenkan.csv,デジタル政策課
+統計年鑑_第6章 交通・観光・通信,北陸自動車道利用状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0602toukeinenkan.csv,デジタル政策課
+統計年鑑_第6章 交通・観光・通信,ＪＲ旅客輸送状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0603toukeinenkan.csv,デジタル政策課
+統計年鑑_第6章 交通・観光・通信,市民バス利用状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0605toukeinenkan.csv,デジタル政策課
+統計年鑑_第6章 交通・観光・通信,たけふ菊人形入場者数　（有料入場者のみ）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0607toukeinenkan.csv,デジタル政策課
+統計年鑑_第8章 保健・衛生・環境,公害苦情受付件数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0814toukeinenkan.csv,デジタル政策課
+統計年鑑_第9章 厚生・社会福祉,介護保険　要介護認定者数の推移,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0912toukeinenkan.csv,デジタル政策課
+統計年鑑_第9章 厚生・社会福祉,一人暮らし高齢者,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,0916toukeinenkan.csv,デジタル政策課
+統計年鑑_第10章 教育・文化,武生中央図書館利用状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,100701toukeinenkan.csv,デジタル政策課
+統計年鑑_第10章 教育・文化,今立図書館利用状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,100702touekinenkan.csv,デジタル政策課
+統計年鑑_第10章 教育・文化,菊花マラソン参加者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1008toukeinenkan.csv,デジタル政策課
+統計年鑑_第11章 災害・安全,火災発生状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1101toukeinenkan.csv,デジタル政策課
+統計年鑑_第11章 災害・安全,救急出動状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1102toukeinenkan.csv,デジタル政策課
+統計年鑑_第11章 災害・安全,交通事故（人身）発生状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1103toukeinenkan.csv,デジタル政策課
+統計年鑑_第11章 災害・安全,自主防災組織の状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1105toukeinenkan.csv,デジタル政策課
+統計年鑑_第12章 議会・行政,財政規模の推移,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1201zaimukibonosuii.csv,デジタル政策課
+統計年鑑_第12章 議会・行政,一般会計歳入内訳,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1203ippankaikeisainyuu.csv,デジタル政策課
+統計年鑑_第12章 議会・行政,一般会計歳出内訳,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1204ippankaikeisaisyutsu.csv,デジタル政策課
+統計年鑑_第12章 議会・行政,財政指標の状況,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1206zaimushihyoujyoukyou.csv,デジタル政策課
+統計年鑑_第12章 議会・行政,公有財産,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1207kouyuzaisan.csv,デジタル政策課
+統計年鑑_第12章 議会・行政,職員数（一般職）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1209ippansyokuinsu.csv,デジタル政策課
+統計年鑑_第12章 議会・行政,選挙,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1210senkyo.csv,デジタル政策課
+統計年鑑_第12章 議会・行政,選挙人名簿登録者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1211senkyoninmeibo.csv,デジタル政策課
+統計年鑑_第12章 議会・行政,選挙人名簿登録者数,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1211toukeinenkan.csv,デジタル政策課
+統計年鑑_第12章 議会・行政,議会活動の状況（本会議）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1212_01gikaikatsudou.csv,デジタル政策課
+統計年鑑_第12章 議会・行政,議会活動の状況（付議）,越前市統計年鑑の情報です。,https://www.city.echizen.lg.jp/office/030/021/tokei/tokei-joho.html,「越前市統計年鑑」,2023/7/14,1212_02gikaikatsudouhugi.csv,デジタル政策課
