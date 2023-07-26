@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Echizen-City-Opendata-List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+        caption {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-align: left;
+        }
+        .th-title {
+            width: 10%;
+        }
+        .th-description {
+            width: 30%;
+        }
+        .th-csv {
+            width: 25%;
+        }
+        .th-related-link {
+            width: 25%;
+        }
+        .th-last-updated {
+            width: 10%;
+        }
+    </style>
+</head>
+<body>
+    <div id="table-container"></div>
+
+    <script>
+        // CSVデータを解析しオブジェクトの配列に変換する関数
+        function parseCSV(csvData) {
+            var lines = csvData.replace(/\r/g, '').split('\n');
+            var header = lines[0].split(',');
+            var results = [];
+
+            for (var i = 1; i < lines.length; i++) {
+                var obj = {};
+                var currentLine = lines[i].split(',');
+                var field = "";
+                var record = [];
+
+                for (var j = 0; j < currentLine.length; j++) {
+                    field += currentLine[j].trim();
+
+                    if (field.charAt(0) === '"' && field.charAt(field.length - 1) === '"') {
+                        field = field.substr(1, field.length - 2);
+                    }
+
+                    if ((field.match(/"/g) || []).length % 2 === 0) {
+                        record.push(field);
+                        field = "";
+                    } else {
+                        field += ",";
+                    }
+                }
+
+                if (record.length === 1) {
+                    continue;
+                }
+
+                for (var j = 0; j < header.length; j++) {
+                    obj[header[j]] = record[j];
+                }
+
+                results.push(obj);
+            }
+
+            return results;
+        }
+
+        // CSVデータを取得する関数
+        async function fetchData(url) {
+            const response = await fetch(url);
+            const data = await response.text();
+            return data;
+        }
+
+        // CSVデータをHTMLテーブルに変換する関数
+        function convertToHTMLTables(csvData) {
+            const parsedData = parseCSV(csvData);
+            let currentCategory = null;
+            let html = '';
+
+            for (let i = 0; i < parsedData.length; i++) {
+                const rowData = parsedData[i];
+
+                if (rowData['category'] !== currentCategory) {
+                    if (currentCategory !== null) {
+                        html += '</table><br>';
+                    }
+                    currentCategory = rowData['category'];
+                    html += `<table><caption>${currentCategory}</caption>`;
+                    html += '<tr>';
+                    // 項目の順番を変更
+                    html += `<th class="th-title">データ名</th>`;
+                    html += `<th class="th-description">データ概要</th>`;
+                    html += `<th class="th-csv">CSV</th>`;
+                    html += `<th class="th-related-link">関連リンク</th>`;
+                    html += `<th class="th-last-updated">最終更新日</th>`;
+                    // 'attribution_name'列を非表示にするためスキップ
+                    html += `<th style="display:none;">attribution_name</th>`;
+                    html += '</tr>';
+                }
+
+                html += '<tr>';
+                // 項目の順番を変更
+                html += `<td>${rowData['title']}</td>`;
+                html += `<td>${rowData['description']}</td>`;
+                // 'name'列にリンクを追加
+                html += `<td><a href="https://echizencity.github.io/opendata/${rowData['name']}" target="_blank">${rowData['name']}</a></td>`;
+                // 'text'列にURLをリンクとして表示
+                html += `<td><a href="${rowData['url']}" target="_blank">${rowData['attribution_name']}<br>${rowData['text']}</a></td>`;
+                html += `<td>${rowData['Date']}</td>`;
+                // 'attribution_name'列を非表示にするためスキップ
+                html += `<td style="display:none;">${rowData['attribution_name']}</td>`;
+                html += '</tr>';
+            }
+
+            html += '</table>';
+            return html;
+        }
+
+        // CSVデータを取得してHTMLテーブルに変換する
+        async function displayCSVAsTables() {
+            const url = 'https://echizencity.github.io/opendata/opendata_echizen_city.csv';
+            const csvData = await fetchData(url);
+            const tableHTML = convertToHTMLTables(csvData);
+            document.getElementById('table-container').innerHTML = tableHTML;
+        }
+
+        // ページが読み込まれた時に実行
+        window.onload = function () {
+            displayCSVAsTables();
+        };
+    </script>
+</body>
+</html>
