@@ -19,6 +19,9 @@
         th {
             background-color: #f2f2f2;
         }
+        th.name {
+            witdh: 15%;
+        }
         a {
             text-decoration: none;
             color: #007BFF;
@@ -100,7 +103,7 @@
                     html += `<table><caption>${currentCategory}</caption>`;
                     html += '<tr>';
                     // 項目の順番を変更
-                    html += `<th>データ名</th>`;
+                    html += `<th class="name">データ名</th>`;
                     html += `<th>データ概要</th>`;
                     html += `<th>CSV</th>`;
                     html += `<th>関連リンク</th>`;
