@@ -19,9 +19,6 @@
         th {
             background-color: #f2f2f2;
         }
-        th.name {
-            witdh: 15%;
-        }
         a {
             text-decoration: none;
             color: #007BFF;
@@ -103,7 +100,7 @@
                     html += `<table><caption>${currentCategory}</caption>`;
                     html += '<tr>';
                     // 項目の順番を変更
-                    html += `<th class="name">データ名</th>`;
+                    html += `<th>データ名</th>`;
                     html += `<th>データ概要</th>`;
                     html += `<th>CSV</th>`;
                     html += `<th>関連リンク</th>`;
@@ -144,5 +141,13 @@
             displayCSVAsTables();
         };
     </script>
+    <!-- カテゴリの幅を指定するためのcolgroup -->
+    <colgroup>
+        <col style="width: 10%;">
+        <col style="width: 30%;">
+        <col style="width: 25%;">
+        <col style="width: 25%;">
+        <col style="width: 10%;">
+    </colgroup>
 </body>
 </html>
