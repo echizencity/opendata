@@ -10,7 +10,7 @@
 厚生・社会福祉,介護保険料,令和5年度の介護保険料の保険料区分の情報です。,https://www.city.echizen.lg.jp/office/050/060/hokenryo.html,「介護保険料」,2023/7/14,kaigohokenryo.csv,長寿福祉課
 厚生・社会福祉,市内のお医者さん,市内にある医療機関の情報です。,https://www.city.echizen.lg.jp/office/050/020/kateijidousoudan/kosodateouenshi.html,「子育て応援誌」,2023/7/14,iryoukikan.csv,健康増進課
 厚生・社会福祉,市内AED設置施設,市内の公共施設等に設置されたAED（自動体外式除細動器）の情報です。,https://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,「AED（自動体外式除細動器）設置について」,2023/7/14,AED.csv,健康増進課
-厚生・社会福祉,市内AED設置施設（ポルトガル語）,市内の公共施設等に設置されたAED（自動体外式除細動器）の情報（ポルトガル語）です。,https://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,「AED（自動体外式除細動器）設置について」,2023/7/14,AED.csv,健康増進課
+厚生・社会福祉,市内AED設置施設（ポルトガル語）,市内の公共施設等に設置されたAED（自動体外式除細動器）の情報（ポルトガル語）です。,https://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,「AED（自動体外式除細動器）設置について」,2023/7/14,AEDpt.csv,健康増進課
 厚生・社会福祉,健康応援団,「けんこう食メニューの店」「けんこう応援の店」「けんこうステーション」の３つからなる健康応援団の情報です。,https://www.city.echizen.lg.jp/office/050/030/kenkou21/kenkou_ouendan.html,「健康応援団について」,2023/7/14,kenkououendan.csv,健康増進課
 厚生・社会福祉,越前市の保育園,越前市の保育園一覧です。,https://www.city.echizen.lg.jp/office/050/020/hoikuenichiran.html,「認定こども園・保育園一覧」,2023/7/14,hoikuen.csv,こども家庭課
 厚生・社会福祉,子育て支援施設,子育て支援施設の情報です。,https://www.city.echizen.lg.jp/office/050/020/kateijidousoudan/kosodateouenshi.html,「子育て応援誌」,2023/7/14,kodomofukushi1.csv,こども家庭課
