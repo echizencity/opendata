@@ -1,0 +1,17 @@
+﻿id,title,description,image,glbtext,glbtextexpression,glbmodel
+1,区画溝,国府関連施設の区画溝の可能性がある。全景データは掘り下げ前で、掘り下げ後はこのような溝になる,20100_kokufuhakkutsu.png,text01.glb,区画溝,
+2,土師器,この区画溝からは土師器のお椀が出土している,20200_kokufuhakkutsu.png,text02.glb,土師器,model02.glb
+3,溝,東西に走る溝。用途は不明,20300_kokufuhakkutsu.png,text03.glb,溝,
+4,緑釉陶器（三足盤）,盤に三つの足がついた器種。愛知県にある猿投窯で作られたもの,20400_kokufuhakkutsu.png,text04.glb,緑釉陶器,model04.glb
+5,井戸,近世以降の井戸。井戸内は水をくみ上げる際に使用されてた鉄製の筒がある,20500_kokufuhakkutsu.png,text05.glb,井戸,
+6,井戸,江戸期の井戸。木枠が残っており陶磁器や越前焼などの遺物が出土した,20600_kokufuhakkutsu.png,text05.glb,井戸,
+7,土坑（平安時代）,楕円形の土坑。須恵器や土師器が出土している,20700_kokufuhakkutsu.png,text07.glb,土坑（平安時代）,
+8,土坑（中世）,ここからは土師器（赤い皿のこと）が重なって出土している,20800_kokufuhakkutsu.png,text08.glb,土坑（中世）,
+9,灯明皿（土師器）,土師皿。皿の縁に炭化物が付着しており、灯明皿として使われていたものと思われる,20900_kokufuhakkutsu.png,text02.glb,土師器,model09.glb
+10,土坑（平安時代）,調査区北西隅に位置している土坑。残存率の高い須恵器や土師器が出土している,21000_kokufuhakkutsu.png,text07.glb,土坑（平安時代）,
+11,須恵器（杯身・杯蓋）,1200度の高温で焼成して作られた器。高台のつかない杯身と、つまみのある杯蓋がほぼ完形の状態で出土した,21100_kokufuhakkutsu.png,text11.glb,須恵器,model11.glb
+12,土師器（暗文土器）,内外面をヘラで磨いている土師器。金属器を模しているもの,21200_kokufuhakkutsu.png,text02.glb,土師器,model12.glb
+13,柱穴（平安時代）,須恵器の蓋が完形で出土した柱穴。須恵器の年代から、平安時代の柱穴と思われる,21300_kokufuhakkutsu.png,text13.glb,柱穴（平安時代）,
+14,須恵器（蓋）,白色の須恵器。通常より焼きが甘あったため、灰色ではなく白色に仕上がっている。完形で出土,21400_kokufuhakkutsu.png,text11.glb,須恵器,model14.glb
+15,小さな穴はすべて柱穴扱い,柱穴とは、柱を立てるための穴,21500_kokufuhakkutsu.png,text15.glb,柱穴,
+16,小さな穴はすべて柱穴扱い,柱穴とは、柱を立てるための穴,21600_kokufuhakkutsu.png,text15.glb,柱穴,
