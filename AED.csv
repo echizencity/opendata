@@ -1,7 +1,6 @@
 ﻿https://schema.org/name,https://schema.org/address,https://code4fukui.github.io/rdf/#echizen_city_origin,https://code4fukui.github.io/rdf/#category1,https://code4fukui.github.io/rdf/#category2,https://code4fukui.github.io/rdf/#category3,https://schema.org/name,https://schema.org/url,https://code4fukui.github.io/rdf/#echizen_city_area,https://code4fukui.github.io/rdf/#counts,http://www.w3.org/2003/01/geo/wgs84_pos#lat,http://www.w3.org/2003/01/geo/wgs84_pos#long
 いまだて芸術館,粟田部町１１－１－１,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,粟田部地区,1,35.918724,136.247273
-花筐児童館,粟田部町４１－１１－１,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,粟田部地区,1,35.91417364,136.2408791
-花筺公民館,粟田部町４１－１１－１,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,粟田部地区,1,35.91417364,136.2408791
+花筐児童館・公民館,粟田部町４１－１１－１,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,粟田部地区,1,35.91417364,136.2408791
 花筺小学校,粟田部町４１－１２,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,粟田部地区,1,35.914121,136.240394
 越前市今立総合支所（あいぱーく今立）,粟田部町９－１－９,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,粟田部地区,1,35.919288,136.246507
 健康増進課,府中一丁目１３－７,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,一般貸出用,1,35.90388974,136.1688023
@@ -42,7 +41,6 @@
 神山公民館,広瀬町１０２－５５－２,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,神山地区,1,35.885883,136.135509
 かこさとしふるさと記念館　石石,高瀬一丁目１４－７,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,西地区,1,35.895886,136.156967
 文化センター,高瀬二丁目３－３,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,西地区,1,35.899549,136.1601
-なかよし保育園,高瀬二丁目４－１４,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,西地区,1,35.898993,136.160825
 武生中央公園　管理事務所,高瀬二丁目７－１２４,健康,健康増進課,健康,AED,自動体外式除細動器,,西地区,1,35.90026157,136.1574532
 越前市中央図書館,高瀬二丁目７－２４,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,西地区,1,35.899074,136.159053
 武生中央公園庭球場管理棟,高瀬二丁目7-81,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,西地区,1,35.898129,136.156577
@@ -51,10 +49,9 @@
 越前市武道館,中央一丁目８－１５－１,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,西地区,1,35.900917,136.156396
 武生西小学校,中央二丁目２－１３,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,西地区,1,35.902275,136.158174
 武生西児童センター,中央二丁目４－１０,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,西地区,1,35.902455,136.156902
-西公民館,中央二丁目５－３５,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,西地区,1,35.90211,136.156473
+武生西公民館,中央二丁目５－３５,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,西地区,1,35.90211,136.156473
 武生第一中学校,平出一丁目６－１,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,西地区,1,35.908059,136.158261
 大虫小学校,高森町１４－１５,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,大虫地区,1,35.906208,136.141866
-上太田保育園,上太田町１１－２,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,大虫地区,1,35.900546,136.151307
 大虫公民館,丹生郷町１３－２０－１,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,大虫地区,1,35.907675,136.141474
 大虫体育館,丹生郷町１３－２０－１,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,大虫地区,1,35.907675,136.141474
 大虫児童館,丹生郷町１３－２０－４,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,大虫地区,1,35.908122,136.141508
@@ -68,11 +65,11 @@
 ふるさとギャラリー叔羅,東千福町１７－１７,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南地区,1,35.889033,136.15878
 紫ゆかりの館,東千福町21−12,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南地区,1,35.890253,136.156634
 武生南児童センター,武生柳町１１－２８,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南地区,1,35.895558,136.164731
-南公民館,武生柳町１２－２７,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南地区,1,35.895288,136.164072
+武生南公民館,武生柳町１２－２７,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南地区,1,35.895288,136.164072
 武生南小学校,武生柳町１３－２０,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南地区,1,35.894297,136.164381
 越前市弓道場,妙法寺町３６－２－１,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南地区,1,35.886612,136.16102
 武生第二中学校,妙法寺町４２－１５,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南地区,1,35.887381,136.160379
-南中山児童館,西庄境町２１－７－１,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南中山地区,1,35.92922,136.248162
+南中山児童館・公民館,西庄境町２１－７－１,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南中山地区,1,35.92922,136.248162
 南中山小学校,中津山町３８－１３－２,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南中山地区,1,35.929614,136.246809
 認定こども園南中山,中津山町４１－１３－２,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/031/aedzidoutaigaisikizyozaidouki.html,南中山地区,1,35.929369,136.245963
 南越中学校,野岡町２８－４,健康,健康増進課,健康,AED,自動体外式除細動器,http://www.city.echizen.lg.jp/office/050/030/aedzidoutaigaisikizyozaidouki.html,南中山地区,1,35.926126,136.249742
@@ -105,3 +102,6 @@
 市民プラザたけふ,府中一丁目１１－２,健康,健康増進課,健康,AED,自動体外式除細動器,,東地区,1,35.90420618,136.1703909
 武生中央公園温水プール,府中一丁目１３－７,健康,健康増進課,健康,AED,自動体外式除細動器,,東地区,1,35.89829311,136.1560517
 武生公会堂記念館,蓬莱町８－８,健康,健康増進課,健康,AED,自動体外式除細動器,,東地区,1,35.90178115,136.1683153
+にじいろこども園,中央二丁目２－２７,健康,健康増進課,健康,AED,自動体外式除細動器,,西地区,1,35.90219,136.15717
+服間公民館,藤木町１２－３９－１,健康,健康増進課,健康,AED,自動体外式除細動器,,服間地区,1,35.93503,136.26398
+しきぶ温泉湯楽里,白崎町６８－８,健康,健康増進課,健康,AED,自動体外式除細動器,,王子保地区,1,35.8636,136.14462
