@@ -1,10 +1,10 @@
 ﻿path,name,description,url
-./models/model01.glb,平瓦（古代）,建物の屋根に置かれた瓦の破片です。瓦の表面に網目のような模様があることが古代の瓦の特徴です。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
-./models/model02.glb,須恵器,浅い皿が半分に割れた状態で見つかりました。平安時代の人が食器として使っていました。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
-./models/model03.glb,越前焼,内側に扇状の波のような模様がある鉢です。越前焼の鉢の多くはすり鉢の場合が多いため、珍しいものになります。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
-./models/model04.glb,瓦質土器,瓦のような質感で煤けたような色合いが特徴。香炉はお香を焚くために使用する器です。渦巻の文様があります。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
-./models/model05.glb,平瓦（平安時代）,建物の屋根に置かれた瓦の破片です。瓦の表面に網目のような模様があることが古代の瓦の特徴です。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
-./models/model06.glb,穴1（須恵器など）,高坏は器と脚をつなげたような形が特徴です。脚の部分のみ出土しています。椀は底の部分のみ見つかっています。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
-./models/model07.glb,穴2（土師器など）,土師器や須恵器の食器類がまとまって出土しました。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
-./models/model08.glb,穴3（土師器など）,土師器や須恵器の食器類がまとまって出土しました。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./model01.glb,平瓦（古代）,建物の屋根に置かれた瓦の破片です。瓦の表面に網目のような模様があることが古代の瓦の特徴です。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./model02.glb,須恵器,浅い皿が半分に割れた状態で見つかりました。平安時代の人が食器として使っていました。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./model03.glb,越前焼,内側に扇状の波のような模様がある鉢です。越前焼の鉢の多くはすり鉢の場合が多いため、珍しいものになります。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./model04.glb,瓦質土器,瓦のような質感で煤けたような色合いが特徴。香炉はお香を焚くために使用する器です。渦巻の文様があります。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./model05.glb,平瓦（平安時代）,建物の屋根に置かれた瓦の破片です。瓦の表面に網目のような模様があることが古代の瓦の特徴です。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./model06.glb,穴1（須恵器など）,高坏は器と脚をつなげたような形が特徴です。脚の部分のみ出土しています。椀は底の部分のみ見つかっています。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./model07.glb,穴2（土師器など）,土師器や須恵器の食器類がまとまって出土しました。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./model08.glb,穴3（土師器など）,土師器や須恵器の食器類がまとまって出土しました。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
 https://echizencity.github.io/opendata/kokufuhakkutsu3/00101_kokufuhakkutsu3_small.glb,	遺構2025,2023年度から5年をかけて、平安時代には越前市におかれていたといわれる越前国の国府（政治の中心地）を探すための調査をしています。2025年度の発掘調査では、古代の柱の穴の跡や中世、近世の用途のわからない穴が複数見つかっています。また、古代の瓦片が2点見つかっています。平安時代、国府の中心施設や寺院関係など限られた建物でしか瓦を使っていなかったため、付近にそういった建物がある可能性があります。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
